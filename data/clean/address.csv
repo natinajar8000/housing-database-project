@@ -1,0 +1,4650 @@
+address_id,city_code,street,house_number,zip_code
+1001,ROTTERDAM,West-Varkenoordseweg,,3074 HN
+1002,AMSTERDAM,Parelstraat,,1018 AS
+1003,AMSTERDAM,Zeilstraat,,1075 SB
+1004,ROTTERDAM,Zwart Janstraat,,3035 AK
+1005,GRONINGEN,Nieuwe Kijk in 't Jatstraat,,9712 SH
+1006,ROTTERDAM,Willem Ruyslaan,,3063 ER
+1007,MAASTRICHT,Brusselseweg,,6217 GX
+1008,ROTTERDAM,Donkerslootstraat,,3074 WL
+1009,AMSTERDAM,Wouwermanstraat,,1071 LV
+1010,TILBURG,Armhoefstraat,,5018 EJ
+1011,ROTTERDAM,Strevelsweg,,3075 AR
+1012,ROTTERDAM,Boergoensestraat,,3082 KA
+1013,AMSTERDAM,Groenhoven,,1103 LW
+1014,ROTTERDAM,Jaersveltstraat,,3082 SJ
+1015,MAASTRICHT,Tongerseweg,,6213 GB
+1016,EINDHOVEN,Guido Gezellestraat,,5615 HL
+1017,AMSTERDAM,Ank van der Moerstraat,,1065 LH
+1018,MAASTRICHT,Tongerseweg,,6213 GA
+1019,EINDHOVEN,Nassaustraat,,5616 AG
+1020,TILBURG,Nijverstraat,,5041 AH
+1021,UTRECHT,Zonstraat,,3581 MT
+1022,AMSTERDAM,Wolbrantskerkweg,,1069 DA
+1023,GRONINGEN,Dijkstraat,,9724 KX
+1024,AMSTERDAM,Willemsparkweg,,1071 GR
+1025,AMSTERDAM,Hillegomstraat,,1058 LN
+1026,UTRECHT,Van Asch van Wijckskade,,3512 VN
+1027,AMSTERDAM,Uiterwaardenstraat,,1079 DD
+1028,GRONINGEN,Borneoplein,,9715 GN
+1029,ROTTERDAM,Oostzeedijk,,3063 CC
+1030,AMSTERDAM,Glitterstraat,,1103 SK
+1031,ROTTERDAM,Philip Vingboonsstraat,,3067 ZC
+1032,ROTTERDAM,Putsebocht,,3073 HH
+1033,AMSTERDAM,Rapenburgerstraat,,1011 VL
+1034,LEIDEN,Vrijheidslaan,,2321 DW
+1035,AMSTERDAM,Wamelstraat,,1106 DL
+1036,ROTTERDAM,Schoonderloostraat,,3024 TX
+1037,DEN HAAG,Van Tuyllstraat,,2586 VX
+1038,DEN HAAG,Hobbemastraat,,2526 JX
+1039,UTRECHT,Tolsteegsingel,,3582 AG
+1040,ROTTERDAM,Jaersveltstraat,,3082 SG
+1041,TILBURG,Enschotsestraat,,5014 DD
+1042,GRONINGEN,Schuitendiep,,9711 RE
+1043,AMSTERDAM,Kinkerstraat,,1053 DB
+1044,AMSTERDAM,Osdorper Ban,,1069 GA
+1045,DEN HAAG,Jacob Schorerlaan,,2525 ZA
+1046,GRONINGEN,Ernst Casimirlaan,,9717 AV
+1047,NIJMEGEN,Gerard Noodtstraat,,6511 SW
+1048,AMSTERDAM,Klaprozenweg,,1032 KK
+1049,ROTTERDAM,Langelo,,3085 AK
+1050,DEN HAAG,Paviljoensgracht,,2512 BP
+1051,ROTTERDAM,Slotstraat,,3062 PP
+1052,AMSTERDAM,Ecuplein,,1060 RN
+1053,ROTTERDAM,Van Oosterzeestraat,,3022 XL
+1054,GRONINGEN,Hofstraat,,9712 JB
+1055,UTRECHT,Europaplein,,3526 WB
+1056,UTRECHT,Oudegracht,,3511 NJ
+1057,AMSTERDAM,Marconistraat,,1098 TG
+1058,GRONINGEN,E. Thomassen a Thuessinklaan,,9713 JW
+1059,LEIDEN,Mozartstraat,,2324 XT
+1060,GRONINGEN,Korreweg,,9714 AB
+1061,AMSTERDAM,Govert Flinckstraat,,1073 CD
+1062,MAASTRICHT,Duitsepoort,,6221 VA
+1063,MAASTRICHT,Clavecymbelstraat,,6217 CP
+1064,MAASTRICHT,Maastrichter Heidenstraat,,6211 HV
+1065,MAASTRICHT,Mergelweg,,6212 XH
+1066,MAASTRICHT,Wycker Brugstraat,,6221 EB
+1067,AMSTERDAM,Tussendek,,1034 TV
+1068,AMSTERDAM,IJburglaan,,1087 EN
+1069,GRONINGEN,Marsstraat,,9742 ER
+1070,GRONINGEN,Prinsesseweg,,9717 BA
+1071,DEN HAAG,Van Hoytemastraat,,2596 EP
+1072,GRONINGEN,Korreweg,,9715 AN
+1073,AMSTERDAM,Coornhertstraat,,1064 JL
+1074,DEN HAAG,Larensestraat,,2574 VN
+1075,ROTTERDAM,Tapuitstraat,,3083 WR
+1076,ROTTERDAM,Schiekade,,3032 AJ
+1077,AMSTERDAM,Pietersbergweg,,1105 BM
+1078,AMSTERDAM,Veembroederhof,,1019 HD
+1079,LEIDEN,Van 's-Gravensandestraat,,2321 ER
+1080,DEN HAAG,Jan van Beersstraat,,2523 KA
+1081,ROTTERDAM,Spoorsingel,,3033 GJ
+1082,AMSTERDAM,Haarlemmer Houttuinen,,1013 GM
+1083,GRONINGEN,Hoornsediep,,9725 HL
+1084,TILBURG,Korvelseweg,,5025 JB
+1085,DEN HAAG,Kepplerstraat,,2562 VW
+1086,DEN HAAG,Linnaeusstraat,,2522 GX
+1087,AMSTERDAM,Tweede Looiersdwarsstraat,,1016 VN
+1088,AMSTERDAM,Aalbersestraat,,1067 GL
+1089,AMSTERDAM,Eerste Atjehstraat,,1094 KP
+1090,AMSTERDAM,Fritz Conijnstraat,,1063 CD
+1091,AMSTERDAM,Oudezijds Achterburgwal,,1012 DJ
+1092,AMSTERDAM,Mary van der Sluisstraat,,1095 ME
+1093,ROTTERDAM,Essenburgstraat,,3022 MA
+1094,AMSTERDAM,Dikninge,,1083 VA
+1095,NIJMEGEN,Lankforst,,6538 HJ
+1096,GRONINGEN,Admiraal de Ruyterlaan,,9726 GV
+1097,GRONINGEN,Boterdiep,,9712 LL
+1098,UTRECHT,Vleutenseweg,,3532 HJ
+1099,DEN HAAG,Jonckbloetplein,,2523 AP
+1100,NIJMEGEN,van Welderenstraat,,6511 MA
+1101,GRONINGEN,Oosterweg,,9724 CK
+1102,GRONINGEN,Folkingedwarsstraat,,9711 JJ
+1103,NIJMEGEN,Niek Engelschmanlaan,,6532 CP
+1104,AMSTERDAM,Borgerstraat,,1053 PD
+1105,AMSTERDAM,Tweede Oosterparkstraat,,1092 BN
+1106,AMSTERDAM,Louwesweg,,1066 EA
+1107,AMSTERDAM,Vincent van Goghstraat,,1072 KN
+1108,AMSTERDAM,Lorreinenstraat,,1055 DB
+1109,AMSTERDAM,Rustenburgerstraat,,1073 GG
+1110,GRONINGEN,Willem Barentzstraat,,9718 BC
+1111,TILBURG,Gasthuisring,,5041 DS
+1112,GRONINGEN,Van Ketwich Verschuurlaan,,9721 SH
+1113,GRONINGEN,Merwedestraat,,9725 KA
+1114,ROTTERDAM,Verlengde Nieuwstraat,,3011 GX
+1115,ROTTERDAM,Dahliastraat,,3073 BE
+1116,GRONINGEN,Friesestraatweg,,9718 ND
+1117,ROTTERDAM,Zevenkampse Ring,,3069 MD
+1118,GRONINGEN,Gorechtkade,,9713 BD
+1119,AMSTERDAM,Oostakkerstraat,,1066 HR
+1120,DEN HAAG,Willem van Outhoornstraat,,2593 ZZ
+1121,AMSTERDAM,Orteliuskade,,1057 AL
+1122,AMSTERDAM,Emfuleni,,1103 AP
+1123,ROTTERDAM,Driemorgenstraat,,3083 GA
+1124,ROTTERDAM,Goudsesingel,,3011 KM
+1125,ROTTERDAM,Insulindestraat,,3038 JV
+1126,UTRECHT,Barnsteenlaan,,3523 BB
+1127,ROTTERDAM,Grote Visserijstraat,,3026 CC
+1128,AMSTERDAM,Waddendijk,,1025 PJ
+1129,ROTTERDAM,Groenendaal,,3011 SJ
+1130,DEN HAAG,Gramsbergenlaan,,2541 AL
+1131,GRONINGEN,Rabenhauptstraat,,9725 CE
+1132,AMSTERDAM,Spuistraat,,1012 SR
+1133,AMSTERDAM,Lange Leidsedwarsstraat,,1017 NE
+1134,MAASTRICHT,Wethouder van Caldenborghlaan,,6226 BR
+1135,EINDHOVEN,Smetsakker,,5625 SG
+1136,MAASTRICHT,Meerssenerweg,,6222 AL
+1137,TILBURG,Houtstraat,,5046 DL
+1138,ROTTERDAM,Kortebrantstraat,,3031 PN
+1139,EINDHOVEN,Tramstraat,,5611 CR
+1140,GRONINGEN,Westersingel,,9718 CB
+1141,UTRECHT,Arnodreef,,3561 GK
+1142,ROTTERDAM,Oostplein,,3011 KX
+1143,ROTTERDAM,J.H. van den Broekstraat,,3071 MB
+1144,LEIDEN,Tesselschadestraat,,2332 BJ
+1145,EINDHOVEN,Zevenbergenstraat,,5652 JP
+1146,DEN HAAG,Van Speijkstraat,,2518 GD
+1147,AMSTERDAM,Saxenburgerdwarsstraat,,1054 KS
+1148,MAASTRICHT,Tongerseweg,,6215 AD
+1149,MAASTRICHT,Ambyerstraat Noord,,6225 EJ
+1150,GRONINGEN,Schuitemakersstraat,,9711 HW
+1151,EINDHOVEN,Mimosaplein,,5643 CJ
+1152,UTRECHT,Spinozaweg,,3532 SC
+1153,AMSTERDAM,Blauwvoetstraat,,1061 BT
+1154,AMSTERDAM,Curacaostraat,,1058 BS
+1155,MAASTRICHT,Herbenusstraat,,6211 RB
+1156,MAASTRICHT,Hoenderstraat,,6211 EM
+1157,MAASTRICHT,Wycker Grachtstraat,,6221 CW
+1158,MAASTRICHT,Volksbondweg,,6214 AP
+1159,MAASTRICHT,Kommel,,6211 NX
+1160,AMSTERDAM,Hartelstein,,1082 AJ
+1161,ROTTERDAM,Mathenesserdijk,,3027 BN
+1162,NIJMEGEN,Wijnbesstraat,,6543 TK
+1163,AMSTERDAM,Tweede Disteldwarsstraat,,1031 XM
+1164,DEN HAAG,Ankerstraat,,2586 RJ
+1165,AMSTERDAM,Adelaarsweg,,1021 BM
+1166,GRONINGEN,Zonnelaan,,9742 BE
+1167,AMSTERDAM,Emmy Andriessestraat,,1087 ML
+1168,AMSTERDAM,Hembrugstraat,,1013 XC
+1169,AMSTERDAM,Van Nijenrodeweg,,1082 JJ
+1170,AMSTERDAM,Talbotstraat,,1087 DE
+1171,AMSTERDAM,Rijnstraat,,1079 HT
+1172,GRONINGEN,Wassenberghstraat,,9718 LM
+1173,ROTTERDAM,Naardermeer,,3068 KH
+1174,AMSTERDAM,Ferdinand Bolstraat,,1072 LC
+1175,NIJMEGEN,Glashuis,,6511 CR
+1176,AMSTERDAM,Govert Flinckstraat,,1072 EM
+1177,ROTTERDAM,Pannekoekstraat,,3011 LG
+1178,ROTTERDAM,Leopoldstraat,,3031 ST
+1179,AMSTERDAM,Boutensstraat,,1064 SM
+1180,GRONINGEN,Poelestraat,,9712 KC
+1181,AMSTERDAM,Kinderdijkstraat,,1079 GB
+1182,GRONINGEN,Fivelstraat,,9715 BD
+1183,GRONINGEN,C.H. Petersstraat,,9714 CG
+1184,GRONINGEN,Hora Siccamasingel,,9721 HM
+1185,GRONINGEN,Lodewijkstraat,,9724 BC
+1186,ROTTERDAM,Dorpsweg,,3083 LC
+1187,DEN HAAG,Jan van Beersstraat,,2523 JX
+1188,ROTTERDAM,Katendrechtse Lagedijk,,3081 ZE
+1189,LEIDEN,Oude Vest,,2312 XV
+1190,GRONINGEN,Berkelstraat,,9725 GZ
+1191,EINDHOVEN,Rachmaninowlaan,,5653 AS
+1192,UTRECHT,2e Atjehstraat,,3531 SV
+1193,DEN HAAG,Raamweg,,2596 HN
+1194,DEN HAAG,Soestdijksekade,,2574 BK
+1195,DEN HAAG,Reinwardtstraat,,2522 AA
+1196,AMSTERDAM,Leenhofstraat,,1067 LA
+1197,UTRECHT,Koekoeksplein,,3514 TT
+1198,NIJMEGEN,Hatertseweg,,6533 AD
+1199,AMSTERDAM,Vier Heemskinderenstraat,,1055 LN
+1200,AMSTERDAM,Derde Weteringdwarsstraat,,1017 TC
+1201,LEIDEN,Lammermarkt,,2312 CM
+1202,ROTTERDAM,Ogierssingel,,3076 CN
+1203,DEN HAAG,Helmersstraat,,2513 SB
+1204,EINDHOVEN,Piuslaan,,5614 HS
+1205,AMSTERDAM,Joan Muyskenweg,,1096 CJ
+1206,AMSTERDAM,Houdringe,,1025 BD
+1207,ROTTERDAM,Jan Porcellisstraat,,3021 TN
+1208,GRONINGEN,Riouwstraat,,9715 BS
+1209,ROTTERDAM,Kees van Dongenhof,,3024 NK
+1210,AMSTERDAM,Christiaan de Wetstraat,,1091 MD
+1211,ROTTERDAM,Stavenissestraat,,3086 RE
+1212,UTRECHT,Bergstraat,,3511 RS
+1213,NIJMEGEN,Waterstraat,,6541 TE
+1214,ROTTERDAM,Rochussenstraat,,3023 DE
+1215,TILBURG,Superior de Beerstraat,,5046 HC
+1216,ROTTERDAM,Bellevoysstraat,,3021 TG
+1217,AMSTERDAM,Burgemeester Hogguerstraat,,1064 EJ
+1218,ROTTERDAM,Adriaan Kooningsstraat,,3077 ML
+1219,DEN HAAG,Kuinrestraat,,2541 VT
+1220,DEN HAAG,Lage Nieuwstraat,,2512 VX
+1221,EINDHOVEN,Leenderweg,,5614 HL
+1222,AMSTERDAM,Joos Banckersweg,,1056 EP
+1223,GRONINGEN,Landstraat,,9714 GP
+1224,NIJMEGEN,Menkemaborgstraat,,6535 MC
+1225,GRONINGEN,Verlengde Nieuwstraat,,9724 HB
+1226,MAASTRICHT,Meerssenerweg,,6222 AK
+1227,GRONINGEN,Jan van Goyenstraat,,9718 NX
+1228,AMSTERDAM,Goudsbloemstraat,,1015 JJ
+1229,AMSTERDAM,Slotermeerlaan,,1064 GZ
+1230,AMSTERDAM,Amstelkade,,1078 AN
+1231,ROTTERDAM,Rietdijk,,3082 DS
+1232,NIJMEGEN,von Fraunhoferhof,,6533 DX
+1233,ROTTERDAM,Geuzenstraat,,3023 PG
+1234,AMSTERDAM,Bremstraat,,1031 ES
+1235,GRONINGEN,Otto Eerelmanstraat,,9718 JZ
+1236,AMSTERDAM,Willem Molengraaffstraat,,1063 LL
+1237,MAASTRICHT,Menno van Coehoornstraat,,6217 LS
+1238,AMSTERDAM,Schelluinenstraat,,1107 JG
+1239,GRONINGEN,Admiraal de Ruyterlaan,,9726 GP
+1240,AMSTERDAM,Vrolikstraat,,1091 VB
+1241,NIJMEGEN,Berg en Dalseweg,,6522 BR
+1242,GRONINGEN,De Brink,,9723 AM
+1243,ROTTERDAM,Akkermanstraat,,3082 WB
+1244,AMSTERDAM,Spaarndammerstraat,,1013 SV
+1245,TILBURG,Nieuwlandstraat,,5038 SL
+1246,AMSTERDAM,Passeerdersstraat,,1016 XC
+1247,NIJMEGEN,Dromedarisstraat,,6531 NS
+1248,UTRECHT,Marnixlaan,,3552 HC
+1249,UTRECHT,Euterpedreef,,3561 CZ
+1250,GRONINGEN,Tuinbouwstraat,,9717 JA
+1251,AMSTERDAM,Aaf Bouberstraat,,1065 LS
+1252,DEN HAAG,Jurriaan Kokstraat,,2586 SN
+1253,AMSTERDAM,Kuipersstraat,,1074 EJ
+1254,DEN HAAG,Regentesselaan,,2562 CT
+1255,ROTTERDAM,Waterloostraat,,3062 TL
+1256,DEN HAAG,Newtonstraat,,2562 KK
+1257,MAASTRICHT,Meester Ulrichweg,,6214 PW
+1258,DEN HAAG,Bleijenburg,,2511 VD
+1259,NIJMEGEN,van Berchenstraat,,6511 BC
+1260,GRONINGEN,Bedumerstraat,,9716 BN
+1261,AMSTERDAM,Jacob Krausstraat,,1065 GH
+1262,AMSTERDAM,Assumburg,,1081 GC
+1263,TILBURG,Piusstraat,,5021 JC
+1264,UTRECHT,Jutfaseweg,,3522 HM
+1265,ROTTERDAM,Franselaan,,3028 AS
+1266,LEIDEN,Hooigracht,,2312 KM
+1267,AMSTERDAM,Granidastraat,,1055 HJ
+1268,ROTTERDAM,Vlietlaan,,3061 DT
+1269,ROTTERDAM,Kleiweg,,3051 GH
+1270,LEIDEN,Rapenburg,,2311 GH
+1271,UTRECHT,Marco Pololaan,,3526 GD
+1272,AMSTERDAM,Trompenburgstraat,,1079 TV
+1273,NIJMEGEN,Nieuwe Nonnendaalseweg,,6542 PA
+1274,UTRECHT,Walnootstraat,,3552 GS
+1275,EINDHOVEN,Hertog Hendrik van Brabantplein,,5611 PG
+1276,MAASTRICHT,Franquinetstraat,,6217 KT
+1277,ROTTERDAM,Prinsenlaan,,3067 TZ
+1278,ROTTERDAM,Hoofdweg,,3067 GJ
+1279,TILBURG,Poststraat,,5038 DH
+1280,ROTTERDAM,Scheepmakerskade,,3011 VX
+1281,AMSTERDAM,Hildo Kropplein,,1019 EX
+1282,UTRECHT,Amsterdamsestraatweg,,3555 HH
+1283,AMSTERDAM,Kromme-Mijdrechtstraat,,1079 KT
+1284,ROTTERDAM,Prins Frederik Hendrikstraat,,3051 ER
+1285,GRONINGEN,Pop Dijkemaweg,,9731 BA
+1286,ROTTERDAM,Putselaan,,3072 CG
+1287,ROTTERDAM,Beukelsdijk,,3022 DL
+1288,MAASTRICHT,Heilige Geest,,6211 CM
+1289,MAASTRICHT,Sint Maartenspoort,,6221 BA
+1290,AMSTERDAM,Surinameplein,,1058 GM
+1291,AMSTERDAM,Valutaboulevard,,1060 RX
+1292,UTRECHT,Amsterdamsestraatweg,,3551 CV
+1293,AMSTERDAM,Burgemeester Hogguerstraat,,1064 ED
+1294,GRONINGEN,Koeriersterweg,,9727 AB
+1295,TILBURG,Stationsstraat,,5038 EC
+1296,AMSTERDAM,Jan van Riebeekstraat,,1057 ZX
+1297,NIJMEGEN,Professor Hoogveldstraat,,6524 PK
+1298,TILBURG,Molenstraat,,5014 ND
+1299,NIJMEGEN,Groesbeeksedwarsweg,,6521 DS
+1300,AMSTERDAM,Prinsengracht,,1017 JG
+1301,AMSTERDAM,Van de Sande Bakhuijzenstraat,,1061 AG
+1302,AMSTERDAM,Roomtuintjes,,1093 TA
+1303,AMSTERDAM,Brederodestraat,,1054 VD
+1304,DEN HAAG,Lunterenstraat,,2573 PJ
+1305,ROTTERDAM,Hoge Boezem,,3061 CM
+1306,AMSTERDAM,Komijnstraat,,1104 HP
+1307,AMSTERDAM,J. Calsstraat,,1067 WG
+1308,NIJMEGEN,Zellersacker,,6546 HJ
+1309,MAASTRICHT,Secretaris Waberstraat,,6226 CJ
+1310,AMSTERDAM,Vechtstraat,,1078 RH
+1311,AMSTERDAM,Loenermark,,1025 VN
+1312,AMSTERDAM,S. F. van Ossstraat,,1068 JM
+1313,AMSTERDAM,Minahassastraat,,1094 RV
+1314,DEN HAAG,Van Speijkstraat,,2518 EW
+1315,AMSTERDAM,Abebe Bikilalaan,,1034 WL
+1316,ROTTERDAM,Vierambachtsstraat,,3023 AP
+1317,UTRECHT,Eduard Verkadelaan,,3584 GS
+1318,ROTTERDAM,Utenhagestraat,,3083 VP
+1319,ROTTERDAM,Mathenesserweg,,3026 HH
+1320,EINDHOVEN,Heezerweg,,5614 HH
+1321,AMSTERDAM,Daalwijk,,1102 AA
+1322,ROTTERDAM,Groen van Prinstererstraat,,3038 RJ
+1323,ROTTERDAM,Hendrick Staetsweg,,3067 HR
+1324,GRONINGEN,Diephuisstraat,,9714 GS
+1325,GRONINGEN,Gedempte Zuiderdiep,,9711 HK
+1326,AMSTERDAM,Nieuwpoortstraat,,1055 RZ
+1327,AMSTERDAM,Koningin Wilhelminaplein,,1062 KS
+1328,LEIDEN,Cameliadal,,2317 HK
+1329,UTRECHT,Dirkje Mariastraat,,3551 SK
+1330,NIJMEGEN,van Oldenbarneveltstraat,,6512 AT
+1331,EINDHOVEN,Willem van Millenberchstraat,,5611 PS
+1332,ROTTERDAM,Schiedamseweg,,3025 AN
+1333,GRONINGEN,Pluimerstraat,,9711 SV
+1334,AMSTERDAM,De Lierhof,,1059 WE
+1335,AMSTERDAM,Marcantilaan,,1051 NK
+1336,MAASTRICHT,Eburonenweg,,6224 HT
+1337,GRONINGEN,Rademarkt,,9711 CV
+1338,AMSTERDAM,Cornelis Drebbelstraat,,1097 AL
+1339,LEIDEN,Jacob van Campenlaan,,2321 GE
+1340,TILBURG,Brucknerlaan,,5011 DH
+1341,ROTTERDAM,Walchersestraat,,3083 NT
+1342,AMSTERDAM,Kerstomaatplantsoen,,1104 VE
+1343,ROTTERDAM,Beatrijsstraat,,3021 RE
+1344,ROTTERDAM,Maaskade,,3071 NA
+1345,TILBURG,Akkerstraat,,5025 MG
+1346,TILBURG,Sint Josephstraat,,5017 GK
+1347,TILBURG,Gasthuisring,,5041 DP
+1348,LEIDEN,Groenesteeg,,2312 TJ
+1349,AMSTERDAM,Jan van Riebeekstraat,,1057 ZZ
+1350,EINDHOVEN,Leenderweg,,5643 AH
+1351,AMSTERDAM,Chico Mendesstraat,,1102 JE
+1352,AMSTERDAM,Erik de Roodestraat,,1056 AL
+1353,AMSTERDAM,Clauskindereweg,,1069 HN
+1354,GRONINGEN,Agricolastraat,,9711 TS
+1355,ROTTERDAM,Vierambachtsstraat,,3023 AM
+1356,AMSTERDAM,Bestevaerstraat,,1056 HN
+1357,AMSTERDAM,Amstelveenseweg,,1075 XN
+1358,LEIDEN,Herensingel,,2316 JV
+1359,GRONINGEN,Turfsingel,,9712 KM
+1360,MAASTRICHT,Bilserbaan,,6217 JE
+1361,EINDHOVEN,Tramstraat,,5611 CN
+1362,AMSTERDAM,Charlotte Brontestraat,,1102 XH
+1363,TILBURG,Tongerlose Hoefstraat,,5046 ND
+1364,AMSTERDAM,Kuipersstraat,,1073 ER
+1365,GRONINGEN,Peizerweg,,9726 JC
+1366,AMSTERDAM,Derkinderenstraat,,1061 VX
+1367,LEIDEN,Anne Frankweg,,2331 GN
+1368,TILBURG,Veestraat,,5021 PP
+1369,MAASTRICHT,Theodoor Schaepkensstraat,,6221 VX
+1370,AMSTERDAM,Halmaheirastraat,,1094 RH
+1371,ROTTERDAM,Beijerlandselaan,,3074 EB
+1372,AMSTERDAM,Cornelis Vermuydenstraat,,1018 RN
+1373,EINDHOVEN,Wijngaardplein,,5632 MB
+1374,TILBURG,Pijlijserstraat,,5041 KC
+1375,EINDHOVEN,Leenderweg,,5615 AB
+1376,AMSTERDAM,Venetiehof,,1019 ND
+1377,ROTTERDAM,Rochussenstraat,,3015 EH
+1378,AMSTERDAM,Maaseikstraat,,1066 LX
+1379,AMSTERDAM,Piet Mondriaanstraat,,1061 TT
+1380,NIJMEGEN,Beverweg,,6532 CA
+1381,ROTTERDAM,Pieter de Raadtstraat,,3033 VH
+1382,ROTTERDAM,Otto Verdoornplaats,,3067 AR
+1383,AMSTERDAM,Amstelvlietstraat,,1096 GG
+1384,GRONINGEN,Verlengde Hereweg,,9722 AD
+1385,GRONINGEN,Paradijsvogelstraat,,9713 BV
+1386,DEN HAAG,Ermelostraat,,2573 TC
+1387,TILBURG,Europalaan,,5042 ZE
+1388,AMSTERDAM,Oudezijds Voorburgwal,,1012 GH
+1389,UTRECHT,Zevenwouden,,3524 CR
+1390,LEIDEN,Ypenburgbocht,,2316 WB
+1391,AMSTERDAM,Johan Jongkindstraat,,1062 CR
+1392,AMSTERDAM,Hoofdweg,,1056 CT
+1393,NIJMEGEN,Berg en Dalseweg,,6522 BL
+1394,AMSTERDAM,Kiekstraat,,1087 GK
+1395,AMSTERDAM,Kastelenstraat,,1083 CA
+1396,ROTTERDAM,Noorderhavenkade,,3039 RC
+1397,ROTTERDAM,Hoogstraat,,3011 PK
+1398,TILBURG,Paterstraat,,5025 KH
+1399,GRONINGEN,Vismarkt,,9711 KT
+1400,AMSTERDAM,Korte Geuzenstraat,,1056 KS
+1401,ROTTERDAM,Dunantstraat,,3024 BB
+1402,ROTTERDAM,Mathenesserdijk,,3026 GA
+1403,DEN HAAG,Prins Hendrikstraat,,2518 HN
+1404,ROTTERDAM,Randweg,,3074 BJ
+1405,ROTTERDAM,Noordeinde,,3061 EN
+1406,TILBURG,Hoefakkerstraat,,5014 JB
+1407,ROTTERDAM,Soetendaalsekade,,3036 EA
+1408,GRONINGEN,Hoendiepskade,,9718 BE
+1409,ROTTERDAM,Mathenesserlaan,,3021 HH
+1410,ROTTERDAM,Kortekade,,3062 GN
+1411,ROTTERDAM,Breeplein,,3075 KC
+1412,LEIDEN,Papengracht,,2311 TW
+1413,AMSTERDAM,Haarlemmerweg,,1051 LD
+1414,AMSTERDAM,Bestevaerstraat,,1056 HE
+1415,DEN HAAG,Vlierboomstraat,,2564 JD
+1416,ROTTERDAM,Maashaven N.z.,,3072 AE
+1417,AMSTERDAM,Johan Jongkindstraat,,1062 CT
+1418,GRONINGEN,Van Speykstraat,,9726 BH
+1419,AMSTERDAM,Groenhoven,,1103 LK
+1420,GRONINGEN,Grote Rozenstraat,,9712 TH
+1421,GRONINGEN,Kleine Pelsterstraat,,9711 KN
+1422,LEIDEN,Lambertushof,,2311 KP
+1423,GRONINGEN,Boterdiep,,9712 LH
+1424,EINDHOVEN,Luxemburglaan,,5625 NA
+1425,AMSTERDAM,Potvisstraat,,1035 HJ
+1426,AMSTERDAM,Overleg,,1068 RM
+1427,TILBURG,Goirkestraat,,5046 GR
+1428,GRONINGEN,Klaprooslaan,,9713 SJ
+1429,GRONINGEN,Kerkstraat,,9745 CJ
+1430,ROTTERDAM,Schiedamse Vest,,3011 BE
+1431,ROTTERDAM,Klaverstraat,,3083 VM
+1432,ROTTERDAM,Polderstraat,,3074 XG
+1433,AMSTERDAM,Julius Pergerstraat,,1087 KP
+1434,AMSTERDAM,Bilderdijkstraat,,1053 KV
+1435,AMSTERDAM,Arendonksingel,,1066 KX
+1436,AMSTERDAM,Spreeuwenpark,,1021 GW
+1437,NIJMEGEN,Vondelstraat,,6512 BH
+1438,MAASTRICHT,Gentiaanstraat,,6214 VJ
+1439,UTRECHT,Tolsteegplantsoen,,3523 AN
+1440,LEIDEN,Morsweg,,2312 AA
+1441,MAASTRICHT,Bergerstraat,,6226 BA
+1442,LEIDEN,Herenstraat,,2313 AL
+1443,GRONINGEN,Bruilweering,,9728 XB
+1444,AMSTERDAM,Dintelstraat,,1078 VV
+1445,MAASTRICHT,Brusselseweg,,6217 GP
+1446,MAASTRICHT,Via Regia,,6216 BS
+1447,MAASTRICHT,Paus Leo 13 plein,,6221 VK
+1448,ROTTERDAM,Beijerlandselaan,,3074 EE
+1449,GRONINGEN,Van Houtenlaan,,9722 GR
+1450,AMSTERDAM,Langswater,,1069 EG
+1451,ROTTERDAM,Gerrit van de Lindestraat,,3022 TA
+1452,AMSTERDAM,Tweede Schinkelstraat,,1075 TN
+1453,GRONINGEN,Padangstraat,,9715 CP
+1454,GRONINGEN,Poelestraat,,9711 PJ
+1455,AMSTERDAM,Willem Noorlanderkade,,1025 MN
+1456,AMSTERDAM,Churchill-laan,,1078 EK
+1457,UTRECHT,Spaaklaan,,3527 SJ
+1458,DEN HAAG,Waldeck Pyrmontkade,,2518 JW
+1459,ROTTERDAM,Zevenkampse Ring,,3068 PZ
+1460,UTRECHT,Lauwersteeg,,3511 JM
+1461,NIJMEGEN,In de Betouwstraat,,6511 GB
+1462,ROTTERDAM,Ungerplein,,3033 BT
+1463,TILBURG,Pijnboomstraat,,5038 HG
+1464,ROTTERDAM,Nieuwe Binnenweg,,3014 GJ
+1465,TILBURG,Daniel Josephus Jittastraat,,5042 MR
+1466,EINDHOVEN,Winselerhof,,5625 LX
+1467,AMSTERDAM,Keizersgracht,,1017 DP
+1468,AMSTERDAM,Van Woustraat,,1074 AN
+1469,UTRECHT,Vechtplantsoen,,3554 TG
+1470,GRONINGEN,Friesestraatweg,,9718 NJ
+1471,EINDHOVEN,Penelopestraat,,5631 CK
+1472,EINDHOVEN,Roeklaan,,5613 EG
+1473,ROTTERDAM,Russischestraat,,3028 BH
+1474,AMSTERDAM,Egelantiersstraat,,1015 PN
+1475,GRONINGEN,Van Brakelplein,,9726 HA
+1476,LEIDEN,Marnixstraat,,2316 EN
+1477,LEIDEN,Sophiastraat,,2316 PM
+1478,DEN HAAG,Usselincxstraat,,2593 VN
+1479,MAASTRICHT,Via Regia,,6217 JZ
+1480,EINDHOVEN,Amalia van Anhaltstraat,,5616 BH
+1481,UTRECHT,Geertebolwerk,,3511 XA
+1482,AMSTERDAM,Cas Oorthuyskade,,1087 DP
+1483,GRONINGEN,Turfsingel,,9712 KH
+1484,UTRECHT,Pelikaanstraat,,3582 SG
+1485,UTRECHT,Zevenwouden,,3524 CV
+1486,AMSTERDAM,Willem Leevendstraat,,1055 KB
+1487,GRONINGEN,Paterswoldseweg,,9727 BK
+1488,ROTTERDAM,Mariniersweg,,3011 NS
+1489,TILBURG,Prunusstraat,,5038 MG
+1490,AMSTERDAM,Huigenbos,,1102 KA
+1491,UTRECHT,Keizerstraat,,3512 EA
+1492,GRONINGEN,Louise Henriettestraat,,9717 LJ
+1493,NIJMEGEN,Coehoornstraat,,6521 CD
+1494,AMSTERDAM,Koningin Wilhelminaplein,,1062 HG
+1495,UTRECHT,Willem Barentszstraat,,3572 PL
+1496,EINDHOVEN,Hoogstraat,,5654 ND
+1497,UTRECHT,H. Wijnmalenstraat,,3555 VT
+1498,AMSTERDAM,Ceintuurbaan,,1072 GK
+1499,AMSTERDAM,Bestevaerstraat,,1055 TM
+1500,AMSTERDAM,Nida Senffstraat,,1095 MX
+1501,TILBURG,Goudenregenstraat,,5014 AS
+1502,TILBURG,Gasthuisring,,5041 DR
+1503,EINDHOVEN,St Plechelmuspad,,5645 EH
+1504,EINDHOVEN,Florastate,,5644 BV
+1505,AMSTERDAM,Churchill-laan,,1078 DZ
+1506,MAASTRICHT,Meerssenerweg,,6222 AG
+1507,MAASTRICHT,Tongerseweg,,6214 BB
+1508,MAASTRICHT,Hertogsingel,,6211 NE
+1509,MAASTRICHT,Koningin Emmaplein,,6211 NG
+1510,AMSTERDAM,Van Nijenrodeweg,,1083 EA
+1511,GRONINGEN,Tweede Hunzestraat,,9715 BN
+1512,AMSTERDAM,Egidiusstraat,,1055 GV
+1513,AMSTERDAM,Rombout Hogerbeetsstraat,,1052 XG
+1514,AMSTERDAM,Haarlemmermeerstraat,,1058 KK
+1515,AMSTERDAM,Sem Presserhof,,1087 JE
+1516,AMSTERDAM,Fritz Conijnstraat,,1063 CE
+1517,GRONINGEN,Ganzevoortsingel,,9711 AM
+1518,ROTTERDAM,Saftlevenstraat,,3015 BK
+1519,GRONINGEN,Hoendiep,,9718 TG
+1520,TILBURG,Trouwlaan,,5021 WK
+1521,UTRECHT,Jan van Zutphenlaan,,3555 SP
+1522,ROTTERDAM,Katendrechtse Lagedijk,,3081 ZR
+1523,GRONINGEN,Parkweg,,9725 EM
+1524,AMSTERDAM,Orteliusstraat,,1056 PR
+1525,NIJMEGEN,Graadt van Roggenstraat,,6522 AK
+1526,AMSTERDAM,Eendrachtstraat,,1078 XV
+1527,LEIDEN,Morsweg,,2332 EW
+1528,ROTTERDAM,Terbregseweg,,3056 JX
+1529,GRONINGEN,Oude Ebbingestraat,,9712 HE
+1530,ROTTERDAM,Struisenburgdwarsstraat,,3063 BV
+1531,GRONINGEN,Zuiderpark,,9724 AJ
+1532,UTRECHT,Lange Nieuwstraat,,3512 PE
+1533,AMSTERDAM,Johannes Verhulststraat,,1071 MZ
+1534,DEN HAAG,Seinpostduin,,2586 ED
+1535,AMSTERDAM,Wigbolt Ripperdastraat,,1067 EH
+1536,AMSTERDAM,Amstelveenseweg,,1075 XS
+1537,NIJMEGEN,Berg en Dalseweg,,6522 BB
+1538,ROTTERDAM,Abraham Kuyperlaan,,3038 PM
+1539,AMSTERDAM,Bamberghof,,1068 VZ
+1540,ROTTERDAM,Spaarbankstraat,,3011 HX
+1541,UTRECHT,Abstederdijk,,3582 BL
+1542,ROTTERDAM,Jonker Fransstraat,,3031 AP
+1543,MAASTRICHT,Pieter Poststraat,,6217 PG
+1544,LEIDEN,Vrijheidslaan,,2321 DP
+1545,DEN HAAG,Balistraat,,2585 XX
+1546,AMSTERDAM,Haag en Veld,,1102 GB
+1547,UTRECHT,Korfoedreef,,3562 SE
+1548,GRONINGEN,Turkooisstraat,,9743 KX
+1549,GRONINGEN,Veemarktstraat,,9724 GB
+1550,GRONINGEN,Steentilstraat,,9711 GN
+1551,GRONINGEN,Peizerweg,,9726 JD
+1552,DEN HAAG,Beeklaan,,2562 AH
+1553,LEIDEN,Da Costastraat,,2321 AR
+1554,ROTTERDAM,Meent,,3011 JA
+1555,GRONINGEN,Pop Dijkemaweg,,9731 BB
+1556,GRONINGEN,Gedempte Kattendiep,,9711 PL
+1557,GRONINGEN,IJsselstraat,,9725 GC
+1558,UTRECHT,Amsterdamsestraatweg,,3553 ED
+1559,ROTTERDAM,Rosier Faassenstraat,,3025 GK
+1560,AMSTERDAM,Kleiburg,,1104 EA
+1561,LEIDEN,Toussaintkade,,2321 VX
+1562,TILBURG,Mangrovestraat,,5037 JH
+1563,AMSTERDAM,R.J.H. Fortuynstraat,,1019 WJ
+1564,AMSTERDAM,Admiraal De Ruijterweg,,1056 GB
+1565,ROTTERDAM,Polderlaan,,3074 ME
+1566,GRONINGEN,Petrus Driessenstraat,,9714 CA
+1567,ROTTERDAM,Statensingel,,3039 LT
+1568,AMSTERDAM,Adriaan Loosjesstraat,,1035 XS
+1569,AMSTERDAM,Jan Pieter Heijestraat,,1054 MG
+1570,DEN HAAG,Lange Beestenmarkt,,2512 EG
+1571,AMSTERDAM,Tweede Oosterparkstraat,,1091 HT
+1572,MAASTRICHT,Tongerseweg,,6213 GD
+1573,GRONINGEN,Gratamastraat,,9714 HT
+1574,ROTTERDAM,Dirck Hoffstraat,,3024 VA
+1575,UTRECHT,Nicolaas Beetsstraat,,3511 HE
+1576,DEN HAAG,Laan van Meerdervoort,,2563 BB
+1577,AMSTERDAM,Van Nijenrodeweg,,1082 HH
+1578,AMSTERDAM,Zocherstraat,,1054 LX
+1579,AMSTERDAM,Nolensstraat,,1067 KC
+1580,AMSTERDAM,Jacques Oppenheimstraat,,1063 PS
+1581,EINDHOVEN,Hobbemastraat,,5613 HL
+1582,MAASTRICHT,Brandenburgerweg,,6214 AK
+1583,AMSTERDAM,Tuinbouwstraat,,1097 ZA
+1584,AMSTERDAM,Lizzy Ansinghstraat,,1072 RD
+1585,GRONINGEN,Marsstraat,,9742 EN
+1586,LEIDEN,Morsweg,,2312 AE
+1587,ROTTERDAM,Laan op Zuid,,3071 AA
+1588,UTRECHT,Dieselweg,,3553 GT
+1589,MAASTRICHT,Lage Barakken,,6221 CH
+1590,LEIDEN,Korevaarstraat,,2311 JV
+1591,AMSTERDAM,Goeman Borgesiusstraat,,1067 LS
+1592,AMSTERDAM,Burgemeester Hogguerstraat,,1064 CM
+1593,AMSTERDAM,Coppelstockstraat,,1056 XL
+1594,AMSTERDAM,Linnaeusstraat,,1092 CN
+1595,AMSTERDAM,Scherpenzeelstraat,,1107 HV
+1596,GRONINGEN,Schuitendiep,,9711 RG
+1597,ROTTERDAM,1e Jerichostraat,,3061 GH
+1598,ROTTERDAM,Van Eversdijckstraat,,3083 MA
+1599,MAASTRICHT,Zakstraat,,6211 PS
+1600,MAASTRICHT,Brusselsestraat,,6211 PH
+1601,AMSTERDAM,Heesterveld,,1102 SE
+1602,AMSTERDAM,Burgemeester Hogguerstraat,,1064 EE
+1603,NIJMEGEN,van Welderenstraat,,6511 MT
+1604,AMSTERDAM,Rustenburgerstraat,,1073 EW
+1605,ROTTERDAM,Oostzeedijk,,3063 CD
+1606,AMSTERDAM,Charlotte Brontestraat,,1102 XD
+1607,ROTTERDAM,Jacob van Akenstraat,,3067 JR
+1608,NIJMEGEN,Smetiusstraat,,6511 ES
+1609,AMSTERDAM,Spaarndammerstraat,,1013 SW
+1610,AMSTERDAM,Tweede Oosterparkstraat,,1091 HV
+1611,ROTTERDAM,Ungerplein,,3033 BV
+1612,ROTTERDAM,Adamshofstraat,,3061 ZC
+1613,EINDHOVEN,Tacituslaan,,5624 GR
+1614,TILBURG,Simpelveldstraat,,5035 LJ
+1615,AMSTERDAM,Watteaustraat,,1077 ZL
+1616,ROTTERDAM,Mathenesserweg,,3027 HM
+1617,AMSTERDAM,Galjootstraat,,1086 VE
+1618,EINDHOVEN,Wildeman,,5629 KH
+1619,MAASTRICHT,Frankenstraat,,6224 GV
+1620,DEN HAAG,Juliana van Stolberglaan,,2595 CL
+1621,GRONINGEN,Star Numanstraat,,9714 JN
+1622,ROTTERDAM,Piet Smitkade,,3077 MJ
+1623,GRONINGEN,Damsterdiep,,9713 EJ
+1624,AMSTERDAM,Blomwijckerpad,,1068 DX
+1625,AMSTERDAM,Amundsenweg,,1056 AV
+1626,AMSTERDAM,Solebaystraat,,1055 ZN
+1627,GRONINGEN,Lijsterbeslaan,,9741 HP
+1628,AMSTERDAM,Barbusselaan,,1102 TX
+1629,EINDHOVEN,Lodewijk Napoleonplein,,5616 BA
+1630,AMSTERDAM,Cornelis van Vollenhovenstraat,,1063 KT
+1631,AMSTERDAM,Antony Moddermanstraat,,1063 LW
+1632,EINDHOVEN,Biesterweg,,5615 AE
+1633,AMSTERDAM,Grubbehoeve,,1103 GH
+1634,ROTTERDAM,Kobelaan,,3067 MD
+1635,LEIDEN,Klikspaanweg,,2324 LZ
+1636,ROTTERDAM,Chalonsstraat,,3043 TC
+1637,ROTTERDAM,Soetendaalseweg,,3036 EJ
+1638,ROTTERDAM,Heemraadssingel,,3023 CD
+1639,MAASTRICHT,Brusselsepoort,,6216 CE
+1640,AMSTERDAM,Pieter Calandlaan,,1069 SC
+1641,AMSTERDAM,Slotermeerlaan,,1064 GX
+1642,NIJMEGEN,Meijhorst,,6537 JH
+1643,NIJMEGEN,Lankforst,,6538 JG
+1644,ROTTERDAM,Gedempte Zalmhaven,,3011 BT
+1645,ROTTERDAM,Transvaalstraat,,3072 PX
+1646,DEN HAAG,Isingstraat,,2522 JM
+1647,GRONINGEN,Illegaliteitslaan,,9727 EC
+1648,AMSTERDAM,Anna Blamansingel,,1102 SX
+1649,AMSTERDAM,Nieuwersluishof,,1106 PR
+1650,ROTTERDAM,Soetensteeg,,3011 GR
+1651,MAASTRICHT,Hogeborg,,6228 CN
+1652,MAASTRICHT,Hogeborg,,6228 CM
+1653,GRONINGEN,Bernoulliplein,,9714 BV
+1654,AMSTERDAM,Nieuwezijds Kolk,,1012 PV
+1655,AMSTERDAM,Nieuwezijds Voorburgwal,,1012 RE
+1656,AMSTERDAM,Victorieplein,,1079 KK
+1657,AMSTERDAM,Da Costastraat,,1053 ZJ
+1658,EINDHOVEN,St Lambertusstraat,,5615 PH
+1659,AMSTERDAM,Kelbergen,,1104 LA
+1660,ROTTERDAM,Frans Bekkerstraat,,3082 TP
+1661,ROTTERDAM,Rockanjestraat,,3082 SM
+1662,ROTTERDAM,Dorpsweg,,3083 LD
+1663,ROTTERDAM,Aristotelesstraat,,3076 BD
+1664,TILBURG,Langestraat,,5038 SC
+1665,EINDHOVEN,Kromakkerweg,,5616 SB
+1666,EINDHOVEN,Michelangelolaan,,5623 EJ
+1667,ROTTERDAM,Essenburgsingel,,3022 EC
+1668,AMSTERDAM,Herengracht,,1016 BC
+1669,AMSTERDAM,Stadionkade,,1077 VG
+1670,AMSTERDAM,Courbetstraat,,1077 ZT
+1671,AMSTERDAM,Lauriergracht,,1016 RG
+1672,DEN HAAG,Nicolaistraat,,2517 SX
+1673,AMSTERDAM,Burgemeester Hogguerstraat,,1064 CX
+1674,AMSTERDAM,Schoffelstraat,,1097 VV
+1675,MAASTRICHT,Populierweg,,6222 CS
+1676,MAASTRICHT,Sint Nicolaasstraat,,6211 NP
+1677,MAASTRICHT,Meerssenerweg,,6224 AL
+1678,TILBURG,Loek Lansdorpstraat,,5025 VS
+1679,UTRECHT,Montevideodreef,,3563 BE
+1680,AMSTERDAM,Turnerstraat,,1076 VE
+1681,UTRECHT,Emmalaan,,3581 HL
+1682,TILBURG,Albertus Magnusstraat,,5042 ES
+1683,GRONINGEN,Nieuweweg,,9711 TB
+1684,UTRECHT,Dahliastraat,,3551 ST
+1685,TILBURG,Ringbaan-Oost,,5018 HA
+1686,AMSTERDAM,Burgemeester Hogguerstraat,,1064 EC
+1687,EINDHOVEN,Juliusstraat,,5621 GC
+1688,AMSTERDAM,Gaaspstraat,,1079 VE
+1689,NIJMEGEN,Sweersstraat,,6524 BL
+1690,ROTTERDAM,Antilopestraat,,3064 LA
+1691,GRONINGEN,Populierenlaan,,9741 HA
+1692,ROTTERDAM,Lamastraat,,3064 LK
+1693,UTRECHT,Hijmans van den Berghlaan,,3571 PG
+1694,MAASTRICHT,Kantoorweg,,6218 NB
+1695,TILBURG,Lange Nieuwstraat,,5041 DJ
+1696,AMSTERDAM,Raoul Wallenbergstraat,,1102 AX
+1697,AMSTERDAM,Gerard Doustraat,,1073 VX
+1698,MAASTRICHT,Tongerseweg,,6215 AE
+1699,UTRECHT,Furkabaan,,3524 ZK
+1700,TILBURG,Hobbemastraat,,5025 NL
+1701,UTRECHT,Kievitdwarsstraat,,3514 VC
+1702,ROTTERDAM,Putselaan,,3074 JA
+1703,AMSTERDAM,Midscheeps,,1034 TE
+1704,GRONINGEN,Noorderstationsstraat,,9716 AP
+1705,GRONINGEN,Vogelkersstraat,,9741 NK
+1706,AMSTERDAM,Fannius Scholtenstraat,,1051 ET
+1707,GRONINGEN,Akkerstraat,,9717 KJ
+1708,NIJMEGEN,Straalmanstraat,,6521 JL
+1709,TILBURG,Heuvelstraat,,5038 AD
+1710,ROTTERDAM,Opzoomerstraat,,3023 SH
+1711,AMSTERDAM,Noordzijde,,1064 MD
+1712,GRONINGEN,Billitonstraat,,9715 EM
+1713,UTRECHT,Lauwerhof,,3512 VD
+1714,AMSTERDAM,Zaagmolenstraat,,1052 HC
+1715,GRONINGEN,Hans Lodeizenstraat,,9745 DS
+1716,UTRECHT,Smaragdhof,,3523 CZ
+1717,GRONINGEN,Langestraat,,9712 MG
+1718,LEIDEN,Maredijk,,2316 VN
+1719,AMSTERDAM,Lange Leidsedwarsstraat,,1017 NL
+1720,EINDHOVEN,Grasdreef,,5658 HX
+1721,AMSTERDAM,Vondelstraat,,1054 GS
+1722,AMSTERDAM,Bronckhorststraat,,1071 WR
+1723,MAASTRICHT,Sint Pieterstraat,,6211 JN
+1724,MAASTRICHT,Brusselseweg,,6217 HB
+1725,AMSTERDAM,Derkinderenstraat,,1062 DA
+1726,ROTTERDAM,Soetensteeg,,3011 GS
+1727,GRONINGEN,Parkweg,,9725 EE
+1728,GRONINGEN,Padangstraat,,9715 CK
+1729,AMSTERDAM,Celebesstraat,,1094 EL
+1730,DEN HAAG,Korte Molenstraat,,2513 BM
+1731,ROTTERDAM,Herkingenstraat,,3086 BC
+1732,GRONINGEN,Peizerweg,,9726 JK
+1733,UTRECHT,Biltstraat,,3572 BG
+1734,UTRECHT,Ambonstraat,,3531 JT
+1735,AMSTERDAM,Vijzelstraat,,1017 HG
+1736,ROTTERDAM,Galvanistraat,,3029 AD
+1737,ROTTERDAM,Jan van Avennesstraat,,3021 RM
+1738,ROTTERDAM,Admiraal de Ruyterweg,,3031 AD
+1739,TILBURG,Sint Bonifaciusstraat,,5014 BZ
+1740,GRONINGEN,Damsterdiep,,9711 SM
+1741,AMSTERDAM,Welnastraat,,1096 GJ
+1742,GRONINGEN,Brugstraat,,9711 HZ
+1743,TILBURG,Nicolaas Beetsstraat,,5025 TJ
+1744,AMSTERDAM,Generaal Vetterstraat,,1059 BV
+1745,ROTTERDAM,Amelandseplein,,3083 SG
+1746,ROTTERDAM,Blokweg,,3074 RJ
+1747,ROTTERDAM,Van der Meydestraat,,3039 TK
+1748,AMSTERDAM,Dijkgraafplein,,1069 EL
+1749,DEN HAAG,Frankenslag,,2582 HD
+1750,AMSTERDAM,Jacob Krusestraat,,1106 ZL
+1751,AMSTERDAM,Hobbemakade,,1071 XM
+1752,GRONINGEN,Friesestraatweg,,9718 NG
+1753,GRONINGEN,J.C. Kapteynlaan,,9714 CL
+1754,GRONINGEN,Kloosterstraat,,9717 LC
+1755,EINDHOVEN,Pastoriestraat,,5612 EJ
+1756,AMSTERDAM,Dever,,1082 BJ
+1757,GRONINGEN,Paterswoldseweg,,9726 BB
+1758,UTRECHT,Korte Smeestraat,,3512 NW
+1759,LEIDEN,Rijn en Schiekade,,2311 AR
+1760,AMSTERDAM,Rietlandpark,,1019 DS
+1761,UTRECHT,Aidadreef,,3561 GE
+1762,NIJMEGEN,Nieuwe Mollenhutseweg,,6533 HE
+1763,UTRECHT,Trumanlaan,,3527 BP
+1764,GRONINGEN,Herepoortenmolendrift,,9711 DG
+1765,ROTTERDAM,Dorpsweg,,3083 LK
+1766,UTRECHT,Stadionlaan,,3583 RA
+1767,ROTTERDAM,Karel Doormanstraat,,3012 GH
+1768,TILBURG,Diepenbrocklaan,,5012 GL
+1769,ROTTERDAM,Dickensstraat,,3076 SC
+1770,ROTTERDAM,Van Oestendestraat,,3083 MD
+1771,TILBURG,Sint Annaplein,,5038 TV
+1772,NIJMEGEN,Sonatestraat,,6544 PS
+1773,DEN HAAG,Rijswijkseweg,,2516 HC
+1774,TILBURG,Oeralweg,,5022 GR
+1775,ROTTERDAM,Zweedsestraat,,3028 TR
+1776,AMSTERDAM,Herengracht,,1017 BX
+1777,ROTTERDAM,Dordtselaan,,3073 GT
+1778,LEIDEN,Groenoordsplein,,2316 BZ
+1779,GRONINGEN,Lissabonstraat,,9718 AA
+1780,AMSTERDAM,Wedderborg,,1082 TB
+1781,AMSTERDAM,Akerwateringstraat,,1069 GC
+1782,UTRECHT,Hondsrug,,3524 BV
+1783,MAASTRICHT,Via Regia,,6217 RA
+1784,ROTTERDAM,Van Cittersstraat,,3022 LL
+1785,AMSTERDAM,R.J.H. Fortuynstraat,,1019 WK
+1786,ROTTERDAM,Aegidiusstraat,,3061 XS
+1787,TILBURG,Ringbaan-Oost,,5014 GG
+1788,AMSTERDAM,Oosterpark,,1092 AS
+1789,AMSTERDAM,Overtoom,,1054 JA
+1790,TILBURG,Ridderstraat,,5021 DV
+1791,EINDHOVEN,Vrijstraat,,5611 AW
+1792,AMSTERDAM,Wijenburg,,1082 VS
+1793,AMSTERDAM,Wijdesteeg,,1012 RN
+1794,DEN HAAG,Obrechtstraat,,2517 VK
+1795,EINDHOVEN,Bakkerstraat,,5612 EL
+1796,AMSTERDAM,Hoofdweg,,1056 CR
+1797,UTRECHT,Spieghelstraat,,3521 XM
+1798,DEN HAAG,1e Van der Kunstraat,,2521 AS
+1799,GRONINGEN,Hardewikerstraat,,9712 GT
+1800,GRONINGEN,Bloemstraat,,9712 LC
+1801,DEN HAAG,Rijswijkseweg,,2516 HH
+1802,AMSTERDAM,Kolfschotenstraat,,1104 PB
+1803,ROTTERDAM,Heemskerkstraat,,3038 VM
+1804,ROTTERDAM,Dordtselaan,,3081 BD
+1805,LEIDEN,Nachtegaallaan,,2333 XR
+1806,AMSTERDAM,Jacob van Lennepkade,,1053 NM
+1807,ROTTERDAM,Sonmansstraat,,3039 DJ
+1808,TILBURG,Koestraat,,5014 EG
+1809,MAASTRICHT,Via Regia,,6217 JW
+1810,AMSTERDAM,Niftrikhof,,1106 SJ
+1811,TILBURG,Dr. Nolensstraat,,5046 HP
+1812,LEIDEN,Oude Singel,,2312 RG
+1813,ROTTERDAM,Mariniersweg,,3011 NP
+1814,ROTTERDAM,Gladiolusstraat,,3051 LD
+1815,DEN HAAG,Burgemeester van der Werffstraat,,2581 SL
+1816,EINDHOVEN,Boschdijk,,5621 JC
+1817,MAASTRICHT,Frankenstraat,,6224 GM
+1818,GRONINGEN,Briljantstraat,,9743 NK
+1819,AMSTERDAM,Tweede Helmersstraat,,1054 CD
+1820,UTRECHT,Bangkokdreef,,3564 SM
+1821,ROTTERDAM,Mathenesserlaan,,3023 GH
+1822,EINDHOVEN,Verschaffeltstraat,,5623 ET
+1823,ROTTERDAM,Goudsesingel,,3031 EK
+1824,GRONINGEN,Adriaan Pauwstraat,,9716 CR
+1825,MAASTRICHT,Dampstraat,,6226 GJ
+1826,TILBURG,Spoorlaan,,5038 CC
+1827,AMSTERDAM,Kanaalstraat,,1054 XG
+1828,GRONINGEN,Framaheerd,,9737 NH
+1829,AMSTERDAM,Marchanthof,,1067 MJ
+1830,GRONINGEN,Dr. C. Hofstede de Grootkade,,9718 KA
+1831,GRONINGEN,Bedumerweg,,9716 AD
+1832,GRONINGEN,Eikenlaan,,9741 EW
+1833,AMSTERDAM,Amstelveenseweg,,1075 VZ
+1834,ROTTERDAM,Mijnsherenlaan,,3081 CD
+1835,TILBURG,Textielplein,,5046 RL
+1836,TILBURG,Groeseindstraat,,5014 LT
+1837,TILBURG,Antoniusstraat,,5038 DK
+1838,AMSTERDAM,Aldendriel,,1083 BL
+1839,AMSTERDAM,Oostenburgergracht,,1018 NC
+1840,MAASTRICHT,Sint Antoniuslaan,,6221 XH
+1841,AMSTERDAM,Granidastraat,,1055 HE
+1842,AMSTERDAM,Voetboogstraat,,1012 XK
+1843,AMSTERDAM,B. Merkelbachsingel,,1022 KE
+1844,AMSTERDAM,Noorderstraat,,1017 TV
+1845,DEN HAAG,Zwedenburg,,2591 BA
+1846,AMSTERDAM,Westerdoksdijk,,1013 AD
+1847,MAASTRICHT,Franciscus Romanusweg,,6221 AG
+1848,MAASTRICHT,Scharnerweg,,6224 JJ
+1849,ROTTERDAM,Noordmolenwerf,,3011 DC
+1850,NIJMEGEN,van Gentstraat,,6524 BD
+1851,UTRECHT,Amsterdamsestraatweg,,3551 CJ
+1852,NIJMEGEN,Goselingstraat,,6535 XC
+1853,UTRECHT,H.F. van Riellaan,,3571 WB
+1854,GRONINGEN,Watermanstraat,,9742 VN
+1855,AMSTERDAM,Cornelis van Vollenhovenstraat,,1063 KS
+1856,AMSTERDAM,Maasstraat,,1078 HH
+1857,DEN HAAG,Aarnout Drostlaan,,2523 EK
+1858,AMSTERDAM,Vrijheidslaan,,1079 KC
+1859,ROTTERDAM,Peppelweg,,3053 GA
+1860,TILBURG,Kasteel Twikkelstraat,,5037 HT
+1861,AMSTERDAM,Watersteeg,,1012 NV
+1862,GRONINGEN,Metaallaan,,9743 BS
+1863,NIJMEGEN,Groenestraat,,6531 HB
+1864,AMSTERDAM,Grootzeilhof,,1034 MA
+1865,GRONINGEN,Coehoornsingel,,9711 BM
+1866,GRONINGEN,Hamburgerstraat,,9714 JC
+1867,GRONINGEN,Bloemstraat,,9712 LB
+1868,AMSTERDAM,Vlietstraat,,1075 VD
+1869,TILBURG,Statenlaan,,5042 RT
+1870,GRONINGEN,H.W. Mesdagstraat,,9718 HB
+1871,UTRECHT,Aureliahof,,3544 VE
+1872,GRONINGEN,Vismarkt,,9711 KS
+1873,EINDHOVEN,Bergen op Zoomstraat,,5652 KD
+1874,GRONINGEN,Oosterhamrikkade,,9714 BC
+1875,EINDHOVEN,Laar,,5641 PK
+1876,LEIDEN,Morsweg,,2312 AD
+1877,LEIDEN,Flanorpad,,2333 AS
+1878,MAASTRICHT,Petrus Gaginistraat,,6217 GH
+1879,AMSTERDAM,Nassaukade,,1053 LR
+1880,AMSTERDAM,Conradstraat,,1018 NG
+1881,LEIDEN,Vliet,,2311 RG
+1882,DEN HAAG,Thorbeckelaan,,2564 BP
+1883,ROTTERDAM,Schiedamsesingel,,3012 BB
+1884,UTRECHT,Troelstralaan,,3515 CB
+1885,MAASTRICHT,Koning Clovisstraat,,6226 AG
+1886,TILBURG,Ringbaan-Oost,,5018 HB
+1887,UTRECHT,Fregatstraat,,3534 RC
+1888,ROTTERDAM,Bilderdijkstraat,,3027 SH
+1889,NIJMEGEN,Tooropstraat,,6521 NH
+1890,UTRECHT,Hannolaan,,3526 RR
+1891,ROTTERDAM,1e Middellandstraat,,3021 BE
+1892,NIJMEGEN,Kelfkensbos,,6511 TA
+1893,ROTTERDAM,Zwijndrechtsestraat,,3073 RK
+1894,AMSTERDAM,Cornelis van Vollenhovenstraat,,1063 KW
+1895,ROTTERDAM,Hillevliet,,3074 KD
+1896,UTRECHT,Van Vollenhovenlaan,,3527 JX
+1897,AMSTERDAM,Stadhouderskade,,1072 AD
+1898,ROTTERDAM,Doornenburg,,3085 XA
+1899,AMSTERDAM,Kolfschotenstraat,,1104 PA
+1900,LEIDEN,Wielmakersteeg,,2311 JZ
+1901,ROTTERDAM,Heymansstraat,,3076 CD
+1902,AMSTERDAM,Cornelis Trooststraat,,1072 JD
+1903,DEN HAAG,Mient,,2564 KJ
+1904,ROTTERDAM,Prins Hendrikkade,,3071 KJ
+1905,ROTTERDAM,Vredehofweg,,3062 EN
+1906,GRONINGEN,Van Brakelplein,,9726 HE
+1907,ROTTERDAM,Oostmaasstraat,,3061 ZS
+1908,GRONINGEN,Celebesstraat,,9715 JH
+1909,ROTTERDAM,Lisstraat,,3037 RB
+1910,LEIDEN,Pelikaanhof,,2312 EB
+1911,ROTTERDAM,Aar,,3068 HA
+1912,GRONINGEN,Metaallaan,,9743 BN
+1913,UTRECHT,Koningsweg,,3585 LC
+1914,DEN HAAG,Granaathorst,,2592 SZ
+1915,TILBURG,Oude Markt,,5038 TJ
+1916,EINDHOVEN,Poirterslaan,,5611 LA
+1917,GRONINGEN,Warmoesstraat,,9724 JH
+1918,ROTTERDAM,Jan Evertsenplaats,,3012 HZ
+1919,DEN HAAG,Weteringkade,,2515 AK
+1920,NIJMEGEN,Tweede Oude Heselaan,,6542 VC
+1921,ROTTERDAM,Admiraal de Ruyterweg,,3031 AA
+1922,TILBURG,Schouwburgring,,5038 TK
+1923,TILBURG,Dolomietenlaan,,5022 JK
+1924,AMSTERDAM,Boeckenburg,,1082 CT
+1925,DEN HAAG,Daguerrestraat,,2561 TR
+1926,MAASTRICHT,Stationsstraat,,6221 BR
+1927,AMSTERDAM,Cycladenlaan,,1060 MC
+1928,AMSTERDAM,Haag en Veld,,1102 GM
+1929,TILBURG,Coba Pulskenslaan,,5025 WE
+1930,TILBURG,Kardinaal Vaughanstraat,,5046 DP
+1931,TILBURG,Van Alphenstraat,,5014 MS
+1932,DEN HAAG,Copernicuslaan,,2561 VA
+1933,AMSTERDAM,Prinsengracht,,1016 HM
+1934,EINDHOVEN,Zevenbergenstraat,,5652 JN
+1935,AMSTERDAM,Sloterweg,,1066 CP
+1936,MAASTRICHT,Statenstraat,,6211 TB
+1937,ROTTERDAM,Harddraverstraat,,3033 XK
+1938,TILBURG,Lanciersstraat,,5017 CR
+1939,DEN HAAG,Valkenboslaan,,2563 CL
+1940,LEIDEN,Roomburgerlaan,,2313 PS
+1941,UTRECHT,Oude Kerkstraat,,3572 TG
+1942,LEIDEN,Vrijheidslaan,,2321 DS
+1943,GRONINGEN,Venuslaan,,9742 KJ
+1944,ROTTERDAM,Essenburgsingel,,3021 AP
+1945,ROTTERDAM,Statenweg,,3033 JA
+1946,GRONINGEN,Herman Colleniusstraat,,9718 KP
+1947,ROTTERDAM,Watergeusstraat,,3025 HX
+1948,GRONINGEN,Galkemaheerd,,9736 BE
+1949,DEN HAAG,Surinamestraat,,2585 GK
+1950,GRONINGEN,Trompsingel,,9724 CX
+1951,DEN HAAG,Mient,,2564 LL
+1952,AMSTERDAM,Tweede Jan Steenstraat,,1073 VL
+1953,DEN HAAG,Lyonnetstraat,,2522 NE
+1954,NIJMEGEN,Pontanusstraat,,6524 HG
+1955,GRONINGEN,Haddingestraat,,9711 KC
+1956,ROTTERDAM,Dries van der Vlerkstraat,,3063 RD
+1957,DEN HAAG,Westeinde,,2512 GT
+1958,ROTTERDAM,Beukelsdijk,,3021 AA
+1959,AMSTERDAM,Pracanalaan,,1060 RC
+1960,DEN HAAG,Javastraat,,2585 AE
+1961,UTRECHT,Balderikstraat,,3553 BC
+1962,NIJMEGEN,Palembangstraat,,6524 KX
+1963,ROTTERDAM,Kootsekade,,3051 PC
+1964,UTRECHT,Justus van Effenstraat,,3511 HL
+1965,GRONINGEN,Slachthuisstraat,,9713 MR
+1966,TILBURG,Leo XIII-straat,,5046 KH
+1967,AMSTERDAM,Anthonie van Dijckstraat,,1077 ME
+1968,ROTTERDAM,Sonoystraat,,3039 ZR
+1969,ROTTERDAM,Hogenbanweg,,3028 GZ
+1970,ROTTERDAM,Donkerslootstraat,,3074 WH
+1971,UTRECHT,Chicagodreef,,3564 KM
+1972,AMSTERDAM,Maria Austriastraat,,1087 EK
+1973,ROTTERDAM,Ellewoutsdijkstraat,,3086 LD
+1974,TILBURG,Goirkestraat,,5046 GE
+1975,TILBURG,Veldhovenring,,5041 BC
+1976,AMSTERDAM,Fahrenheitstraat,,1097 PR
+1977,TILBURG,Melis Stokestraat,,5013 BK
+1978,UTRECHT,Van Egmondkade,,3553 JJ
+1979,AMSTERDAM,Adrianus van Waertweg,,1035 SE
+1980,ROTTERDAM,Jan Sonjestraat,,3021 TW
+1981,GRONINGEN,Zwarteweg,,9717 HN
+1982,LEIDEN,Van der Werfstraat,,2312 VX
+1983,NIJMEGEN,Semmelinkstraat,,6512 JT
+1984,AMSTERDAM,Lambertus Zijlplein,,1067 JS
+1985,GRONINGEN,Meeuwerderweg,,9724 EZ
+1986,AMSTERDAM,Curacaostraat,,1058 CC
+1987,AMSTERDAM,De Wittenkade,,1051 AB
+1988,NIJMEGEN,van Spaenstraat,,6524 HM
+1989,ROTTERDAM,Noordsingel,,3035 EN
+1990,ROTTERDAM,Botersloot,,3011 HG
+1991,MAASTRICHT,Glazeniersdreef,,6216 NW
+1992,AMSTERDAM,Antony Moddermanstraat,,1063 LM
+1993,AMSTERDAM,IJburglaan,,1086 ZJ
+1994,GRONINGEN,C.H. Petersstraat,,9714 CH
+1995,UTRECHT,Laan van Nieuw-Guinea,,3531 JL
+1996,AMSTERDAM,Gasthuismolensteeg,,1016 AM
+1997,AMSTERDAM,Oude Nieuwstraat,,1012 TD
+1998,AMSTERDAM,Sanderijnstraat,,1055 BN
+1999,ROTTERDAM,Van Oestendestraat,,3083 MC
+2000,TILBURG,Heuvelring,,5038 CJ
+2001,TILBURG,Professor Cobbenhagenlaan,,5037 DD
+2002,AMSTERDAM,Kempenlaan,,1066 PW
+2003,EINDHOVEN,Kleine Berg,,5611 JT
+2004,GRONINGEN,Reitdiephaven,,9746 RC
+2005,AMSTERDAM,Transvaalstraat,,1092 HM
+2006,UTRECHT,Van Heuven Goedhartlaan,,3527 CG
+2007,AMSTERDAM,Victor Rutgersstraat,,1063 GG
+2008,DEN HAAG,Van Swietenstraat,,2518 SG
+2009,AMSTERDAM,Bos en Lommerweg,,1055 ED
+2010,AMSTERDAM,Van Woustraat,,1073 LP
+2011,GRONINGEN,Topaasstraat,,9743 LA
+2012,TILBURG,Van Hessen-Kasselstraat,,5021 ER
+2013,AMSTERDAM,Max Planckstraat,,1098 TT
+2014,AMSTERDAM,Leerdamhof,,1108 BT
+2015,GRONINGEN,Peizerweg,,9726 JA
+2016,AMSTERDAM,Tjasker,,1035 CP
+2017,ROTTERDAM,Katendrechtse Lagedijk,,3082 GB
+2018,GRONINGEN,Heymanslaan,,9714 GN
+2019,ROTTERDAM,Strevelsweg,,3075 AL
+2020,UTRECHT,Snelliuskade,,3514 XA
+2021,GRONINGEN,Zonnelaan,,9742 BD
+2022,UTRECHT,Jan Pieterszoon Coenstraat,,3531 EX
+2023,GRONINGEN,Annastraat,,9724 LG
+2024,AMSTERDAM,Derde Oosterparkstraat,,1092 ED
+2025,ROTTERDAM,Herman Robbersstraat,,3031 RK
+2026,MAASTRICHT,Wolfstraat,,6211 GN
+2027,ROTTERDAM,Fioringras,,3068 PH
+2028,ROTTERDAM,Spankerstraat,,3077 ZD
+2029,ROTTERDAM,Optimiststraat,,3077 ZC
+2030,ROTTERDAM,Watertorenweg,,3063 HA
+2031,TILBURG,Lijsterstraat,,5022 BR
+2032,AMSTERDAM,Bijlmerdreef,,1103 SC
+2033,NIJMEGEN,Tolhuis,,6537 NT
+2034,GRONINGEN,Vondellaan,,9721 LM
+2035,ROTTERDAM,Bas Paauwestraat,,3077 MP
+2036,DEN HAAG,Hobbemastraat,,2526 JL
+2037,ROTTERDAM,Henegouwerlaan,,3014 CB
+2038,UTRECHT,Livingstonelaan,,3526 JD
+2039,ROTTERDAM,Zuidhoek,,3082 PH
+2040,AMSTERDAM,Bestevaerstraat,,1056 HD
+2041,AMSTERDAM,President Allendelaan,,1068 VN
+2042,MAASTRICHT,Dorpstraat,,6227 BP
+2043,DEN HAAG,Schaarsbergenstraat,,2573 BM
+2044,AMSTERDAM,Wethouder De Roosplein,,1107 AD
+2045,ROTTERDAM,Schilderstraat,,3011 ER
+2046,TILBURG,Korenbloemstraat,,5025 PT
+2047,DEN HAAG,Parallelweg,,2525 NN
+2048,AMSTERDAM,Kuipersstraat,,1074 EL
+2049,GRONINGEN,Hofstraat,,9712 JA
+2050,GRONINGEN,Professor Rankestraat,,9713 GD
+2051,TILBURG,Alleenhouderstraat,,5041 LC
+2052,GRONINGEN,Zwanestraat,,9712 CM
+2053,UTRECHT,Justus van Effenstraat,,3511 HM
+2054,GRONINGEN,Wegalaan,,9742 ND
+2055,ROTTERDAM,Randweg,,3074 BP
+2056,DEN HAAG,Steijnlaan,,2571 RJ
+2057,AMSTERDAM,Goudsbloemstraat,,1015 JM
+2058,ROTTERDAM,Hillevliet,,3074 KE
+2059,UTRECHT,Ahornstraat,,3552 CE
+2060,ROTTERDAM,Rochussenstraat,,3023 DJ
+2061,ROTTERDAM,Scheepmakershaven,,3011 VC
+2062,ROTTERDAM,Korhaanstraat,,3083 XJ
+2063,ROTTERDAM,Langenhorst,,3085 HJ
+2064,TILBURG,Wilhelminapark,,5041 EG
+2065,EINDHOVEN,Venuslaan,,5632 HE
+2066,ROTTERDAM,Koningswaard,,3078 AA
+2067,GRONINGEN,Alexanderstraat,,9724 JW
+2068,DEN HAAG,Kranenburgweg,,2583 ER
+2069,DEN HAAG,Gevers Deynootplein,,2586 CT
+2070,DEN HAAG,Stuwstraat,,2516 TS
+2071,DEN HAAG,Willem Dreespark,,2531 SH
+2072,ROTTERDAM,Burgemeester van Walsumweg,,3011 MZ
+2073,UTRECHT,Pieterstraat,,3512 JT
+2074,GRONINGEN,Diamantlaan,,9743 BD
+2075,ROTTERDAM,Vlietlaan,,3061 DX
+2076,GRONINGEN,Johan van Zwedenlaan,,9744 DX
+2077,ROTTERDAM,Madeliefstraat,,3083 TC
+2078,AMSTERDAM,Slotermeerlaan,,1064 HB
+2079,DEN HAAG,Van den Boschstraat,,2595 AC
+2080,GRONINGEN,IJsselstraat,,9725 GD
+2081,MAASTRICHT,Willem Vliegenstraat,,6214 AV
+2082,GRONINGEN,Bedumerstraat,,9716 BP
+2083,DEN HAAG,Wolfhezestraat,,2573 NX
+2084,UTRECHT,St.-Ludgerusstraat,,3553 CX
+2085,GRONINGEN,Boterdiep,,9712 LS
+2086,AMSTERDAM,Rooseveltlaan,,1079 AH
+2087,ROTTERDAM,Nieuwenhoornstraat,,3082 VM
+2088,UTRECHT,Marislaan,,3582 HG
+2089,AMSTERDAM,Ookmeerweg,,1069 MP
+2090,AMSTERDAM,Brouwersgracht,,1015 GG
+2091,AMSTERDAM,Keizersgracht,,1015 CJ
+2092,ROTTERDAM,Doedesstraat,,3022 VC
+2093,GRONINGEN,Lage der A,,9718 BJ
+2094,ROTTERDAM,Opzoomerstraat,,3023 SE
+2095,ROTTERDAM,Strevelsweg,,3073 DZ
+2096,ROTTERDAM,Slaak,,3061 CZ
+2097,AMSTERDAM,Pyreneeen,,1060 NP
+2098,ROTTERDAM,Kruiningenstraat,,3086 KM
+2099,LEIDEN,Vijf Meiplein,,2321 BP
+2100,GRONINGEN,Celebesstraat,,9715 JG
+2101,LEIDEN,Vrijheidslaan,,2321 DX
+2102,AMSTERDAM,Faas Wilkesstraat,,1095 MD
+2103,ROTTERDAM,Buffelstraat,,3064 AB
+2104,GRONINGEN,Peperstraat,,9711 PC
+2105,AMSTERDAM,Okeghemstraat,,1075 PM
+2106,NIJMEGEN,van Peltlaan,,6533 ZM
+2107,GRONINGEN,Fongersplaats,,9725 LL
+2108,AMSTERDAM,Korte Geuzenstraat,,1056 KT
+2109,ROTTERDAM,Boergoensevliet,,3082 KN
+2110,EINDHOVEN,Woenselsestraat,,5623 EG
+2111,AMSTERDAM,Visseringstraat,,1051 KH
+2112,GRONINGEN,Coehoornsingel,,9711 BP
+2113,AMSTERDAM,Victorieplein,,1079 KL
+2114,GRONINGEN,Kleine Gelkingestraat,,9711 NG
+2115,GRONINGEN,Emmastraat,,9722 EW
+2116,UTRECHT,Nicolaasstraat,,3512 XE
+2117,GRONINGEN,Edelsteenlaan,,9743 KL
+2118,AMSTERDAM,Admiraal De Ruijterweg,,1056 EV
+2119,AMSTERDAM,Weesperstraat,,1018 DN
+2120,AMSTERDAM,Zeedijk,,1012 AR
+2121,UTRECHT,Asselijnstraat,,3521 TA
+2122,AMSTERDAM,Vrolikstraat,,1091 VA
+2123,UTRECHT,Hoogstraat,,3552 XL
+2124,AMSTERDAM,Jan Tooropstraat,,1061 AC
+2125,UTRECHT,Kees van Dongensingel,,3544 KG
+2126,AMSTERDAM,Osdorpplein,,1068 EM
+2127,GRONINGEN,Zuiderpark,,9724 AH
+2128,AMSTERDAM,Loenermark,,1025 TE
+2129,GRONINGEN,Rijksweg,,9731 AA
+2130,DEN HAAG,Oudemansstraat,,2522 SG
+2131,AMSTERDAM,Petrus Blokhof,,1065 XJ
+2132,AMSTERDAM,Botticellistraat,,1077 GC
+2133,GRONINGEN,Spinelstraat,,9743 HR
+2134,AMSTERDAM,Admiraal De Ruijterweg,,1055 NG
+2135,AMSTERDAM,Bloemstraat,,1016 KW
+2136,AMSTERDAM,Vrolikstraat,,1092 TS
+2137,AMSTERDAM,Westerstraat,,1015 MH
+2138,UTRECHT,Berlagestraat,,3555 CW
+2139,NIJMEGEN,van Langeveldstraat,,6521 MH
+2140,ROTTERDAM,Bergstraat,,3035 TA
+2141,UTRECHT,Hobbemastraat,,3583 CZ
+2142,EINDHOVEN,Franciscus Sonniusstraat,,5611 TN
+2143,ROTTERDAM,Adamshofstraat,,3061 ZD
+2144,AMSTERDAM,Churchill-laan,,1078 EL
+2145,AMSTERDAM,Aalsmeerweg,,1059 AM
+2146,ROTTERDAM,Tapuitstraat,,3083 WS
+2147,AMSTERDAM,Overschiestraat,,1062 XG
+2148,GRONINGEN,J.A. Feithstraat,,9725 AN
+2149,NIJMEGEN,van Welderenstraat,,6511 MK
+2150,DEN HAAG,Stationsweg,,2515 BM
+2151,UTRECHT,St.-Eustatiusdreef,,3564 GE
+2152,TILBURG,Smidspad,,5046 JC
+2153,TILBURG,Transvaalplein,,5021 TD
+2154,DEN HAAG,Korbootstraat,,2583 CT
+2155,GRONINGEN,Prinsesseweg,,9717 BH
+2156,DEN HAAG,Weteringkade,,2515 AP
+2157,AMSTERDAM,Stadionweg,,1076 NX
+2158,AMSTERDAM,Tweede Hugo de Grootstraat,,1052 MA
+2159,UTRECHT,Nobelstraat,,3512 EM
+2160,UTRECHT,Schoutenstraat,,3512 GB
+2161,UTRECHT,Jan Pieterszoon Coenstraat,,3531 ES
+2162,EINDHOVEN,Rechtestraat,,5611 GN
+2163,AMSTERDAM,Europaboulevard,,1083 AD
+2164,ROTTERDAM,Avenue Concordia,,3062 LD
+2165,AMSTERDAM,Ibrahim Moustafapad,,1034 WD
+2166,AMSTERDAM,Tweede Hugo de Grootstraat,,1052 LH
+2167,AMSTERDAM,Middeliestraat,,1023 AK
+2168,AMSTERDAM,Admiraal De Ruijterweg,,1055 MD
+2169,LEIDEN,Vreewijkstraat,,2311 XH
+2170,DEN HAAG,Gouwestraat,,2515 SN
+2171,TILBURG,Hoogtestraat,,5021 PJ
+2172,EINDHOVEN,Stratumsedijk,,5611 NA
+2173,TILBURG,Koestraat,,5014 EC
+2174,GRONINGEN,Fongersplaats,,9725 LG
+2175,AMSTERDAM,Rokin,,1012 LC
+2176,TILBURG,Abel Tasmanstraat,,5021 SN
+2177,AMSTERDAM,Werkhovenstraat,,1107 KG
+2178,AMSTERDAM,Hogevecht,,1102 HM
+2179,ROTTERDAM,Aernt Bruunstraat,,3067 JE
+2180,ROTTERDAM,Waterloostraat,,3062 TN
+2181,AMSTERDAM,Tefelenstraat,,1107 SL
+2182,MAASTRICHT,Statensingel,,6217 KJ
+2183,ROTTERDAM,Luzacstraat,,3038 VX
+2184,ROTTERDAM,Dillenburgstraat,,3071 HA
+2185,ROTTERDAM,Donkerslootstraat,,3074 WK
+2186,MAASTRICHT,Professor Henketplein,,6224 BP
+2187,ROTTERDAM,C.P.Tielestraat,,3023 TA
+2188,LEIDEN,Hogewoerd,,2311 HT
+2189,TILBURG,Leo XIII-straat,,5046 KG
+2190,GRONINGEN,Korreweg,,9715 AM
+2191,GRONINGEN,Eyssoniusplein,,9714 CD
+2192,ROTTERDAM,Bergpolderstraat,,3038 KJ
+2193,TILBURG,Groenstraat,,5021 EM
+2194,TILBURG,Haydnstraat,,5011 NN
+2195,DEN HAAG,Melis Stokelaan,,2541 GC
+2196,UTRECHT,2e Atjehstraat,,3531 SP
+2197,AMSTERDAM,Hoofdweg,,1057 DE
+2198,EINDHOVEN,Aida,,5629 NP
+2199,AMSTERDAM,Amstel,,1017 AG
+2200,UTRECHT,Fregatstraat,,3534 RB
+2201,TILBURG,Lindeplein,,5038 PK
+2202,AMSTERDAM,Eastonstraat,,1068 JC
+2203,AMSTERDAM,Johan Hofmanstraat,,1069 KD
+2204,LEIDEN,Rapenburg,,2311 GB
+2205,ROTTERDAM,Blaak,,3011 TA
+2206,LEIDEN,Korte Mare,,2312 NN
+2207,UTRECHT,Jansveld,,3512 BE
+2208,EINDHOVEN,Groes,,5641 RC
+2209,GRONINGEN,Boumaboulevard,,9723 ZT
+2210,UTRECHT,Ravellaan,,3533 JP
+2211,UTRECHT,3e Achterstraat,,3512 VC
+2212,MAASTRICHT,Lochterstraat,,6229 AW
+2213,AMSTERDAM,H.J.E. Wenckebachweg,,1096 DG
+2214,GRONINGEN,Celebesstraat,,9715 JE
+2215,DEN HAAG,Oudemansstraat,,2522 SN
+2216,EINDHOVEN,Wilgenroosstraat,,5644 CH
+2217,LEIDEN,Schelpenkade,,2313 ZW
+2218,ROTTERDAM,Westzeedijk,,3016 AG
+2219,ROTTERDAM,Goudsesingel,,3011 KP
+2220,ROTTERDAM,Dordtselaan,,3073 GB
+2221,ROTTERDAM,Abraham Kuyperlaan,,3038 PL
+2222,ROTTERDAM,Noorderhavenkade,,3038 XJ
+2223,MAASTRICHT,Orleansplein,,6217 LB
+2224,ROTTERDAM,Oudedijk,,3061 AA
+2225,NIJMEGEN,Etudestraat,,6544 RT
+2226,UTRECHT,Wittevrouwensingel,,3572 CB
+2227,GRONINGEN,Grote Appelstraat,,9712 VC
+2228,LEIDEN,Kaiserstraat,,2311 GR
+2229,LEIDEN,Rapenburg,,2311 EX
+2230,UTRECHT,Seringstraat,,3551 TN
+2231,NIJMEGEN,Heeskesacker,,6546 JA
+2232,AMSTERDAM,Hoofdweg,,1055 SC
+2233,DEN HAAG,Kettingstraat,,2511 AM
+2234,DEN HAAG,Prinsestraat,,2513 CB
+2235,DEN HAAG,Monnickendamplein,,2547 CV
+2236,NIJMEGEN,Tolhuis,,6537 RN
+2237,DEN HAAG,Goeverneurlaan,,2523 CR
+2238,DEN HAAG,Jan Kistenstraat,,2584 RP
+2239,AMSTERDAM,Jacques Veltmanstraat,,1065 EL
+2240,NIJMEGEN,Daalseweg,,6521 GL
+2241,AMSTERDAM,Lekstraat,,1079 EZ
+2242,GRONINGEN,Kloosterstraat,,9717 LB
+2243,AMSTERDAM,Pieter Oosterhuisstraat,,1087 HT
+2244,EINDHOVEN,Adolf van Cortenbachstraat,,5611 TG
+2245,TILBURG,Molenstraat,,5014 NE
+2246,GRONINGEN,Coendersweg,,9722 GJ
+2247,EINDHOVEN,Weverstraat,,5612 BZ
+2248,NIJMEGEN,Professor Bromstraat,,6525 AT
+2249,AMSTERDAM,Jan Willem Brouwersstraat,,1071 LH
+2250,EINDHOVEN,Herman Gorterlaan,,5644 SK
+2251,EINDHOVEN,Geldropseweg,,5643 TP
+2252,AMSTERDAM,Cornelis Krusemanstraat,,1075 NC
+2253,AMSTERDAM,Kantershof,,1104 GE
+2254,AMSTERDAM,Kuilsenhofweg,,1104 PJ
+2255,AMSTERDAM,Kinrooistraat,,1066 LC
+2256,ROTTERDAM,Berkelselaan,,3037 PG
+2257,AMSTERDAM,Ruimzicht,,1068 CM
+2258,UTRECHT,Jan van Scorelstraat,,3583 CR
+2259,GRONINGEN,Papengang,,9711 PA
+2260,GRONINGEN,Korreweg,,9714 AE
+2261,AMSTERDAM,Egelantiersgracht,,1015 RC
+2262,UTRECHT,Klaverstraat,,3572 VE
+2263,AMSTERDAM,Gulden Winckelstraat,,1055 JK
+2264,GRONINGEN,Verlengde Hereweg,,9721 AH
+2265,ROTTERDAM,Arrheniusweg,,3069 EX
+2266,GRONINGEN,Bankastraat,,9715 CA
+2267,GRONINGEN,Gelkingestraat,,9711 NA
+2268,NIJMEGEN,van Oldenbarneveltstraat,,6512 AV
+2269,LEIDEN,Vliet,,2311 RC
+2270,ROTTERDAM,Hooidrift,,3023 KM
+2271,AMSTERDAM,Von Zesenstraat,,1093 BH
+2272,EINDHOVEN,Barrierweg,,5622 CS
+2273,ROTTERDAM,Schiedamseweg,,3025 AJ
+2274,ROTTERDAM,Van Steenwinckelstraat,,3067 XV
+2275,ROTTERDAM,Breeweg,,3075 LK
+2276,ROTTERDAM,Graaf Balderikstraat,,3032 HD
+2277,LEIDEN,Haagweg,,2321 AC
+2278,GRONINGEN,Peizerweg,,9727 AN
+2279,AMSTERDAM,Erich Salomonstraat,,1087 GT
+2280,NIJMEGEN,Hengstdalseweg,,6523 EP
+2281,NIJMEGEN,Koninginnelaan,,6542 ZJ
+2282,ROTTERDAM,Essenburgsingel,,3021 AN
+2283,ROTTERDAM,Kruisplein,,3012 CC
+2284,ROTTERDAM,Meent,,3011 JN
+2285,GRONINGEN,H.L. Wichersstraat,,9723 AD
+2286,TILBURG,Radiostraat,,5021 LK
+2287,ROTTERDAM,Robert Kochplaats,,3068 JD
+2288,ROTTERDAM,Jan Pettersonstraat,,3077 MN
+2289,DEN HAAG,Slijpmolen,,2515 NE
+2290,AMSTERDAM,Thomas a Kempisstraat,,1064 LX
+2291,GRONINGEN,H.W. Mesdagstraat,,9718 HJ
+2292,ROTTERDAM,Moerkerkestraat,,3081 RZ
+2293,ROTTERDAM,Samuel Mullerstraat,,3023 SM
+2294,ROTTERDAM,Van Meekerenstraat,,3034 GD
+2295,AMSTERDAM,Blauwvoetstraat,,1061 BM
+2296,AMSTERDAM,Van Ostadestraat,,1074 XA
+2297,AMSTERDAM,Govert Flinckstraat,,1074 CA
+2298,UTRECHT,Amsterdamsestraatweg,,3513 AJ
+2299,ROTTERDAM,Beukelsweg,,3022 GD
+2300,AMSTERDAM,Rapenburg,,1011 TZ
+2301,NIJMEGEN,de Gildekamp,,6545 KH
+2302,AMSTERDAM,Liedekerkeplantsoen,,1066 WP
+2303,LEIDEN,Hildebrandpad,,2333 DD
+2304,AMSTERDAM,Haringpakkerssteeg,,1012 LR
+2305,AMSTERDAM,Burgemeester Hogguerstraat,,1064 CW
+2306,GRONINGEN,Van Heemskerckstraat,,9726 GD
+2307,TILBURG,Geefhuishof,,5021 GE
+2308,ROTTERDAM,Noordplein,,3032 XN
+2309,AMSTERDAM,Buiksloterdijk,,1034 ZA
+2310,ROTTERDAM,Sionstraat,,3061 ES
+2311,UTRECHT,Brederoplein,,3521 XA
+2312,LEIDEN,4e Binnenvestgracht,,2311 NT
+2313,UTRECHT,St.-Janshovenstraat,,3572 RC
+2314,LEIDEN,Pelikaanhof,,2312 EJ
+2315,EINDHOVEN,Fuutlaan,,5613 AA
+2316,UTRECHT,Bellamystraat,,3514 EK
+2317,ROTTERDAM,Bovenstraat,,3077 BB
+2318,NIJMEGEN,Malvert,,6538 AE
+2319,UTRECHT,Boothstraat,,3512 BV
+2320,MAASTRICHT,Jaagpad West,,6219 NN
+2321,ROTTERDAM,Veelzigtstraat,,3022 DP
+2322,ROTTERDAM,Aelbrechtskade,,3022 HK
+2323,DEN HAAG,J. Bosmanstraat,,2552 JV
+2324,AMSTERDAM,H.J.E. Wenckebachweg,,1096 DL
+2325,ROTTERDAM,Sint-Jacobstraat,,3011 DK
+2326,GRONINGEN,Hofstraat,,9712 JC
+2327,DEN HAAG,Witte de Withstraat,,2518 CV
+2328,GRONINGEN,Korreweg,,9715 AP
+2329,AMSTERDAM,Valeriusstraat,,1075 EV
+2330,DEN HAAG,Daguerrestraat,,2561 TM
+2331,AMSTERDAM,'s-Gravendijkdreef,,1104 DN
+2332,DEN HAAG,Franklinstraat,,2562 CD
+2333,AMSTERDAM,Comeniusstraat,,1065 BJ
+2334,DEN HAAG,Pisuissestraat,,2553 BN
+2335,LEIDEN,Hasebroekstraat,,2321 XL
+2336,GRONINGEN,Padangstraat,,9715 CL
+2337,LEIDEN,Hogewoerd,,2311 HG
+2338,GRONINGEN,Lissabonstraat,,9718 AX
+2339,ROTTERDAM,IJsclubstraat,,3061 GT
+2340,GRONINGEN,Muurstraat,,9712 EM
+2341,UTRECHT,Sumatrastraat,,3531 PB
+2342,ROTTERDAM,Hommelstraat,,3061 VA
+2343,AMSTERDAM,Haarlemmerplein,,1013 HS
+2344,AMSTERDAM,Zorgwijkstraat,,1097 NL
+2345,AMSTERDAM,Nachtwachtlaan,,1058 EC
+2346,AMSTERDAM,Weerdestein,,1083 GA
+2347,ROTTERDAM,Oostplein,,3063 CE
+2348,LEIDEN,Trompstraat,,2315 SX
+2349,ROTTERDAM,Jericholaan,,3061 HE
+2350,ROTTERDAM,Schiekade,,3032 AZ
+2351,ROTTERDAM,Voorschoterlaan,,3062 KM
+2352,ROTTERDAM,Mariniersweg,,3011 NM
+2353,ROTTERDAM,Sint-Janstraat,,3011 SC
+2354,EINDHOVEN,van Beethovenlaan,,5654 EA
+2355,DEN HAAG,Groenteweg,,2525 JV
+2356,AMSTERDAM,Sarphatistraat,,1018 EV
+2357,ROTTERDAM,Oostzeedijk Beneden,,3062 VM
+2358,ROTTERDAM,Luzacstraat,,3038 VW
+2359,AMSTERDAM,Bestevaerstraat,,1056 HM
+2360,UTRECHT,Van Asch van Wijckskade,,3512 VR
+2361,DEN HAAG,Paulus Buijsstraat,,2582 CG
+2362,AMSTERDAM,Jan Haringstraat,,1056 XE
+2363,DEN HAAG,Van Diemenstraat,,2518 VA
+2364,AMSTERDAM,Zocherstraat,,1054 LP
+2365,EINDHOVEN,Balsemienstraat,,5644 LG
+2366,TILBURG,Nieuwstraat,,5021 WT
+2367,TILBURG,Stadhuisplein,,5038 TH
+2368,GRONINGEN,Aquamarijnstraat,,9743 RB
+2369,ROTTERDAM,Goereesestraat,,3083 DB
+2370,UTRECHT,Ondiep,,3552 EB
+2371,GRONINGEN,Dierenriemstraat,,9742 AK
+2372,DEN HAAG,Vermeerstraat,,2525 VN
+2373,ROTTERDAM,Prins Hendrikkade,,3071 KM
+2374,AMSTERDAM,Foeliestraat,,1011 TM
+2375,ROTTERDAM,Stroveer,,3032 GA
+2376,GRONINGEN,Carolieweg,,9711 LS
+2377,UTRECHT,Petrarcalaan,,3533 CR
+2378,ROTTERDAM,Westzeedijk,,3016 AN
+2379,AMSTERDAM,Handbalstraat,,1062 XA
+2380,ROTTERDAM,Jacques Perkstraat,,3061 CN
+2381,GRONINGEN,Hoekstraat,,9712 AN
+2382,UTRECHT,Billie Holidaystraat,,3543 EJ
+2383,MAASTRICHT,Koningsplein,,6224 EE
+2384,AMSTERDAM,Lindenhoeveweg,,1096 DT
+2385,GRONINGEN,Briljantstraat,,9743 NH
+2386,EINDHOVEN,Tongelresestraat,,5613 DN
+2387,DEN HAAG,Thijssestraat,,2521 ZJ
+2388,DEN HAAG,Thijssestraat,,2521 ZE
+2389,DEN HAAG,Thijssestraat,,2521 ZK
+2390,UTRECHT,Smakkelaarshoek,,3511 EC
+2391,UTRECHT,Medanstraat,,3531 EC
+2392,TILBURG,Luchthavenlaan,,5042 TB
+2393,AMSTERDAM,Pieter van der Werfstraat,,1067 EP
+2394,GRONINGEN,Meeuwerderbaan,,9724 GW
+2395,TILBURG,Martinitorenstraat,,5037 AV
+2396,AMSTERDAM,Marnixstraat,,1015 VD
+2397,MAASTRICHT,Meerssenerweg,,6224 AE
+2398,ROTTERDAM,Bergweg,,3035 BS
+2399,AMSTERDAM,Daniel Stalpertstraat,,1072 XD
+2400,AMSTERDAM,Transvaalstraat,,1092 HD
+2401,AMSTERDAM,Jacob Obrechtstraat,,1071 KJ
+2402,GRONINGEN,Professor Enno Dirk Wiersmastraat,,9713 GJ
+2403,DEN HAAG,Emmastraat,,2595 EJ
+2404,AMSTERDAM,Theodorus Majofskistraat,,1065 SV
+2405,AMSTERDAM,Nicolaas Anslijnstraat,,1068 WN
+2406,NIJMEGEN,Meijhorst,,6537 HE
+2407,MAASTRICHT,Sint Annalaan,,6214 AA
+2408,ROTTERDAM,Lombardkade,,3011 ZD
+2409,ROTTERDAM,Jufferkade,,3011 VW
+2410,UTRECHT,La Traviatadreef,,3561 KS
+2411,TILBURG,Hoefstraat,,5046 BB
+2412,TILBURG,Bataviastraat,,5014 BV
+2413,TILBURG,Melis Stokestraat,,5013 BL
+2414,ROTTERDAM,Johan de Meesterstraat,,3031 SN
+2415,ROTTERDAM,Herman Robbersstraat,,3031 RL
+2416,AMSTERDAM,Wittgensteinlaan,,1062 KE
+2417,ROTTERDAM,Beukelsdijk,,3022 DK
+2418,GRONINGEN,Nassaulaan,,9717 CG
+2419,AMSTERDAM,Dirk Sonoystraat,,1067 XR
+2420,NIJMEGEN,Imkersstraat,,6533 SB
+2421,AMSTERDAM,Achillesstraat,,1076 PW
+2422,LEIDEN,Middelstegracht,,2312 TW
+2423,GRONINGEN,Van Houtenlaan,,9722 GT
+2424,GRONINGEN,Sledemennerstraat,,9718 BX
+2425,AMSTERDAM,Tweede Helmersstraat,,1054 CA
+2426,AMSTERDAM,Latherusstraat,,1032 EA
+2427,AMSTERDAM,N. Lansdorpstraat,,1022 KB
+2428,DEN HAAG,Marktweg,,2525 JL
+2429,AMSTERDAM,Cornelis Troostplein,,1072 JK
+2430,GRONINGEN,Helper Weststraat,,9721 BM
+2431,ROTTERDAM,Adamshofstraat,,3061 ZJ
+2432,GRONINGEN,Nieuwe Ebbingestraat,,9712 NK
+2433,AMSTERDAM,Wijttenbachstraat,,1093 JD
+2434,TILBURG,Kamgarenplein,,5046 RE
+2435,ROTTERDAM,Pleinweg,,3083 EJ
+2436,AMSTERDAM,Admiraal De Ruijterweg,,1055 LW
+2437,GRONINGEN,Van Heemskerckstraat,,9726 GL
+2438,AMSTERDAM,Trompenburgstraat,,1079 TM
+2439,TILBURG,Valkenierstraat,,5021 DG
+2440,AMSTERDAM,Roerstraat,,1078 LM
+2441,DEN HAAG,Westeinde,,2512 GS
+2442,AMSTERDAM,Antonio Vivaldistraat,,1083 HP
+2443,GRONINGEN,Oosterhamrikkade,,9714 BJ
+2444,AMSTERDAM,Feike de Boerlaan,,1019 WG
+2445,AMSTERDAM,Nieuwe Keizersgracht,,1018 VD
+2446,ROTTERDAM,Adrien Mildersstraat,,3022 NJ
+2447,NIJMEGEN,Burghardt van den Berghstraat,,6512 DL
+2448,EINDHOVEN,Hertogstraat,,5611 PB
+2449,UTRECHT,Ketjapweg,,3541 RH
+2450,AMSTERDAM,Reinwardtstraat,,1093 HP
+2451,EINDHOVEN,Kaartmakersring,,5641 VG
+2452,EINDHOVEN,Le Sage ten Broeklaan,,5615 CS
+2453,LEIDEN,Vrouwenweg,,2322 LK
+2454,LEIDEN,Hooglandse Kerkgracht,,2312 HS
+2455,DEN HAAG,Koekangestraat,,2541 PV
+2456,EINDHOVEN,Humperdincklaan,,5654 PB
+2457,AMSTERDAM,Blankenstraat,,1018 SK
+2458,ROTTERDAM,Oudedijk,,3061 AH
+2459,GRONINGEN,Poelestraat,,9712 KA
+2460,TILBURG,Stroomlaan,,5032 XC
+2461,EINDHOVEN,Broekakkerseweg,,5641 PC
+2462,AMSTERDAM,Hoogoord,,1102 CG
+2463,AMSTERDAM,Herengracht,,1015 BS
+2464,MAASTRICHT,Herbenusstraat,,6211 RJ
+2465,GRONINGEN,Jozef Israelsplein,,9718 EN
+2466,GRONINGEN,Nieuwe Ebbingestraat,,9712 NN
+2467,DEN HAAG,Graskopstraat,,2572 WX
+2468,DEN HAAG,Van Lumeystraat,,2581 XC
+2469,GRONINGEN,Nieuweweg,,9711 TD
+2470,ROTTERDAM,Aegidiusstraat,,3061 XH
+2471,DEN HAAG,Frans Halsstraat,,2525 VT
+2472,ROTTERDAM,Zegenstraat,,3082 XR
+2473,AMSTERDAM,Agamemnonstraat,,1076 LW
+2474,TILBURG,Wittebollestraat,,5046 CE
+2475,LEIDEN,Lopsenstraat,,2312 ZZ
+2476,ROTTERDAM,Goudsesingel,,3011 KS
+2477,AMSTERDAM,Amazonenstraat,,1076 LL
+2478,AMSTERDAM,Burgemeester Van Leeuwenlaan,,1064 KK
+2479,TILBURG,Lange Schijfstraat,,5038 TT
+2480,ROTTERDAM,Ramlehstraat,,3061 JT
+2481,ROTTERDAM,'s-Gravendijkwal,,3014 EG
+2482,AMSTERDAM,Willem de Zwijgerlaan,,1055 RD
+2483,EINDHOVEN,Karel de Grotelaan,,5615 ST
+2484,ROTTERDAM,Oude Binnenweg,,3012 JA
+2485,GRONINGEN,Aweg,,9718 CW
+2486,AMSTERDAM,Meibergdreef,,1105 AX
+2487,UTRECHT,Vossegatselaan,,3583 RP
+2488,AMSTERDAM,Kinkerstraat,,1053 DG
+2489,ROTTERDAM,Bergsingel,,3037 GD
+2490,MAASTRICHT,Via Regia,,6216 BT
+2491,GRONINGEN,Westerbinnensingel,,9718 BT
+2492,UTRECHT,Goedestraat,,3572 RL
+2493,GRONINGEN,Gratamastraat,,9714 HN
+2494,AMSTERDAM,Spuistraat,,1012 VX
+2495,DEN HAAG,Moerweg,,2531 BK
+2496,ROTTERDAM,Schiedamsedijk,,3011 EJ
+2497,DEN HAAG,Boekhorststraat,,2512 CL
+2498,AMSTERDAM,Sporadenlaan,,1060 MK
+2499,DEN HAAG,Amsterdamse Veerkade,,2512 AH
+2500,ROTTERDAM,Aegidiusstraat,,3061 XN
+2501,LEIDEN,Flanorpad,,2333 AN
+2502,ROTTERDAM,Everaertstraat,,3067 VD
+2503,GRONINGEN,Gedempte Zuiderdiep,,9711 HA
+2504,AMSTERDAM,Senecastraat,,1064 ZL
+2505,GRONINGEN,Stadhouderslaan,,9717 AK
+2506,DEN HAAG,Leyweg,,2545 GV
+2507,UTRECHT,Jan Haringstraat,,3554 XV
+2508,AMSTERDAM,Henk Curierekade,,1013 CH
+2509,ROTTERDAM,Willem Buytewechstraat,,3024 BN
+2510,AMSTERDAM,Catharina Boudewijnshof,,1064 PE
+2511,AMSTERDAM,Nieuwezijds Voorburgwal,,1012 RD
+2512,AMSTERDAM,Scherpenzeelstraat,,1107 HR
+2513,AMSTERDAM,Werengouw,,1024 NZ
+2514,MAASTRICHT,Wilhelminasingel,,6221 BK
+2515,MAASTRICHT,Capucijnenstraat,,6211 RR
+2516,AMSTERDAM,Naritaweg,,1043 BX
+2517,GRONINGEN,Dirk Huizingastraat,,9713 GM
+2518,MAASTRICHT,Grote Looiersstraat,,6211 JJ
+2519,LEIDEN,Maresingel,,2316 HA
+2520,ROTTERDAM,Feijenoorddijk,,3071 RE
+2521,DEN HAAG,Wassenaarsestraat,,2586 AR
+2522,GRONINGEN,Oostersingel,,9711 XL
+2523,UTRECHT,Van Heuven Goedhartlaan,,3527 CJ
+2524,AMSTERDAM,Eva Besnyostraat,,1087 KR
+2525,ROTTERDAM,Scharlakendoorn,,3068 MT
+2526,AMSTERDAM,Langswater,,1069 EH
+2527,AMSTERDAM,Ceintuurbaan,,1073 EN
+2528,ROTTERDAM,Boezemsingel,,3031 CA
+2529,ROTTERDAM,Waterloostraat,,3062 TW
+2530,ROTTERDAM,Schiedamse Vest,,3011 BA
+2531,ROTTERDAM,Nachtegaalstraat,,3082 NL
+2532,ROTTERDAM,Meidoornstraat,,3036 WG
+2533,DEN HAAG,Copernicuslaan,,2561 VE
+2534,TILBURG,Lage Witsiebaan,,5042 DG
+2535,TILBURG,Tuinstraat,,5038 DD
+2536,DEN HAAG,Abeelstraat,,2565 XP
+2537,AMSTERDAM,Sportstraat,,1076 TZ
+2538,AMSTERDAM,Eerste Passeerdersdwarsstraat,,1016 XD
+2539,TILBURG,Van Linschotenstraat,,5021 PL
+2540,AMSTERDAM,Hogevecht,,1102 HA
+2541,AMSTERDAM,Berlagehof,,1067 NB
+2542,GRONINGEN,Van Sijsenstraat,,9724 NR
+2543,GRONINGEN,Folkingestraat,,9711 JZ
+2544,ROTTERDAM,Hoogstraat,,3011 PE
+2545,ROTTERDAM,Gerdesiaweg,,3061 RA
+2546,AMSTERDAM,Blaeu Erf,,1012 PZ
+2547,EINDHOVEN,Amalia van Anhaltstraat,,5616 BG
+2548,TILBURG,Stellenboschlaan,,5025 HV
+2549,GRONINGEN,Westersingel,,9718 CA
+2550,UTRECHT,Minrebroederstraat,,3512 GT
+2551,AMSTERDAM,Van Eeghenstraat,,1071 EV
+2552,LEIDEN,Hugo de Grootstraat,,2311 XK
+2553,GRONINGEN,Professor Enno Dirk Wiersmastraat,,9713 GK
+2554,EINDHOVEN,Hoogstraat,,5615 PA
+2555,AMSTERDAM,Arent Janszoon Ernststraat,,1082 LK
+2556,UTRECHT,Bosboom Toussaintstraat,,3532 VK
+2557,AMSTERDAM,Djakartaterras,,1095 DC
+2558,AMSTERDAM,Jan Haringstraat,,1056 XJ
+2559,AMSTERDAM,Barcelonaplein,,1019 LZ
+2560,UTRECHT,Rhijnvis Feithstraat,,3532 GN
+2561,AMSTERDAM,Hembrugstraat,,1013 XG
+2562,EINDHOVEN,Floralaan Oost,,5643 JE
+2563,AMSTERDAM,Laan van Vlaanderen,,1066 JN
+2564,ROTTERDAM,Ackersdijkstraat,,3037 VC
+2565,LEIDEN,Botermarkt,,2311 EN
+2566,ROTTERDAM,Oudedijk,,3061 AP
+2567,UTRECHT,Mariaplaats,,3511 LH
+2568,EINDHOVEN,van der Meystraat,,5622 GT
+2569,EINDHOVEN,Pastoor Petersstraat,,5612 WH
+2570,GRONINGEN,Visserstraat,,9712 CS
+2571,UTRECHT,Jodocus van Lodensteinstraat,,3553 TB
+2572,DEN HAAG,Hopmanstraat,,2497 DW
+2573,ROTTERDAM,Kortekade,,3062 GP
+2574,GRONINGEN,Peizerweg,,9726 JG
+2575,GRONINGEN,Van Sijsenstraat,,9724 NN
+2576,UTRECHT,Nicolaasstraat,,3512 XD
+2577,ROTTERDAM,Oudedijk,,3061 AG
+2578,GRONINGEN,Verlengde Visserstraat,,9718 JA
+2579,GRONINGEN,Nieuwe Boteringestraat,,9712 PG
+2580,AMSTERDAM,Grubbehoeve,,1103 GS
+2581,AMSTERDAM,Baden Powellweg,,1069 LD
+2582,GRONINGEN,Mauritsdwarsstraat,,9724 BP
+2583,AMSTERDAM,Hasebroekstraat,,1053 DA
+2584,AMSTERDAM,Albert Cuypstraat,,1072 CV
+2585,ROTTERDAM,Goudsesingel,,3011 KT
+2586,TILBURG,Korvelseweg,,5025 JJ
+2587,UTRECHT,Boothstraat,,3512 BT
+2588,AMSTERDAM,Waalstraat,,1079 ED
+2589,ROTTERDAM,Ebenhaezerstraat,,3083 RN
+2590,GRONINGEN,Gelkingestraat,,9711 NB
+2591,DEN HAAG,Dierenselaan,,2573 KN
+2592,GRONINGEN,Vondellaan,,9721 LB
+2593,GRONINGEN,Jozef Israelsstraat,,9718 GE
+2594,GRONINGEN,Hoendiep,,9745 EA
+2595,AMSTERDAM,Linnaeuskade,,1098 BE
+2596,ROTTERDAM,Maaskade,,3071 ND
+2597,TILBURG,Missionarisstraat,,5038 PH
+2598,AMSTERDAM,Nassaukade,,1054 AA
+2599,MAASTRICHT,Orleansstraat,,6217 LD
+2600,AMSTERDAM,Waverstraat,,1079 VN
+2601,DEN HAAG,Arnhemsestraat,,2587 SR
+2602,ROTTERDAM,Bulgersteyn,,3011 AB
+2603,EINDHOVEN,Rubensstraat,,5613 JV
+2604,ROTTERDAM,Pleinweg,,3083 EL
+2605,EINDHOVEN,Pisanostraat,,5623 CJ
+2606,ROTTERDAM,Heemraadssingel,,3021 DD
+2607,ROTTERDAM,Polderlaan,,3074 MA
+2608,ROTTERDAM,Statenweg,,3039 JE
+2609,ROTTERDAM,Dahliastraat,,3073 BC
+2610,ROTTERDAM,Scheepmakerspassage,,3011 VH
+2611,NIJMEGEN,Aldenhof,,6537 DB
+2612,DEN HAAG,Soesterbergstraat,,2546 XV
+2613,EINDHOVEN,Bredalaan,,5652 JA
+2614,DEN HAAG,Bezuidenhoutseweg,,2594 AC
+2615,GRONINGEN,Gedempte Zuiderdiep,,9711 HM
+2616,DEN HAAG,Van Galenstraat,,2518 EN
+2617,UTRECHT,Korfoedreef,,3562 SL
+2618,EINDHOVEN,Dr Cuyperslaan,,5622 MA
+2619,TILBURG,Capucijnenstraat,,5025 LE
+2620,TILBURG,Oude Dijk,,5038 VM
+2621,AMSTERDAM,Warmondstraat,,1058 KT
+2622,EINDHOVEN,Gestelsestraat,,5615 LD
+2623,DEN HAAG,Hoefkade,,2526 CB
+2624,TILBURG,Nieuwe Bosscheweg,,5017 JM
+2625,AMSTERDAM,Zeeburgerkade,,1019 HG
+2626,DEN HAAG,Johannes Bildersstraat,,2596 EH
+2627,UTRECHT,Marnixlaan,,3552 HG
+2628,DEN HAAG,Johannes Camphuijsstraat,,2593 CV
+2629,EINDHOVEN,Europalaan,,5623 LJ
+2630,TILBURG,Hoefstraat,,5014 NK
+2631,ROTTERDAM,Van Blommesteynweg,,3082 WE
+2632,DEN HAAG,Prins Hendrikstraat,,2518 HL
+2633,DEN HAAG,Hoenderloostraat,,2573 RK
+2634,AMSTERDAM,Tuinstraat,,1015 PH
+2635,AMSTERDAM,Binnen Oranjestraat,,1013 HZ
+2636,ROTTERDAM,Insulindestraat,,3037 BL
+2637,AMSTERDAM,Wamberg,,1083 CZ
+2638,AMSTERDAM,Van Heenvlietlaan,,1083 CM
+2639,AMSTERDAM,Schipluidenlaan,,1062 HE
+2640,EINDHOVEN,Alberdingk Thijmlaan,,5615 EC
+2641,DEN HAAG,Celebesstraat,,2585 TP
+2642,ROTTERDAM,Oostmaaslaan,,3063 AS
+2643,TILBURG,Stadhuisplein,,5038 TB
+2644,DEN HAAG,Keizerstraat,,2584 BA
+2645,EINDHOVEN,Amerlaan,,5626 BR
+2646,DEN HAAG,Dibbetsstraat,,2518 PN
+2647,UTRECHT,Albert van Dalsumlaan,,3584 HJ
+2648,UTRECHT,Morelstraat,,3552 GP
+2649,DEN HAAG,Frederik Hendriklaan,,2582 BZ
+2650,ROTTERDAM,Schalkeroord,,3079 WE
+2651,TILBURG,Jan Scharpstraat,,5014 RB
+2652,EINDHOVEN,Welschapsedijk,,5652 XN
+2653,UTRECHT,Lange Smeestraat,,3511 PW
+2654,DEN HAAG,Lobelialaan,,2555 PA
+2655,TILBURG,Wilhelminapark,,5041 EC
+2656,TILBURG,Besterdring,,5014 HL
+2657,AMSTERDAM,Van Baerlestraat,,1071 BH
+2658,DEN HAAG,Schuitenweg,,2586 AE
+2659,EINDHOVEN,Willemstraat,,5611 HC
+2660,DEN HAAG,Beeklaan,,2562 BA
+2661,DEN HAAG,Piet Heinstraat,,2518 CH
+2662,DEN HAAG,Sonoystraat,,2581 VH
+2663,TILBURG,Boomstraat,,5038 GR
+2664,TILBURG,Europalaan,,5042 ZJ
+2665,DEN HAAG,Noordeinde,,2514 GP
+2666,AMSTERDAM,Orteliusstraat,,1056 PJ
+2667,AMSTERDAM,Esplanade de Meer,,1098 WL
+2668,UTRECHT,Van Eysingalaan,,3527 VH
+2669,UTRECHT,Johan de Meesterstraat,,3532 EJ
+2670,UTRECHT,Oudegracht,,3511 PH
+2671,UTRECHT,Croeselaan,,3521 BR
+2672,UTRECHT,Gansstraat,,3582 EL
+2673,UTRECHT,Kruisweg,,3513 CS
+2674,UTRECHT,Vredenburg,,3511 BB
+2675,UTRECHT,Oudegracht,,3511 NL
+2676,UTRECHT,Telderslaan,,3527 KH
+2677,UTRECHT,Justus van Effenstraat,,3511 HK
+2678,UTRECHT,Smaragdplein,,3523 EC
+2679,UTRECHT,Van Vollenhovenlaan,,3527 JZ
+2680,UTRECHT,Jan van Ransdorpstraat,,3554 VZ
+2681,UTRECHT,Vleutenseweg,,3532 HN
+2682,AMSTERDAM,Willemsparkweg,,1071 GS
+2683,UTRECHT,Vleutenseweg,,3532 HK
+2684,MAASTRICHT,Majellastraat,,6226 HM
+2685,TILBURG,Hoefstraat,,5046 BA
+2686,AMSTERDAM,Binnenkant,,1011 BK
+2687,DEN HAAG,Dirk Hoogenraadstraat,,2586 TP
+2688,AMSTERDAM,Nieuwezijds Voorburgwal,,1012 RV
+2689,DEN HAAG,Loosduinsekade,,2571 BR
+2690,DEN HAAG,Prins Mauritslaan,,2582 LS
+2691,DEN HAAG,Van Slingelandtstraat,,2582 XS
+2692,DEN HAAG,Willem de Zwijgerlaan,,2582 EJ
+2693,DEN HAAG,Oranjestraat,,2514 JB
+2694,DEN HAAG,Goudenregenstraat,,2565 ET
+2695,AMSTERDAM,Singel,,1012 VK
+2696,TILBURG,Arke Noestraat,,5041 LK
+2697,DEN HAAG,Palaceplein,,2587 WL
+2698,DEN HAAG,Frankenslag,,2582 HG
+2699,MAASTRICHT,Wycker Smedenstraat,,6221 ER
+2700,DEN HAAG,Symonszstraat,,2584 CW
+2701,LEIDEN,Rapenburg,,2311 EV
+2702,TILBURG,Koestraat,,5014 EB
+2703,AMSTERDAM,Amstel,,1017 AL
+2704,TILBURG,Van Maerlantstraat,,5025 PK
+2705,AMSTERDAM,Archimedesweg,,1098 JR
+2706,DEN HAAG,Witte de Withstraat,,2518 CN
+2707,ROTTERDAM,Mathenesserlaan,,3021 HE
+2708,ROTTERDAM,Witte de Withstraat,,3012 BM
+2709,UTRECHT,Oudegracht,,3511 PM
+2710,DEN HAAG,Zoutmanstraat,,2518 GN
+2711,UTRECHT,Croeselaan,,3521 CG
+2712,ROTTERDAM,Cornelis Heinricksestraat,,3078 HH
+2713,DEN HAAG,Emmastraat,,2595 EH
+2714,LEIDEN,Bachstraat,,2324 HD
+2715,UTRECHT,Wijde Begijnestraat,,3512 AW
+2716,UTRECHT,Weerdsingel O.Z.,,3514 AG
+2717,DEN HAAG,Dunne Bierkade,,2512 BC
+2718,DEN HAAG,Van der Heimstraat,,2582 SB
+2719,DEN HAAG,Dunne Bierkade,,2512 BD
+2720,DEN HAAG,Groenewegje,,2515 LR
+2721,DEN HAAG,Sportlaan,,2566 NE
+2722,DEN HAAG,Gedempte Gracht,,2512 AM
+2723,DEN HAAG,Mallemolen,,2585 XH
+2724,DEN HAAG,Jan Willem Frisohof,,2517 LA
+2725,DEN HAAG,Toussaintkade,,2513 CJ
+2726,DEN HAAG,Sweelinckplein,,2517 GK
+2727,DEN HAAG,Renswoudelaan,,2546 XE
+2728,DEN HAAG,Molenstraat,,2513 BJ
+2729,DEN HAAG,Gevers Deynootweg,,2586 HJ
+2730,DEN HAAG,Sterappelstraat,,2564 RA
+2731,DEN HAAG,Hoogstraat,,2513 AP
+2732,DEN HAAG,Hoogstraat,,2513 AS
+2733,DEN HAAG,Berkenbosch Blokstraat,,2586 HD
+2734,DEN HAAG,Gevers Deynootweg,,2586 BK
+2735,DEN HAAG,Meidoornstraat,,2563 GE
+2736,TILBURG,Gardiaanhof,,5025 JP
+2737,TILBURG,Westpoint,,5038 KG
+2738,GRONINGEN,Paterswoldseweg,,9727 BH
+2739,EINDHOVEN,van Thienenlaan,,5622 BE
+2740,EINDHOVEN,Malagijsweg,,5625 HG
+2741,EINDHOVEN,Vlokhovenseweg,,5625 WV
+2742,EINDHOVEN,Laagstraat,,5654 PS
+2743,EINDHOVEN,Johan de Wittlaan,,5631 AP
+2744,EINDHOVEN,Woenselse Markt,,5612 CP
+2745,EINDHOVEN,Strijpsestraat,,5616 GT
+2746,EINDHOVEN,Adelaertstraat,,5625 HC
+2747,EINDHOVEN,Tinelstraat,,5654 LW
+2748,EINDHOVEN,Hercules Segherslaan,,5642 AA
+2749,EINDHOVEN,Veldmaarschalk Montgomerylaan,,5612 BP
+2750,AMSTERDAM,Poeldijkstraat,,1059 VL
+2751,AMSTERDAM,Spuistraat,,1012 VR
+2752,AMSTERDAM,Spuistraat,,1012 TX
+2753,AMSTERDAM,Olympiaweg,,1076 VS
+2754,AMSTERDAM,Keizersgracht,,1016 GC
+2755,LEIDEN,Nieuwe Mare,,2312 NL
+2756,ROTTERDAM,Palestinastraat,,3061 HK
+2757,EINDHOVEN,Samuel de Langestraat,,5654 GE
+2758,GRONINGEN,Nieuwe Boteringestraat,,9712 PN
+2759,AMSTERDAM,Dubbelink,,1102 AL
+2760,UTRECHT,Turkooislaan,,3523 GK
+2761,AMSTERDAM,Krulslaplantsoen,,1104 KK
+2762,GRONINGEN,Briljantstraat,,9743 NJ
+2763,DEN HAAG,Vechtstraat,,2515 SV
+2764,DEN HAAG,Pasteurstraat,,2522 RT
+2765,AMSTERDAM,Wijttenbachstraat,,1093 JB
+2766,AMSTERDAM,Bultrugpad,,1035 HS
+2767,ROTTERDAM,Weteringstraat,,3061 PR
+2768,ROTTERDAM,Schiebroekselaan,,3037 RJ
+2769,MAASTRICHT,Bogaardenstraat,,6211 SM
+2770,EINDHOVEN,Lichtstraat,,5611 XA
+2771,AMSTERDAM,Haarlemmermeerstraat,,1058 KG
+2772,GRONINGEN,Gorechtkade,,9713 BC
+2773,AMSTERDAM,Wethouder Seegersplein,,1107 DM
+2774,LEIDEN,Kort Rapenburg,,2311 GC
+2775,GRONINGEN,Star Numanstraat,,9714 JH
+2776,ROTTERDAM,Veerlaan,,3072 ZV
+2777,UTRECHT,Van Vollenhovenlaan,,3527 JH
+2778,AMSTERDAM,Robert Fruinlaan,,1065 XZ
+2779,AMSTERDAM,Louweshoek,,1066 DP
+2780,AMSTERDAM,Mikonospad,,1060 MX
+2781,LEIDEN,Hogewoerd,,2311 HV
+2782,ROTTERDAM,Schieweg,,3038 AE
+2783,GRONINGEN,Van Brakelplein,,9726 HD
+2784,AMSTERDAM,Baarsjesweg,,1057 HP
+2785,ROTTERDAM,Charlotte de Bourbonlaan,,3062 GD
+2786,AMSTERDAM,Nicolaas Anslijnstraat,,1068 WS
+2787,GRONINGEN,Gorechtkade,,9713 CN
+2788,NIJMEGEN,Leeuwstraat,,6531 RA
+2789,NIJMEGEN,van Peltlaan,,6533 ZG
+2790,GRONINGEN,Robijnstraat,,9743 KN
+2791,GRONINGEN,Borgplein,,9716 GG
+2792,EINDHOVEN,Laagstraat,,5654 PR
+2793,AMSTERDAM,Millingenhof,,1106 KV
+2794,UTRECHT,Peltlaan,,3527 EA
+2795,ROTTERDAM,Mathenesserlaan,,3021 HT
+2796,AMSTERDAM,Vrolikstraat,,1092 TX
+2797,UTRECHT,Korfoedreef,,3562 SM
+2798,TILBURG,Hasseltstraat,,5046 LJ
+2799,GRONINGEN,Rembrandt van Rijnstraat,,9718 PH
+2800,ROTTERDAM,Eemstein,,3073 KA
+2801,GRONINGEN,Turfsingel,,9711 VV
+2802,AMSTERDAM,Albert Cuypstraat,,1072 CL
+2803,AMSTERDAM,Windroosplein,,1018 ZW
+2804,ROTTERDAM,Meent,,3011 JC
+2805,DEN HAAG,Capadosestraat,,2523 AG
+2806,DEN HAAG,Van Bylandtstraat,,2562 GG
+2807,AMSTERDAM,Postjeskade,,1058 DL
+2808,ROTTERDAM,Katendrechtse Lagedijk,,3081 ZW
+2809,NIJMEGEN,St. Jacobslaan,,6533 VL
+2810,NIJMEGEN,Graafseweg,,6531 ZR
+2811,NIJMEGEN,Dokstraat,,6541 EZ
+2812,ROTTERDAM,Baljuwplein,,3033 XC
+2813,ROTTERDAM,Oostzeedijk,,3063 BK
+2814,ROTTERDAM,Herman Robbersstraat,,3031 RH
+2815,NIJMEGEN,Aldenhof,,6537 BH
+2816,DEN HAAG,Heliotrooplaan,,2555 MJ
+2817,AMSTERDAM,De Egmondenstraat,,1024 SJ
+2818,LEIDEN,Vrijheidslaan,,2321 DR
+2819,GRONINGEN,Pelsterdwarsstraat,,9711 KP
+2820,GRONINGEN,Tuinbouwstraat,,9717 JS
+2821,NIJMEGEN,Pontanusstraat,,6524 HC
+2822,ROTTERDAM,Goudsesingel,,3031 EC
+2823,AMSTERDAM,Ruys de Beerenbrouckstraat,,1067 BM
+2824,UTRECHT,Europaplein,,3526 WR
+2825,EINDHOVEN,Barneveldstraat,,5651 AD
+2826,LEIDEN,Zoeterwoudseweg,,2321 GR
+2827,GRONINGEN,Lutkenieuwstraat,,9712 AW
+2828,AMSTERDAM,Amstel,,1018 EK
+2829,ROTTERDAM,Frans Bekkerstraat,,3082 TW
+2830,ROTTERDAM,Van der Meydestraat,,3039 TE
+2831,UTRECHT,Moskeeplein,,3531 BX
+2832,UTRECHT,Jan Pieterszoon Coenstraat,,3531 EZ
+2833,AMSTERDAM,Westerdok,,1013 BH
+2834,TILBURG,Magazijnstraat,,5038 BV
+2835,TILBURG,Daniel Josephus Jittastraat,,5042 MV
+2836,AMSTERDAM,Bastenakenstraat,,1066 JB
+2837,AMSTERDAM,Linnaeusparkweg,,1098 CM
+2838,UTRECHT,Louis Armstronglaan,,3543 EB
+2839,ROTTERDAM,Bonaventurastraat,,3081 HD
+2840,AMSTERDAM,Lanseloetstraat,,1055 BB
+2841,NIJMEGEN,Daalseweg,,6521 GK
+2842,NIJMEGEN,Krayenhofflaan,,6541 PW
+2843,AMSTERDAM,Derde Schinkelstraat,,1075 TL
+2844,GRONINGEN,Tressenplaats,,9722 XC
+2845,EINDHOVEN,Zandhagedis,,5658 AT
+2846,UTRECHT,Galvanistraat,,3553 RD
+2847,NIJMEGEN,Prins Bernhardstraat,,6521 AC
+2848,AMSTERDAM,Overtoom,,1054 JM
+2849,TILBURG,Telegraafstraat,,5038 BM
+2850,ROTTERDAM,Nieuwenoord,,3079 LH
+2851,ROTTERDAM,Dordtselaan,,3073 GL
+2852,MAASTRICHT,Frankenstraat,,6226 AB
+2853,MAASTRICHT,Koning Clovisstraat,,6226 AE
+2854,UTRECHT,Willem van Noortplein,,3514 GK
+2855,UTRECHT,Jutfaseweg,,3522 HD
+2856,AMSTERDAM,James Cookstraat,,1056 SC
+2857,DEN HAAG,Azaleastraat,,2565 CD
+2858,UTRECHT,Narcisstraat,,3551 EP
+2859,ROTTERDAM,Claes de Vrieselaan,,3021 JD
+2860,UTRECHT,Koekoekstraat,,3514 CV
+2861,DEN HAAG,Vlierboomstraat,,2564 HR
+2862,DEN HAAG,Soestdijksekade,,2574 BD
+2863,EINDHOVEN,Bomansplaats,,5611 NT
+2864,AMSTERDAM,Sassenheimstraat,,1059 BM
+2865,AMSTERDAM,Pieter Postsingel,,1067 DJ
+2866,NIJMEGEN,Pater Eijmardweg,,6525 RM
+2867,AMSTERDAM,Beethovenstraat,,1077 JS
+2868,UTRECHT,Sweelinckstraat,,3581 RT
+2869,AMSTERDAM,Vrijheidslaan,,1078 PS
+2870,AMSTERDAM,Boymansweg,,1064 WR
+2871,AMSTERDAM,Oleanderstraat,,1031 GP
+2872,UTRECHT,Neerlandiakade,,3525 BT
+2873,DEN HAAG,Lange Beestenmarkt,,2512 EH
+2874,AMSTERDAM,Sam van Houtenstraat,,1067 JK
+2875,UTRECHT,Poortstraat,,3572 HE
+2876,AMSTERDAM,Eerste Constantijn Huygensstraat,,1054 BR
+2877,UTRECHT,Brucknerlaan,,3533 KG
+2878,ROTTERDAM,Beijerlandsestraat,,3074 RC
+2879,AMSTERDAM,Pieter Calandlaan,,1060 TT
+2880,AMSTERDAM,Niersstraat,,1078 VG
+2881,ROTTERDAM,Philips Willemstraat,,3051 PS
+2882,ROTTERDAM,Delistraat,,3072 ZL
+2883,UTRECHT,Lelimanstraat,,3555 CA
+2884,UTRECHT,Livingstonelaan,,3526 JK
+2885,AMSTERDAM,Amstelkade,,1078 AJ
+2886,UTRECHT,Oudenoord,,3513 EP
+2887,DEN HAAG,Linnaeusstraat,,2522 GW
+2888,AMSTERDAM,Van Woustraat,,1074 AL
+2889,LEIDEN,Prins Frederikstraat,,2316 CH
+2890,UTRECHT,Otterstraat,,3513 CN
+2891,LEIDEN,Topaaslaan,,2332 JC
+2892,GRONINGEN,Nieuwe Blekerstraat,,9718 ED
+2893,GRONINGEN,Borneoplein,,9715 GM
+2894,UTRECHT,Anthoniedijk,,3552 XC
+2895,AMSTERDAM,Granidastraat,,1055 HL
+2896,LEIDEN,Klikspaanweg,,2324 LV
+2897,LEIDEN,Dwarsboomgaardsteeg,,2311 DD
+2898,NIJMEGEN,Remmersteinstraat,,6535 PJ
+2899,AMSTERDAM,Admiraal De Ruijterweg,,1055 LS
+2900,LEIDEN,Oranjeboomstraat,,2311 NX
+2901,AMSTERDAM,Jaap Speyerstraat,,1087 MK
+2902,DEN HAAG,Lage Nieuwstraat,,2512 WH
+2903,UTRECHT,Surinamestraat,,3531 KH
+2904,MAASTRICHT,Sphinxcour,,6211 XZ
+2905,DEN HAAG,Waterbiesweg,,2548 WZ
+2906,DEN HAAG,Paulus Potterstraat,,2526 TC
+2907,AMSTERDAM,Jacob van Arteveldestraat,,1061 CK
+2908,EINDHOVEN,Lichtstraat,,5611 XK
+2909,LEIDEN,Vlietweg,,2323 LA
+2910,LEIDEN,Morsweg,,2332 ET
+2911,GRONINGEN,Nieuwe Boteringestraat,,9712 PE
+2912,AMSTERDAM,Robert Scottstraat,,1056 BA
+2913,UTRECHT,1e Daalsedijk,,3513 TL
+2914,AMSTERDAM,Dirk Bonsstraat,,1063 TX
+2915,AMSTERDAM,Dilsenstraat,,1066 KB
+2916,TILBURG,Van Bylandtstraat,,5046 MC
+2917,GRONINGEN,Grote Leliestraat,,9712 SM
+2918,ROTTERDAM,Joostingstraat,,3071 TS
+2919,TILBURG,Korvelseweg,,5025 JK
+2920,NIJMEGEN,Bijleveldsingel,,6524 AE
+2921,EINDHOVEN,Klundertstraat,,5652 JR
+2922,DEN HAAG,Weteringkade,,2515 AM
+2923,UTRECHT,Adelaarstraat,,3514 CB
+2924,AMSTERDAM,Holendrechtstraat,,1078 TT
+2925,ROTTERDAM,Flakkeesestraat,,3083 CB
+2926,AMSTERDAM,Javastraat,,1095 DS
+2927,UTRECHT,Marnixlaan,,3552 HA
+2928,MAASTRICHT,Alexander Battalaan,,6221 CC
+2929,DEN HAAG,Rijswijkseweg,,2516 EE
+2930,LEIDEN,Herenstraat,,2313 AG
+2931,LEIDEN,Maredijk,,2316 VP
+2932,EINDHOVEN,Eimerick,,5653 RJ
+2933,LEIDEN,Zoeterwoudseweg,,2321 GS
+2934,NIJMEGEN,Dobbelmannweg,,6531 KW
+2935,AMSTERDAM,Tjasker,,1035 CT
+2936,DEN HAAG,Laan van Scheltema,,2548 AW
+2937,MAASTRICHT,Brandenburgerweg,,6214 AJ
+2938,GRONINGEN,Friesestraatweg,,9718 NB
+2939,AMSTERDAM,Bijlmerdreef,,1102 AC
+2940,EINDHOVEN,Verwerstraat,,5612 EB
+2941,AMSTERDAM,Veldhuizenstraat,,1106 DG
+2942,AMSTERDAM,Retiefstraat,,1092 VW
+2943,EINDHOVEN,Boschdijk,,5612 HC
+2944,UTRECHT,Reiderland,,3524 BB
+2945,ROTTERDAM,Mathenesserweg,,3026 HK
+2946,GRONINGEN,Riouwstraat,,9715 BX
+2947,ROTTERDAM,Kralingseweg,,3062 HB
+2948,EINDHOVEN,Cederlaan,,5616 SC
+2949,GRONINGEN,Walstraat,,9711 VS
+2950,GRONINGEN,Energieweg,,9743 AX
+2951,EINDHOVEN,Laagstraat,,5654 PK
+2952,ROTTERDAM,Proveniersstraat,,3033 CE
+2953,ROTTERDAM,Dordtselaan,,3073 GH
+2954,AMSTERDAM,Het Hoogt,,1025 HL
+2955,AMSTERDAM,Orteliusstraat,,1056 PL
+2956,DEN HAAG,Vinkensteynstraat,,2562 TL
+2957,DEN HAAG,Hoenderloostraat,,2573 RN
+2958,AMSTERDAM,Admiraal De Ruijterweg,,1055 NH
+2959,AMSTERDAM,Roelof Hartstraat,,1071 VG
+2960,ROTTERDAM,Boreelstraat,,3039 WH
+2961,MAASTRICHT,Ambyerstraat Noord,,6225 EA
+2962,AMSTERDAM,Gloriantstraat,,1055 CS
+2963,AMSTERDAM,Baden Powellweg,,1069 LC
+2964,GRONINGEN,Soephuisstraatje,,9712 BZ
+2965,ROTTERDAM,Doggerstraat,,3028 HL
+2966,AMSTERDAM,Jephtastraat,,1055 JT
+2967,GRONINGEN,Duindoornstraat,,9741 NM
+2968,AMSTERDAM,Leusdenhof,,1108 CS
+2969,DEN HAAG,Kazernestraat,,2514 CW
+2970,MAASTRICHT,Schippersdreef,,6216 TJ
+2971,EINDHOVEN,Genovevalaan,,5625 AN
+2972,GRONINGEN,Hoekstraat,,9712 AP
+2973,LEIDEN,Leliestraat,,2313 BJ
+2974,LEIDEN,De Sitterlaan,,2313 TP
+2975,AMSTERDAM,Groenhoven,,1103 LC
+2976,UTRECHT,Ternatestraat,,3531 RZ
+2977,GRONINGEN,Briljantstraat,,9743 NL
+2978,AMSTERDAM,Rijnstraat,,1078 PW
+2979,TILBURG,Veestraat,,5021 PT
+2980,AMSTERDAM,Admiraal De Ruijterweg,,1056 GJ
+2981,MAASTRICHT,Louis Loyensstraat,,6221 AK
+2982,LEIDEN,Jacques Urlusplantsoen,,2324 LE
+2983,LEIDEN,Hugo de Grootstraat,,2311 XL
+2984,ROTTERDAM,De Quackstraat,,3082 VR
+2985,ROTTERDAM,Bergselaan,,3037 CA
+2986,AMSTERDAM,Grubbehoeve,,1103 GZ
+2987,ROTTERDAM,Krabbestraat,,3052 NT
+2988,AMSTERDAM,Van Musschenbroekstraat,,1091 DC
+2989,UTRECHT,Theo van Doesburgstraat,,3544 MK
+2990,MAASTRICHT,Mathijs Heugenstraat,,6227 AW
+2991,GRONINGEN,Turkooisstraat,,9743 KZ
+2992,AMSTERDAM,Jan van Zutphenstraat,,1069 RR
+2993,UTRECHT,Amstelstraat,,3522 CW
+2994,AMSTERDAM,J. de Koostraat,,1068 KS
+2995,ROTTERDAM,Zuidhoek,,3082 PR
+2996,GRONINGEN,Goudlaan,,9743 EG
+2997,GRONINGEN,Oosterhavenstraat,,9711 SC
+2998,GRONINGEN,Meeuwerderweg,,9724 EP
+2999,GRONINGEN,Grote Markt,,9711 LX
+3000,DEN HAAG,Oudemansstraat,,2522 TG
+3001,GRONINGEN,Kraneweg,,9718 JT
+3002,GRONINGEN,Kleine Raamstraat,,9711 CG
+3003,ROTTERDAM,Van Opbergenstraat,,3067 XN
+3004,GRONINGEN,Kerklaan,,9717 HG
+3005,EINDHOVEN,Leenderweg,,5644 AA
+3006,AMSTERDAM,Lange Leidsedwarsstraat,,1017 NM
+3007,ROTTERDAM,Blommersdijkselaan,,3036 NB
+3008,AMSTERDAM,De Wittenstraat,,1052 BA
+3009,DEN HAAG,Goeverneurlaan,,2523 BR
+3010,AMSTERDAM,Curacaostraat,,1058 CB
+3011,AMSTERDAM,Looiersgracht,,1016 VT
+3012,ROTTERDAM,Atjehstraat,,3072 ZJ
+3013,TILBURG,Europalaan,,5042 ZG
+3014,TILBURG,Noordstraat,,5038 EK
+3015,TILBURG,Kasteeldreef,,5046 CV
+3016,TILBURG,Superior de Beerstraat,,5046 HA
+3017,ROTTERDAM,Anna Blamanhof,,3031 NA
+3018,NIJMEGEN,Vredestraat,,6511 AG
+3019,UTRECHT,Voorstraat,,3512 AJ
+3020,MAASTRICHT,Mathijs Heugenstraat,,6227 AV
+3021,GRONINGEN,Nieuwe Ebbingestraat,,9712 NM
+3022,EINDHOVEN,Samuel de Langestraat,,5654 GG
+3023,TILBURG,Hesperenstraat,,5025 KS
+3024,GRONINGEN,Aquamarijnstraat,,9743 PW
+3025,GRONINGEN,Celebesstraat,,9715 JJ
+3026,UTRECHT,Javastraat,,3531 PM
+3027,NIJMEGEN,Oude Graafseweg,,6543 PN
+3028,AMSTERDAM,H. Diesveldsingel,,1060 RL
+3029,GRONINGEN,Siriusstraat,,9742 KV
+3030,AMSTERDAM,IJdoornlaan,,1034 BM
+3031,TILBURG,Ringbaan-Noord,,5046 AC
+3032,EINDHOVEN,Jonckbloetlaan,,5615 EM
+3033,DEN HAAG,Hendrik van Deventerstraat,,2563 XR
+3034,ROTTERDAM,Aegidiusstraat,,3061 XP
+3035,LEIDEN,Hogewoerd,,2311 HR
+3036,ROTTERDAM,Van Vollenhovenstraat,,3016 BE
+3037,AMSTERDAM,Lange Leidsedwarsstraat,,1017 NN
+3038,GRONINGEN,Dijkstraat,,9724 KW
+3039,AMSTERDAM,Jan Pieter Heijestraat,,1054 MD
+3040,AMSTERDAM,Govert Flinckstraat,,1072 EN
+3041,DEN HAAG,Vledderstraat,,2545 RL
+3042,AMSTERDAM,Heemstedestraat,,1062 XT
+3043,DEN HAAG,Trooststraat,,2525 GP
+3044,ROTTERDAM,Tapuitstraat,,3083 WX
+3045,ROTTERDAM,Nicolaas Beetsstraat,,3027 AN
+3046,AMSTERDAM,Karspeldreef,,1104 SE
+3047,ROTTERDAM,Beijerlandselaan,,3074 EC
+3048,AMSTERDAM,Van Diemenkade,,1013 CR
+3049,AMSTERDAM,Singel,,1016 AG
+3050,ROTTERDAM,Kerkwervesingel,,3086 HL
+3051,ROTTERDAM,Plotinusstraat,,3076 NS
+3052,AMSTERDAM,Gravestein,,1103 BH
+3053,ROTTERDAM,Pleinweg,,3081 JE
+3054,GRONINGEN,Heresingel,,9711 EV
+3055,AMSTERDAM,IJdok,,1013 MM
+3056,ROTTERDAM,Schiedamseweg,,3026 AC
+3057,AMSTERDAM,Loenermark,,1025 SW
+3058,AMSTERDAM,Midscheeps,,1034 TM
+3059,GRONINGEN,Petrus Campersingel,,9713 AK
+3060,UTRECHT,Korte Jufferstraat,,3512 EZ
+3061,ROTTERDAM,Witte van Haemstedestraat,,3021 ST
+3062,EINDHOVEN,van Brakelstraat,,5612 GP
+3063,EINDHOVEN,Willem Barentzstraat,,5612 KL
+3064,AMSTERDAM,Leerdamhof,,1108 BX
+3065,DEN HAAG,Barentszstraat,,2518 XC
+3066,GRONINGEN,Mauritsstraat,,9724 BH
+3067,GRONINGEN,J.A. Feithstraat,,9725 AR
+3068,GRONINGEN,Parkweg,,9727 HB
+3069,AMSTERDAM,Wiardi Beckmanstraat,,1063 TG
+3070,AMSTERDAM,Kiekstraat,,1087 GT
+3071,AMSTERDAM,Jennerstraat,,1097 GC
+3072,EINDHOVEN,Schootsestraat,,5616 RG
+3073,LEIDEN,Rapenburg,,2311 GA
+3074,ROTTERDAM,Volmarijnstraat,,3021 XS
+3075,AMSTERDAM,Harry Koningsbergerstraat,,1063 AJ
+3076,AMSTERDAM,Kelbergen,,1104 LJ
+3077,LEIDEN,Agaatlaan,,2332 RA
+3078,AMSTERDAM,Planciusstraat,,1013 MD
+3079,EINDHOVEN,Venuslaan,,5632 HD
+3080,EINDHOVEN,van Blankenburgstraat,,5654 HC
+3081,EINDHOVEN,Venuslaan,,5632 HL
+3082,EINDHOVEN,Vestdijk,,5611 CA
+3083,GRONINGEN,Saturnuslaan,,9742 EB
+3084,EINDHOVEN,Zandtong,,5658 AX
+3085,EINDHOVEN,Sterkenburg,,5653 NN
+3086,EINDHOVEN,Roostenlaan,,5644 GA
+3087,EINDHOVEN,Picushof,,5613 SG
+3088,EINDHOVEN,Kastelenplein,,5653 LV
+3089,EINDHOVEN,Herman Gorterlaan,,5644 SC
+3090,EINDHOVEN,Heezerweg,,5614 HJ
+3091,EINDHOVEN,Eeuwig Licht,,5629 KP
+3092,AMSTERDAM,Oude Looiersstraat,,1016 VK
+3093,EINDHOVEN,De Regent,,5611 HW
+3094,ROTTERDAM,Willem Buytewechstraat,,3024 XD
+3095,AMSTERDAM,Lekstraat,,1079 EW
+3096,DEN HAAG,Jan ten Brinkstraat,,2522 JJ
+3097,UTRECHT,Oudegracht,,3511 NG
+3098,ROTTERDAM,Noordplein,,3035 EC
+3099,EINDHOVEN,Pioenroosstraat,,5644 CA
+3100,AMSTERDAM,Nickeriestraat,,1058 VZ
+3101,AMSTERDAM,Van Boetzelaerstraat,,1051 CV
+3102,DEN HAAG,Kapitein De Rijkstraat,,2583 BK
+3103,AMSTERDAM,Koppenburglaan,,1104 PR
+3104,GRONINGEN,Koeriersterweg,,9727 AC
+3105,AMSTERDAM,Stadionweg,,1077 SJ
+3106,ROTTERDAM,Hemingwayplaats,,3068 WN
+3107,ROTTERDAM,Walchersestraat,,3083 NL
+3108,ROTTERDAM,Hogenbanweg,,3028 GW
+3109,ROTTERDAM,Van Swietenlaan,,3083 DT
+3110,LEIDEN,Koninginnelaan,,2313 AS
+3111,UTRECHT,Obrechtstraat,,3572 EC
+3112,GRONINGEN,Zuiderkerkstraat,,9712 PZ
+3113,ROTTERDAM,Dijkstraat,,3061 TA
+3114,DEN HAAG,Regentesselaan,,2562 EC
+3115,GRONINGEN,Tellegenstraat,,9714 GA
+3116,ROTTERDAM,Aelbrechtskade,,3023 JH
+3117,AMSTERDAM,Jan van Duivenvoordestraat,,1067 MT
+3118,NIJMEGEN,St. Stephanusstraat,,6512 HT
+3119,TILBURG,Abdij van Averbodestraat,,5037 CB
+3120,TILBURG,Bisschop Masiusstraat,,5014 PB
+3121,EINDHOVEN,Achterom,,5611 GA
+3122,AMSTERDAM,Biesboschstraat,,1078 MR
+3123,EINDHOVEN,Hofstraat,,5641 TA
+3124,UTRECHT,Kees van Bohemenhof,,3544 MC
+3125,MAASTRICHT,Kasteel Schaloenstraat,,6222 TP
+3126,GRONINGEN,Jozef Israelsstraat,,9718 GD
+3127,ROTTERDAM,Johan de Meesterstraat,,3031 SP
+3128,GRONINGEN,Soendastraat,,9715 NG
+3129,UTRECHT,Pieter Nieuwlandstraat,,3514 HG
+3130,GRONINGEN,Geulstraat,,9725 CH
+3131,ROTTERDAM,Schietbaanlaan,,3021 LP
+3132,AMSTERDAM,Joris Ivensplein,,1087 BP
+3133,GRONINGEN,Van Starkenborghstraat,,9721 EE
+3134,LEIDEN,Sint Jacobsgracht,,2311 PW
+3135,DEN HAAG,De Heemstraat,,2525 EM
+3136,AMSTERDAM,Wipmolen,,1035 CZ
+3137,ROTTERDAM,Statenweg,,3039 HK
+3138,ROTTERDAM,Godijn van Dormaalstraat,,3067 JL
+3139,UTRECHT,Wed,,3512 JH
+3140,UTRECHT,Rooseveltlaan,,3526 BG
+3141,ROTTERDAM,Putselaan,,3073 JM
+3142,AMSTERDAM,Marcantilaan,,1051 NL
+3143,UTRECHT,Van Limburg Stirumstraat,,3581 VC
+3144,AMSTERDAM,Groenhoven,,1103 LH
+3145,AMSTERDAM,Leimuidenstraat,,1059 ED
+3146,UTRECHT,Lieven de Keylaan,,3555 VZ
+3147,MAASTRICHT,Grote Gracht,,6211 SW
+3148,AMSTERDAM,Kruisbessenstraat,,1033 LV
+3149,UTRECHT,Marnixlaan,,3552 HK
+3150,GRONINGEN,Suikerlaan,,9743 DA
+3151,ROTTERDAM,Polderlaan,,3074 MC
+3152,ROTTERDAM,Van Noortwijckstraat,,3042 LP
+3153,ROTTERDAM,Wieringerstraat,,3083 CJ
+3154,GRONINGEN,Oosterhamriklaan,,9714 JX
+3155,GRONINGEN,Tweede Hunzestraat,,9715 BR
+3156,UTRECHT,Amerikalaan,,3526 VJ
+3157,DEN HAAG,Laan van Meerdervoort,,2517 AJ
+3158,ROTTERDAM,Zuidhoek,,3082 PG
+3159,TILBURG,Bredaseweg,,5036 NA
+3160,TILBURG,Ardennenlaan,,5022 NM
+3161,TILBURG,Berkdijksestraat,,5025 VC
+3162,ROTTERDAM,Van Swietenlaan,,3083 DV
+3163,GRONINGEN,Bruine Ruiterstraat,,9711 KR
+3164,ROTTERDAM,Mathenesserdijk,,3027 BB
+3165,ROTTERDAM,Stadhoudersplein,,3038 EA
+3166,AMSTERDAM,Amstel,,1017 AA
+3167,GRONINGEN,Gratamastraat,,9714 HP
+3168,AMSTERDAM,Amsteldijk,,1074 HR
+3169,TILBURG,Generaal Winkelmanstraat,,5025 XE
+3170,AMSTERDAM,Korte Leidsedwarsstraat,,1017 PV
+3171,AMSTERDAM,Wibautstraat,,1091 GL
+3172,AMSTERDAM,Kwekerijlaan,,1036 KC
+3173,ROTTERDAM,Amelandseplein,,3083 SE
+3174,GRONINGEN,Tuinbouwdwarsstraat,,9717 HV
+3175,GRONINGEN,Westerbinnensingel,,9718 BR
+3176,ROTTERDAM,Hugo Molenaarstraat,,3022 NM
+3177,NIJMEGEN,Harpstraat,,6544 XP
+3178,AMSTERDAM,Bestevaerstraat,,1055 TL
+3179,GRONINGEN,Rembrandt van Rijnstraat,,9718 PN
+3180,AMSTERDAM,Kantershof,,1104 GB
+3181,AMSTERDAM,Joost Bilhamerstraat,,1067 AX
+3182,AMSTERDAM,3e Kekerstraat,,1104 VC
+3183,GRONINGEN,Paterswoldseweg,,9727 BD
+3184,DEN HAAG,Valkenboskade,,2563 HC
+3185,ROTTERDAM,Struitenweg,,3082 WX
+3186,GRONINGEN,Professor Rankestraat,,9713 GE
+3187,NIJMEGEN,Maasstraat,,6541 ZB
+3188,GRONINGEN,Bankastraat,,9715 CB
+3189,MAASTRICHT,Fatimaplein,,6214 TT
+3190,AMSTERDAM,Van Kinsbergenstraat,,1057 PR
+3191,AMSTERDAM,Bennebroekstraat,,1058 LM
+3192,AMSTERDAM,Kinkerstraat,,1053 EG
+3193,UTRECHT,Herman de Manstraat,,3544 HN
+3194,AMSTERDAM,Amstelkade,,1078 AZ
+3195,GRONINGEN,Violenstraat,,9712 RC
+3196,AMSTERDAM,Binnenkant,,1011 BR
+3197,GRONINGEN,Kortenaerstraat,,9726 HK
+3198,EINDHOVEN,Aert van der Neerstraat,,5642 LK
+3199,UTRECHT,Bankastraat,,3531 HG
+3200,AMSTERDAM,Van Mourik Broekmanstraat,,1065 EX
+3201,AMSTERDAM,Kromme-Mijdrechtstraat,,1079 LD
+3202,GRONINGEN,Illegaliteitslaan,,9727 EG
+3203,DEN HAAG,Frederik Hendriklaan,,2582 CC
+3204,AMSTERDAM,Coppelstockstraat,,1056 XM
+3205,AMSTERDAM,Sassenheimstraat,,1059 BJ
+3206,ROTTERDAM,Zuidhoek,,3082 PS
+3207,EINDHOVEN,Strijpsestraat,,5616 GS
+3208,GRONINGEN,Helper Westsingel,,9721 BC
+3209,MAASTRICHT,Tongerseweg,,6213 GC
+3210,ROTTERDAM,Schieweg,,3038 AB
+3211,AMSTERDAM,Groeneveen,,1103 EG
+3212,UTRECHT,Voorstraat,,3512 AK
+3213,ROTTERDAM,Jan Sonjestraat,,3021 TT
+3214,AMSTERDAM,H.M. Kraaijvangerstraat,,1064 DA
+3215,GRONINGEN,Marwixstraat,,9726 CA
+3216,ROTTERDAM,Baljuwplein,,3033 XE
+3217,EINDHOVEN,St Petrus Canisiuslaan,,5643 WG
+3218,GRONINGEN,Vondellaan,,9721 LJ
+3219,AMSTERDAM,Grootzeil,,1034 LS
+3220,TILBURG,Munttorenstraat,,5037 BA
+3221,AMSTERDAM,Tweede Keucheniusstraat,,1051 VP
+3222,TILBURG,Paletplein,,5044 JC
+3223,GRONINGEN,Slachthuisstraat,,9713 MT
+3224,NIJMEGEN,Vondelstraat,,6512 BG
+3225,GRONINGEN,Korreweg,,9714 AG
+3226,GRONINGEN,Nieuwe Sint Jansstraat,,9711 VJ
+3227,ROTTERDAM,Meent,,3011 JG
+3228,ROTTERDAM,Oppert,,3011 HS
+3229,AMSTERDAM,Prins Hendrikkade,,1012 AE
+3230,ROTTERDAM,Schiekade,,3033 BB
+3231,AMSTERDAM,Olympiaplein,,1076 AJ
+3232,AMSTERDAM,Hudsonstraat,,1057 SC
+3233,GRONINGEN,Haddingestraat,,9711 KD
+3234,AMSTERDAM,Willem Augustinstraat,,1061 MJ
+3235,DEN HAAG,Koningsplein,,2518 JE
+3236,ROTTERDAM,Mauritsplaats,,3012 CD
+3237,UTRECHT,Van Vollenhovenlaan,,3527 JD
+3238,UTRECHT,Amsterdamsestraatweg,,3513 AC
+3239,AMSTERDAM,Looiersgracht,,1016 WC
+3240,MAASTRICHT,Achter het Vleeshuis,,6211 GR
+3241,MAASTRICHT,Bergerstraat,,6226 BB
+3242,LEIDEN,Oude Singel,,2312 RC
+3243,LEIDEN,Plantsoen,,2311 KJ
+3244,UTRECHT,Singelstraat,,3513 BP
+3245,UTRECHT,Spijkerstraat,,3513 SJ
+3246,DEN HAAG,Stamkartplein,,2521 ER
+3247,AMSTERDAM,Rustenburgerstraat,,1073 GJ
+3248,AMSTERDAM,Buskenblaserstraat,,1055 AJ
+3249,UTRECHT,1e Daalsedijk,,3513 TH
+3250,GRONINGEN,Huygensstraat,,9727 JA
+3251,GRONINGEN,Singelweg,,9714 AP
+3252,DEN HAAG,Stuwstraat,,2516 TH
+3253,DEN HAAG,Lange Beestenmarkt,,2512 EB
+3254,UTRECHT,Hildebranddreef,,3561 VD
+3255,AMSTERDAM,Soesterberghof,,1107 GR
+3256,GRONINGEN,Rodeweeshuisstraat,,9712 ET
+3257,TILBURG,Acaciastraat,,5038 HE
+3258,TILBURG,Philips Vingboonsstraat,,5041 GE
+3259,UTRECHT,Dorbeendreef,,3561 KC
+3260,AMSTERDAM,Hoogte Kadijk,,1018 BR
+3261,AMSTERDAM,Milletstraat,,1077 ZE
+3262,GRONINGEN,Mussengang,,9711 RP
+3263,AMSTERDAM,Ruysdaelkade,,1072 AS
+3264,ROTTERDAM,Groene Hilledijk,,3073 AG
+3265,DEN HAAG,De Perponcherstraat,,2518 SP
+3266,GRONINGEN,Gorechtkade,,9713 CG
+3267,DEN HAAG,Rijswijkseweg,,2516 ED
+3268,GRONINGEN,Van Royenlaan,,9721 EK
+3269,AMSTERDAM,Spaarndammerstraat,,1013 TH
+3270,AMSTERDAM,Nieuwendijk,,1012 MN
+3271,AMSTERDAM,Czaar Peterstraat,,1018 NW
+3272,GRONINGEN,Jadestraat,,9743 HD
+3273,AMSTERDAM,Derde Weteringdwarsstraat,,1017 TA
+3274,ROTTERDAM,Pleinweg,,3081 JH
+3275,AMSTERDAM,Bernard Shawsingel,,1102 VG
+3276,AMSTERDAM,Korte Geuzenstraat,,1056 KW
+3277,GRONINGEN,Damsterdiep,,9713 EP
+3278,AMSTERDAM,Jisperveldstraat,,1024 AN
+3279,TILBURG,Ringbaan-Oost,,5014 GB
+3280,AMSTERDAM,Bloemendalergouw,,1028 BJ
+3281,TILBURG,Philips Vingboonsstraat,,5041 GH
+3282,GRONINGEN,Kraneweg,,9718 JV
+3283,ROTTERDAM,Van Oosterzeestraat,,3022 XH
+3284,AMSTERDAM,Courbetstraat,,1077 ZP
+3285,GRONINGEN,Wipstraat,,9712 LW
+3286,ROTTERDAM,Zonnebloemstraat,,3051 SZ
+3287,UTRECHT,Frans Halsstraat,,3583 BP
+3288,AMSTERDAM,Hogeweg,,1098 BT
+3289,ROTTERDAM,Schietbaanlaan,,3021 LE
+3290,DEN HAAG,Goeverneurlaan,,2523 BD
+3291,GRONINGEN,Davidstraat,,9725 BZ
+3292,ROTTERDAM,Buntgras,,3068 BL
+3293,EINDHOVEN,Spinnerstraat,,5612 BV
+3294,MAASTRICHT,Sint Maartenslaan,,6221 AC
+3295,GRONINGEN,De Cockstraat,,9746 BV
+3296,NIJMEGEN,Zwanenveld,,6538 RL
+3297,GRONINGEN,Koninginnelaan,,9717 BN
+3298,AMSTERDAM,Sloterweg,,1066 CR
+3299,GRONINGEN,Aquamarijnstraat,,9743 PX
+3300,UTRECHT,Fernandezlaan,,3526 GW
+3301,GRONINGEN,Nassauplein,,9717 CR
+3302,GRONINGEN,Zwanestraat,,9712 CK
+3303,ROTTERDAM,Karel Doormanstraat,,3012 GD
+3304,ROTTERDAM,Oranjeboomstraat,,3071 BB
+3305,GRONINGEN,Stoeldraaierstraat,,9712 BT
+3306,ROTTERDAM,Bonaventurastraat,,3081 HH
+3307,DEN HAAG,Lutherse Burgwal,,2512 DH
+3308,ROTTERDAM,Nijverheidstraat,,3071 GK
+3309,ROTTERDAM,Noordsingel,,3032 BH
+3310,GRONINGEN,Diephuisstraat,,9714 GT
+3311,GRONINGEN,Basaltstraat,,9743 TZ
+3312,UTRECHT,Groeneweg,,3531 VB
+3313,AMSTERDAM,Leksmondhof,,1108 EN
+3314,EINDHOVEN,Scheidingstraat,,5654 AA
+3315,EINDHOVEN,Edisonstraat,,5621 HN
+3316,AMSTERDAM,Van Woustraat,,1073 NC
+3317,AMSTERDAM,Theodorus Majofskistraat,,1065 SR
+3318,AMSTERDAM,Henrick de Keijserstraat,,1073 TH
+3319,NIJMEGEN,Johannes Vijghstraat,,6524 BP
+3320,GRONINGEN,S.O.J. Palmelaan,,9728 VB
+3321,GRONINGEN,Veemarktstraat,,9724 GC
+3322,MAASTRICHT,Statensingel,,6211 PP
+3323,AMSTERDAM,Leidsestraat,,1017 PG
+3324,NIJMEGEN,van Heutszstraat,,6521 CX
+3325,TILBURG,Boomstraat,,5038 GS
+3326,AMSTERDAM,Langswater,,1069 EE
+3327,DEN HAAG,Jan ten Brinkstraat,,2522 HX
+3328,NIJMEGEN,Daalseweg,,6521 GJ
+3329,GRONINGEN,Oude Ebbingestraat,,9712 HM
+3330,GRONINGEN,Bekemaheerd,,9737 PX
+3331,AMSTERDAM,Krommertstraat,,1056 TS
+3332,DEN HAAG,Beatrijsstraat,,2531 XC
+3333,AMSTERDAM,Pieter van der Doesstraat,,1056 VE
+3334,AMSTERDAM,Eurokade,,1060 RZ
+3335,AMSTERDAM,Reinier Claeszenstraat,,1056 WC
+3336,NIJMEGEN,Muntweg,,6532 TE
+3337,MAASTRICHT,Hoogzwanenstraat,,6211 BZ
+3338,UTRECHT,Carry van Bruggenstraat,,3511 MX
+3339,AMSTERDAM,Ferguutstraat,,1055 SW
+3340,AMSTERDAM,Vijzelgracht,,1017 HP
+3341,AMSTERDAM,Nova Zemblastraat,,1013 RJ
+3342,UTRECHT,Oudwijkerdwarsstraat,,3581 LA
+3343,AMSTERDAM,Marco Polostraat,,1057 WN
+3344,GRONINGEN,Waterland,,9734 BK
+3345,TILBURG,Weerselostraat,,5036 BE
+3346,ROTTERDAM,'s-Gravendijkwal,,3021 EM
+3347,ROTTERDAM,Nolensstraat,,3039 PK
+3348,AMSTERDAM,Wittgensteinlaan,,1062 KA
+3349,GRONINGEN,Smaragdstraat,,9743 KW
+3350,UTRECHT,Lamstraat,,3523 RV
+3351,GRONINGEN,Jaltadaheerd,,9737 HH
+3352,LEIDEN,Rosmolen,,2317 SL
+3353,ROTTERDAM,Vlaggemanstraat,,3038 LG
+3354,GRONINGEN,Nieuwstad,,9711 JM
+3355,LEIDEN,Bouwelouwensteeg,,2312 VS
+3356,LEIDEN,Haarlemmerstraat,,2312 GK
+3357,GRONINGEN,Visserstraat,,9712 CX
+3358,EINDHOVEN,Hoogstraat,,5615 PB
+3359,NIJMEGEN,Fortstraat,,6523 DH
+3360,GRONINGEN,Florakade,,9713 ZK
+3361,ROTTERDAM,Waterloostraat,,3062 TP
+3362,LEIDEN,Turfmarkt,,2312 CE
+3363,UTRECHT,Loderlaan,,3527 KB
+3364,MAASTRICHT,Bosscherweg,,6219 NG
+3365,UTRECHT,Jansveld,,3512 BG
+3366,UTRECHT,Florence Nightingalelaan,,3527 WG
+3367,GRONINGEN,Helper Weststraat,,9721 BS
+3368,ROTTERDAM,Rauwenhoffplein,,3022 RJ
+3369,ROTTERDAM,Schans,,3025 VJ
+3370,AMSTERDAM,Hofgeest,,1102 ED
+3371,DEN HAAG,Wormerveerstraat,,2547 XP
+3372,TILBURG,Kasteel Doorwerthstraat,,5037 TT
+3373,AMSTERDAM,Sumatrakade,,1019 RS
+3374,AMSTERDAM,Hertingenstraat,,1069 HB
+3375,GRONINGEN,Oppenheimstraat,,9714 ET
+3376,AMSTERDAM,1e Kekerstraat,,1104 VA
+3377,ROTTERDAM,Rijksboom,,3071 AX
+3378,DEN HAAG,Obrechtstraat,,2517 VM
+3379,AMSTERDAM,Middenweg,,1098 AK
+3380,ROTTERDAM,Watergeusstraat,,3025 HH
+3381,ROTTERDAM,Schiedamseweg,,3026 AG
+3382,ROTTERDAM,West-Sidelinge,,3042 CZ
+3383,AMSTERDAM,Tweede Hugo de Grootstraat,,1052 LE
+3384,ROTTERDAM,Schielaan,,3043 HE
+3385,UTRECHT,Amsterdamsestraatweg,,3553 EG
+3386,AMSTERDAM,Staalmeesterslaan,,1057 PC
+3387,AMSTERDAM,Charlotte Brontestraat,,1102 XC
+3388,LEIDEN,Herenstraat,,2313 AM
+3389,NIJMEGEN,Schoolstraat,,6512 JH
+3390,AMSTERDAM,Rozengracht,,1016 NE
+3391,GRONINGEN,Verlengde Hereweg,,9722 AC
+3392,AMSTERDAM,Sporadenlaan,,1060 MN
+3393,ROTTERDAM,Kortebrantstraat,,3031 PP
+3394,AMSTERDAM,Bernissestraat,,1079 ZV
+3395,TILBURG,Cederstraat,,5037 JC
+3396,ROTTERDAM,Schonebergerweg,,3023 ZK
+3397,GRONINGEN,Herebinnensingel,,9711 GG
+3398,AMSTERDAM,Carolina MacGillavrylaan,,1098 XK
+3399,AMSTERDAM,Derkinderenstraat,,1062 BJ
+3400,AMSTERDAM,Houtrijkstraat,,1013 DV
+3401,ROTTERDAM,Schiedamseweg,,3026 AE
+3402,AMSTERDAM,Hamontstraat,,1066 NJ
+3403,ROTTERDAM,Zuidhoek,,3082 PP
+3404,TILBURG,Merelstraat,,5022 BT
+3405,GRONINGEN,Star Numanstraat,,9714 JM
+3406,UTRECHT,Oranje-Nassaulaan,,3523 VP
+3407,UTRECHT,Detmoldstraat,,3523 GG
+3408,AMSTERDAM,Insulindeweg,,1095 DH
+3409,GRONINGEN,Briljantstraat,,9743 NG
+3410,UTRECHT,Wittevrouwensingel,,3581 GD
+3411,GRONINGEN,Meeuwerderweg,,9724 EV
+3412,GRONINGEN,Kleine Peperstraat,,9711 PB
+3413,GRONINGEN,Gorechtkade,,9713 CM
+3414,ROTTERDAM,Spinozaweg,,3076 EK
+3415,AMSTERDAM,Leenhofstraat,,1067 KZ
+3416,NIJMEGEN,Citerstraat,,6544 WH
+3417,GRONINGEN,Abeelstraat,,9741 EE
+3418,AMSTERDAM,Carolina MacGillavrylaan,,1098 XA
+3419,MAASTRICHT,Koning Clovisstraat,,6224 GW
+3420,MAASTRICHT,Kesselskade,,6211 EN
+3421,MAASTRICHT,Lage Barakken,,6221 CK
+3422,MAASTRICHT,Heerderweg,,6224 LE
+3423,MAASTRICHT,Calvariestraat,,6211 NJ
+3424,NIJMEGEN,Lange Hezelstraat,,6511 CJ
+3425,UTRECHT,Rijnlaan,,3522 BC
+3426,AMSTERDAM,Kea Boumanstraat,,1095 MA
+3427,MAASTRICHT,Hertogsingel,,6211 ND
+3428,UTRECHT,Lombokstraat,,3531 RG
+3429,GRONINGEN,Kleine Kruisstraat,,9712 TV
+3430,UTRECHT,Satijnvlinder,,3544 VX
+3431,ROTTERDAM,Abraham Kuyperlaan,,3038 PG
+3432,DEN HAAG,Binnendoor,,2512 XZ
+3433,GRONINGEN,Westerhaven,,9718 AT
+3434,ROTTERDAM,Pleinweg,,3083 ED
+3435,AMSTERDAM,Wethouder Wierdelsstraat,,1107 DK
+3436,UTRECHT,Makassarstraat,,3531 VL
+3437,ROTTERDAM,Vliesridderstraat,,3039 ZW
+3438,GRONINGEN,Oosterstraat,,9711 NS
+3439,GRONINGEN,Ripperdalaan,,9713 SG
+3440,AMSTERDAM,Rozenstraat,,1016 NZ
+3441,TILBURG,Voltstraat,,5021 SE
+3442,TILBURG,Jan Steenstraat,,5025 NG
+3443,AMSTERDAM,Van Leijenberghlaan,,1082 GD
+3444,GRONINGEN,Nieuwe Blekerstraat,,9718 EH
+3445,AMSTERDAM,Matrozenhof,,1018 ZP
+3446,UTRECHT,Livarstraat,,3573 SB
+3447,DEN HAAG,Ananasstraat,,2564 SR
+3448,DEN HAAG,Laakkade,,2521 XR
+3449,AMSTERDAM,Wagenaarstraat,,1093 CP
+3450,DEN HAAG,Merkusstraat,,2593 TN
+3451,AMSTERDAM,Orteliusstraat,,1057 BD
+3452,AMSTERDAM,Domselaerstraat,,1093 JN
+3453,AMSTERDAM,Crynssenstraat,,1058 XW
+3454,AMSTERDAM,Arent Janszoon Ernststraat,,1083 GR
+3455,ROTTERDAM,Cor Kieboomplein,,3077 MK
+3456,GRONINGEN,Van Wassenaerstraat,,9726 HN
+3457,AMSTERDAM,Sarphatistraat,,1018 EZ
+3458,DEN HAAG,Aarnout Drostlaan,,2523 EP
+3459,DEN HAAG,Allard Piersonlaan,,2522 MK
+3460,ROTTERDAM,Voetjesstraat,,3081 HK
+3461,AMSTERDAM,Nassaukade,,1052 EH
+3462,LEIDEN,Langegracht,,2312 NW
+3463,TILBURG,Professor Cobbenhagenlaan,,5037 DG
+3464,EINDHOVEN,Hagenkampweg Zuid,,5615 DB
+3465,AMSTERDAM,Potgieterstraat,,1053 XT
+3466,TILBURG,Fatimastraat,,5021 AN
+3467,LEIDEN,Haarlemmerstraat,,2312 GC
+3468,AMSTERDAM,Inzet,,1068 RC
+3469,GRONINGEN,Blekerstraat,,9718 EA
+3470,AMSTERDAM,Nieuwe Uilenburgerstraat,,1011 LT
+3471,TILBURG,Pater Ruttenstraat,,5046 DV
+3472,UTRECHT,Amsterdamsestraatweg,,3513 AD
+3473,UTRECHT,Groenmarktstraat,,3521 AV
+3474,AMSTERDAM,Van Oldenbarneveldtstraat,,1052 JN
+3475,LEIDEN,Beppy Nooijstraat,,2331 HT
+3476,AMSTERDAM,Victorieplein,,1078 PD
+3477,AMSTERDAM,Mijehof,,1106 HJ
+3478,GRONINGEN,Ceramstraat,,9715 JK
+3479,UTRECHT,Zambesidreef,,3564 CE
+3480,TILBURG,Kapelstraat,,5046 CL
+3481,TILBURG,Professor Lorentzstraat,,5021 NT
+3482,MAASTRICHT,Heugemerweg,,6221 GD
+3483,MAASTRICHT,Boschstraat,,6211 AV
+3484,MAASTRICHT,Coclersstraat,,6221 XE
+3485,MAASTRICHT,Herbenusstraat,,6211 RA
+3486,EINDHOVEN,Sibeliuslaan,,5654 CZ
+3487,GRONINGEN,Noorderkerkstraat,,9712 RB
+3488,EINDHOVEN,Korenbloemstraat,,5643 HL
+3489,AMSTERDAM,Barbusselaan,,1102 TW
+3490,UTRECHT,Europaplein,,3526 WT
+3491,DEN HAAG,Amandelstraat,,2564 EV
+3492,ROTTERDAM,Haringvliet,,3011 ZP
+3493,GRONINGEN,Hereweg,,9725 AA
+3494,DEN HAAG,Dierenselaan,,2573 KB
+3495,GRONINGEN,Mauritsstraat,,9724 BL
+3496,AMSTERDAM,Eerste Helmersstraat,,1054 EC
+3497,GRONINGEN,Veldstraat,,9717 LP
+3498,GRONINGEN,Parkweg,,9725 EB
+3499,ROTTERDAM,Stroveer,,3032 GB
+3500,ROTTERDAM,Patijnstraat,,3042 PT
+3501,GRONINGEN,Boterdiep,,9712 LP
+3502,DEN HAAG,Schaarsbergenstraat,,2573 CB
+3503,MAASTRICHT,Cannerweg,,6213 ND
+3504,EINDHOVEN,Valklaan,,5613 EC
+3505,GRONINGEN,Hora Siccamasingel,,9721 HC
+3506,ROTTERDAM,Mathenesserweg,,3026 HC
+3507,AMSTERDAM,Bijlmerdreef,,1103 JV
+3508,DEN HAAG,Maastrichtsestraat,,2587 XG
+3509,ROTTERDAM,Albert Verweystraat,,3061 SB
+3510,AMSTERDAM,Daguerrestraat,,1087 AT
+3511,EINDHOVEN,Melsbroekhof,,5628 TJ
+3512,AMSTERDAM,Kinkerstraat,,1053 GG
+3513,AMSTERDAM,Jacob van Wassenaar Obdamstraat,,1057 JS
+3514,GRONINGEN,J.C. Kapteynlaan,,9714 CM
+3515,AMSTERDAM,Jeltje de Bosch Kemperpad,,1054 PH
+3516,GRONINGEN,Wagnersingel,,9722 CZ
+3517,UTRECHT,Merwedekade,,3522 JA
+3518,AMSTERDAM,Olympiaplein,,1077 CR
+3519,GRONINGEN,Van Speykstraat,,9726 BL
+3520,ROTTERDAM,Dukdalfpad,,3072 WV
+3521,DEN HAAG,Westduinweg,,2583 EG
+3522,UTRECHT,Willem Dreeslaan,,3515 GB
+3523,AMSTERDAM,Admiraal De Ruijterweg,,1055 MX
+3524,UTRECHT,St.-Ludgerusstraat,,3553 CS
+3525,UTRECHT,Duifstraat,,3514 EN
+3526,UTRECHT,Paul Huflaan,,3584 GB
+3527,LEIDEN,Oranjestraat,,2316 HS
+3528,GRONINGEN,Westerhavenstraat,,9718 AL
+3529,GRONINGEN,Hora Siccamasingel,,9721 HA
+3530,UTRECHT,Lange Nieuwstraat,,3512 PL
+3531,ROTTERDAM,Krekelstraat,,3061 VD
+3532,DEN HAAG,Buitenom,,2512 XA
+3533,AMSTERDAM,Groot-Essenburg,,1081 HH
+3534,DEN HAAG,Akeleistraat,,2565 NV
+3535,ROTTERDAM,Vondelweg,,3031 PW
+3536,UTRECHT,Haverstraat,,3511 NC
+3537,UTRECHT,Zakkendragerssteeg,,3511 AA
+3538,LEIDEN,Jan van Goyenkade,,2311 BB
+3539,EINDHOVEN,Tongelresestraat,,5613 DD
+3540,GRONINGEN,Bloemsingel,,9714 DS
+3541,ROTTERDAM,Heemraadssingel,,3021 NA
+3542,GRONINGEN,Stadhouderslaan,,9717 AD
+3543,GRONINGEN,Damsterdiep,,9711 SL
+3544,AMSTERDAM,Museumplein,,1071 DJ
+3545,AMSTERDAM,Groenhoven,,1103 LR
+3546,TILBURG,Professor Kernkampstraat,,5014 RN
+3547,AMSTERDAM,Eerste Van Swindenstraat,,1093 GD
+3548,EINDHOVEN,St Wirostraat,,5643 MZ
+3549,MAASTRICHT,Koning Childebertstraat,,6224 HE
+3550,AMSTERDAM,Eerste Jan van der Heijdenstraat,,1072 TJ
+3551,DEN HAAG,Paul Krugerlaan,,2571 HJ
+3552,GRONINGEN,Berkelstraat,,9725 GT
+3553,GRONINGEN,Korreweg,,9715 AL
+3554,UTRECHT,Tafelbergdreef,,3564 AA
+3555,GRONINGEN,Nassaulaan,,9717 CL
+3556,GRONINGEN,Diephuisstraat,,9714 GV
+3557,NIJMEGEN,Burghardt van den Berghstraat,,6512 DH
+3558,AMSTERDAM,Ferguutstraat,,1055 SV
+3559,TILBURG,Nautilusstraat,,5015 AP
+3560,AMSTERDAM,Bankastraat,,1094 EE
+3561,EINDHOVEN,Hulstbosakker,,5625 VR
+3562,UTRECHT,Dahliastraat,,3551 SV
+3563,UTRECHT,Papaverstraat,,3551 EW
+3564,MAASTRICHT,Oranjeplein,,6224 KV
+3565,NIJMEGEN,Dobbelmannweg,,6531 KX
+3566,EINDHOVEN,Boschdijk,,5621 JA
+3567,GRONINGEN,Heresingel,,9711 ES
+3568,AMSTERDAM,Albardagracht,,1067 DZ
+3569,GRONINGEN,Munnekeholm,,9711 JA
+3570,AMSTERDAM,Waverstraat,,1079 VJ
+3571,GRONINGEN,Tuinbouwstraat,,9717 JH
+3572,ROTTERDAM,Vijverhofstraat,,3032 SH
+3573,AMSTERDAM,Groenhoven,,1103 LE
+3574,AMSTERDAM,'s-Gravesandestraat,,1091 DG
+3575,UTRECHT,Hijmans van den Berghlaan,,3571 PH
+3576,GRONINGEN,Sint Maartenstraat,,9714 JV
+3577,ROTTERDAM,Lamastraat,,3064 LL
+3578,GRONINGEN,Hyacinthstraat,,9713 XB
+3579,AMSTERDAM,Reinier Claeszenstraat,,1056 WJ
+3580,ROTTERDAM,Van Heusdestraat,,3023 RW
+3581,DEN HAAG,Soestdijksekade,,2574 BB
+3582,LEIDEN,Helena Verburgstraat,,2331 DZ
+3583,AMSTERDAM,Hugo de Grootplein,,1052 KX
+3584,GRONINGEN,Nieuwe Ebbingestraat,,9714 AM
+3585,DEN HAAG,Edisonstraat,,2561 BE
+3586,DEN HAAG,Koningstraat,,2515 JM
+3587,TILBURG,Enschotsestraat,,5014 DJ
+3588,ROTTERDAM,1e Jerichostraat,,3061 GC
+3589,GRONINGEN,Wassenberghstraat,,9718 LL
+3590,ROTTERDAM,Prinsendam,,3072 MA
+3591,GRONINGEN,Schuitendiep,,9711 RC
+3592,AMSTERDAM,Stadionweg,,1076 PG
+3593,UTRECHT,Jadelaan,,3523 CW
+3594,AMSTERDAM,August Allebeplein,,1062 AC
+3595,AMSTERDAM,Weteringschans,,1017 SE
+3596,AMSTERDAM,Rijnstraat,,1078 PX
+3597,ROTTERDAM,Franselaan,,3028 AJ
+3598,LEIDEN,Rijnsburgerweg,,2334 BG
+3599,GRONINGEN,Radesingel,,9711 EJ
+3600,AMSTERDAM,Hunzestraat,,1079 VS
+3601,AMSTERDAM,Winkler Prinshof,,1065 XM
+3602,NIJMEGEN,Hillekensacker,,6546 KS
+3603,ROTTERDAM,Mijnsherenplein,,3081 CS
+3604,ROTTERDAM,Bergstraat,,3035 TG
+3605,AMSTERDAM,Eerste Amstelvlietpad,,1096 GB
+3606,EINDHOVEN,Begijnenhof,,5611 EK
+3607,MAASTRICHT,Brusselsestraat,,6211 PD
+3608,MAASTRICHT,Demertstraat,,6227 AR
+3609,UTRECHT,Bremstraat,,3551 TG
+3610,UTRECHT,Burgemeester Norbruislaan,,3555 ED
+3611,ROTTERDAM,Volmarijnstraat,,3021 XV
+3612,AMSTERDAM,Semarangstraat,,1095 GE
+3613,EINDHOVEN,Schubertlaan,,5653 EN
+3614,AMSTERDAM,Van der Hoopstraat,,1051 VL
+3615,AMSTERDAM,Groen van Prinstererstraat,,1051 ER
+3616,AMSTERDAM,Nicolaas Ruychaverstraat,,1067 NH
+3617,AMSTERDAM,Sumatrastraat,,1094 ND
+3618,EINDHOVEN,Bergen op Zoomstraat,,5652 KG
+3619,GRONINGEN,De Laan,,9712 AV
+3620,EINDHOVEN,Aalsterweg,,5644 RA
+3621,UTRECHT,Kievitdwarsstraat,,3514 VG
+3622,LEIDEN,Noordeinde,,2311 CB
+3623,AMSTERDAM,Zaagmolenstraat,,1052 HE
+3624,AMSTERDAM,Bovenover,,1025 JH
+3625,UTRECHT,Hopakker,,3514 BX
+3626,MAASTRICHT,Herbenusstraat,,6211 RC
+3627,AMSTERDAM,Baden Powellweg,,1069 KW
+3628,EINDHOVEN,Leenderweg,,5614 HM
+3629,TILBURG,Molenstraat,,5014 NG
+3630,UTRECHT,Valkstraat,,3514 TH
+3631,ROTTERDAM,Kierkegaardstraat,,3076 RJ
+3632,MAASTRICHT,Frankenstraat,,6224 GN
+3633,NIJMEGEN,In de Betouwstraat,,6511 GC
+3634,ROTTERDAM,Statensingel,,3039 LL
+3635,AMSTERDAM,Josephus Jittastraat,,1063 NM
+3636,AMSTERDAM,Bankastraat,,1094 CZ
+3637,UTRECHT,Bilderdijkstraat,,3532 VD
+3638,MAASTRICHT,Henri Jonaslaan,,6217 NS
+3639,ROTTERDAM,Goudsesingel,,3031 EB
+3640,AMSTERDAM,Hogevecht,,1102 HG
+3641,ROTTERDAM,Vroesenlaan,,3039 DW
+3642,AMSTERDAM,Kikkenstein,,1104 TK
+3643,LEIDEN,Haven,,2312 MJ
+3644,AMSTERDAM,Kinkerstraat,,1053 ED
+3645,AMSTERDAM,Fleerde,,1102 AV
+3646,LEIDEN,Oranjegracht,,2312 ND
+3647,EINDHOVEN,Achterstraat,,5614 HT
+3648,AMSTERDAM,Reitdiepstraat,,1079 MA
+3649,ROTTERDAM,Pleinweg,,3083 ES
+3650,GRONINGEN,Koolstraat,,9717 KE
+3651,UTRECHT,Trumanlaan,,3527 BM
+3652,UTRECHT,Korfoedreef,,3562 SJ
+3653,GRONINGEN,Ubbo Emmiusstraat,,9711 CA
+3654,AMSTERDAM,Ladogameerhof,,1060 PJ
+3655,AMSTERDAM,Leeuwerikstraat,,1021 GH
+3656,AMSTERDAM,Leusdenhof,,1108 DR
+3657,AMSTERDAM,Rokin,,1012 KL
+3658,ROTTERDAM,Zuidhoek,,3082 PC
+3659,ROTTERDAM,Stadhoudersweg,,3039 EJ
+3660,MAASTRICHT,Capucijnenstraat,,6211 RP
+3661,AMSTERDAM,Werkhovenstraat,,1107 KD
+3662,GRONINGEN,Parelstraat,,9743 JH
+3663,AMSTERDAM,Dijkstraat,,1011 GL
+3664,AMSTERDAM,Rijnstraat,,1079 HP
+3665,AMSTERDAM,Slaakstraat,,1078 BD
+3666,ROTTERDAM,Hoveniersstraat,,3031 PD
+3667,EINDHOVEN,Heezerweg,,5643 KN
+3668,LEIDEN,Oude Singel,,2312 RE
+3669,AMSTERDAM,Kattenburgerstraat,,1018 JM
+3670,ROTTERDAM,Drinkwaterweg,,3063 JC
+3671,AMSTERDAM,Keizersgracht,,1016 EW
+3672,TILBURG,Westertorenlaan,,5037 BC
+3673,AMSTERDAM,Spuistraat,,1012 SV
+3674,UTRECHT,Laan van Nieuw-Guinea,,3531 JM
+3675,DEN HAAG,Groenesteinstraat,,2512 SH
+3676,AMSTERDAM,Binnenkant,,1011 BJ
+3677,GRONINGEN,Prunusstraat,,9741 LB
+3678,UTRECHT,Nieuwe Koekoekstraat,,3514 EC
+3679,AMSTERDAM,Van Bossepad,,1051 MA
+3680,AMSTERDAM,Loevestein,,1082 XD
+3681,UTRECHT,Willem Barentszstraat,,3572 PC
+3682,AMSTERDAM,Paardenstraat,,1017 CX
+3683,ROTTERDAM,Pleinweg,,3083 EK
+3684,GRONINGEN,H.W. Mesdagstraat,,9718 HH
+3685,DEN HAAG,Mijdrechtstraat,,2515 SK
+3686,LEIDEN,Morsstraat,,2312 BN
+3687,TILBURG,Burgemeester Brokxlaan,,5041 SJ
+3688,UTRECHT,Dolomieten,,3524 VE
+3689,TILBURG,Goirkestraat,,5046 GG
+3690,AMSTERDAM,Admiralengracht,,1057 EM
+3691,GRONINGEN,Noorderstationsstraat,,9717 KP
+3692,ROTTERDAM,Albertistraat,,3066 CD
+3693,ROTTERDAM,Balkenstraat,,3027 GC
+3694,AMSTERDAM,Ingelandenweg,,1069 WG
+3695,GRONINGEN,Hoendiep,,9718 TE
+3696,ROTTERDAM,Doedesstraat,,3022 VB
+3697,AMSTERDAM,Gooise Kant,,1104 MM
+3698,NIJMEGEN,Piet Heinstraat,,6512 GV
+3699,ROTTERDAM,Suiestraat,,3028 JG
+3700,UTRECHT,Pauwstraat,,3512 TG
+3701,AMSTERDAM,Hofgeest,,1102 EB
+3702,AMSTERDAM,Houtrijkstraat,,1013 DT
+3703,LEIDEN,Tollensstraat,,2321 XJ
+3704,ROTTERDAM,Sint-Janstraat,,3011 SB
+3705,AMSTERDAM,Hoekenespad,,1068 HX
+3706,AMSTERDAM,Korte Prinsengracht,,1013 GS
+3707,ROTTERDAM,Boergoensevliet,,3082 KW
+3708,DEN HAAG,Veenendaalkade,,2547 AL
+3709,UTRECHT,Oudegracht,,3511 PG
+3710,GRONINGEN,Oosterstraat,,9711 NP
+3711,AMSTERDAM,Orteliusstraat,,1056 NV
+3712,AMSTERDAM,Wijnand Nuijenstraat,,1061 WB
+3713,LEIDEN,Hooigracht,,2312 KP
+3714,ROTTERDAM,Voetjesstraat,,3081 HS
+3715,TILBURG,Arendplein,,5022 AE
+3716,LEIDEN,President Steinstraat,,2312 ZR
+3717,UTRECHT,Toermalijnlaan,,3523 BG
+3718,UTRECHT,Gildstraat,,3572 EM
+3719,TILBURG,Stedekestraat,,5041 DN
+3720,AMSTERDAM,Zeeburgerkade,,1019 VK
+3721,AMSTERDAM,Schalk Burgerstraat,,1091 LK
+3722,AMSTERDAM,Rooseveltlaan,,1079 AP
+3723,AMSTERDAM,Lizzy Ansinghstraat,,1072 RE
+3724,AMSTERDAM,Uranusstraat,,1033 VW
+3725,EINDHOVEN,Hermanus Boexstraat,,5611 AJ
+3726,EINDHOVEN,Karel de Grotelaan,,5615 SW
+3727,EINDHOVEN,Bomanshof,,5611 NN
+3728,EINDHOVEN,Rivierstraat,,5615 KA
+3729,MAASTRICHT,Merovingenstraat,,6224 HA
+3730,MAASTRICHT,Brusselsestraat,,6211 PJ
+3731,MAASTRICHT,Frankenstraat,,6224 GP
+3732,GRONINGEN,Winschoterdiep,,9724 GJ
+3733,ROTTERDAM,Rondolaan,,3089 PR
+3734,MAASTRICHT,Meerssenerweg,,6224 AD
+3735,TILBURG,Professor Dondersstraat,,5017 HK
+3736,TILBURG,Hoogvensestraat,,5017 CH
+3737,AMSTERDAM,Camperstraat,,1091 AG
+3738,DEN HAAG,Stieltjesstraat,,2521 VL
+3739,UTRECHT,Croeselaan,,3521 CH
+3740,ROTTERDAM,Beukelsdijk,,3021 AJ
+3741,GRONINGEN,Hoogstraat,,9711 LN
+3742,EINDHOVEN,Liviuslaan,,5624 JG
+3743,GRONINGEN,Lijnbaanstraat,,9711 RV
+3744,LEIDEN,Waldeck Pyrmontstraat,,2316 PD
+3745,UTRECHT,Jazzboulevard,,3543 EA
+3746,AMSTERDAM,Zeilstraat,,1075 SG
+3747,NIJMEGEN,de Wellenkamp,,6545 NJ
+3748,NIJMEGEN,van Schaeck Mathonsingel,,6512 AJ
+3749,ROTTERDAM,Krabbendijkestraat,,3086 LN
+3750,GRONINGEN,Petrus Campersingel,,9713 AC
+3751,AMSTERDAM,Willy Sluiterstraat,,1061 TJ
+3752,TILBURG,Tuinstraat,,5038 DA
+3753,GRONINGEN,Mauritsstraat,,9724 BM
+3754,AMSTERDAM,Van Oldenbarneveldtstraat,,1052 JX
+3755,ROTTERDAM,Mijnsherenplein,,3081 CT
+3756,MAASTRICHT,Bontwerkersdreef,,6216 SH
+3757,GRONINGEN,Ambonstraat,,9715 HB
+3758,NIJMEGEN,Groesbeekseweg,,6523 NW
+3759,AMSTERDAM,Jan van Galenstraat,,1051 KE
+3760,EINDHOVEN,Stationsweg,,5611 AA
+3761,AMSTERDAM,Troepiaalsingel,,1102 SG
+3762,NIJMEGEN,Stationsplein,,6512 AB
+3763,ROTTERDAM,Wolphaertsbocht,,3083 ML
+3764,AMSTERDAM,Govert Flinckstraat,,1072 EE
+3765,ROTTERDAM,Mathenesserlaan,,3023 HD
+3766,LEIDEN,Flanorpad,,2333 AR
+3767,GRONINGEN,Oostersingel,,9711 XD
+3768,EINDHOVEN,Haagbeemd,,5641 NB
+3769,MAASTRICHT,Maastrichter Smedenstraat,,6211 GK
+3770,GRONINGEN,Leeuwarderstraat,,9718 HX
+3771,GRONINGEN,Floresstraat,,9715 HS
+3772,GRONINGEN,Spaanse Aakstraat,,9741 CT
+3773,AMSTERDAM,Griftstraat,,1079 ZA
+3774,AMSTERDAM,Simonshavenstraat,,1107 VB
+3775,GRONINGEN,Westerhaven,,9718 AV
+3776,GRONINGEN,Bloemstraat,,9712 LD
+3777,AMSTERDAM,Scherpenzeelstraat,,1107 HT
+3778,GRONINGEN,Hoendiepskade,,9718 BD
+3779,UTRECHT,Singelstraat,,3513 BN
+3780,ROTTERDAM,Bergweg,,3036 BC
+3781,ROTTERDAM,Nieuwe Crooswijkseweg,,3034 PP
+3782,AMSTERDAM,Haarlemmerweg,,1051 KX
+3783,AMSTERDAM,Jasonstraat,,1076 KX
+3784,LEIDEN,Vrijheidslaan,,2321 DV
+3785,AMSTERDAM,Frans Halsstraat,,1072 BJ
+3786,GRONINGEN,Marktstraat,,9712 PA
+3787,UTRECHT,Hardebollenstraat,,3512 TP
+3788,GRONINGEN,J.C. Kapteynlaan,,9714 CS
+3789,NIJMEGEN,Willemsweg,,6531 DR
+3790,ROTTERDAM,Bagijnenstraat,,3011 HA
+3791,AMSTERDAM,Roerstraat,,1078 LP
+3792,ROTTERDAM,Goudsesingel,,3011 KH
+3793,ROTTERDAM,Plotinusstraat,,3076 NT
+3794,DEN HAAG,Landrestraat,,2551 BA
+3795,AMSTERDAM,Hendrik Dienskestraat,,1063 AP
+3796,ROTTERDAM,Rijnvoorde,,3085 TK
+3797,AMSTERDAM,Van Oldenbarneveldtstraat,,1052 JT
+3798,DEN HAAG,Apeldoornselaan,,2573 LS
+3799,DEN HAAG,Waldorpstraat,,2521 CJ
+3800,UTRECHT,Smaragdplein,,3523 EG
+3801,ROTTERDAM,West-Kruiskade,,3014 AM
+3802,AMSTERDAM,Korte Geuzenstraat,,1056 KZ
+3803,TILBURG,Hoefstraat,,5014 NP
+3804,AMSTERDAM,Filips van Almondestraat,,1057 ZR
+3805,AMSTERDAM,Kijkduinstraat,,1055 XT
+3806,AMSTERDAM,Renkumhof,,1106 HZ
+3807,GRONINGEN,Star Numanstraat,,9714 JS
+3808,DEN HAAG,Copernicuslaan,,2561 VD
+3809,EINDHOVEN,Clara Wichmannstraat,,5612 RR
+3810,AMSTERDAM,Heggerankweg,,1032 JA
+3811,AMSTERDAM,Opheusdenhof,,1106 VL
+3812,AMSTERDAM,Molukkenstraat,,1094 BS
+3813,TILBURG,Leo XIII-straat,,5046 KJ
+3814,GRONINGEN,Jan Hissink Jansenstraat,,9713 HT
+3815,EINDHOVEN,Hastelweg,,5616 HM
+3816,AMSTERDAM,Emmeline Pankhurststraat,,1103 MN
+3817,GRONINGEN,Poelestraat,,9711 PK
+3818,DEN HAAG,Loosduinsekade,,2571 CP
+3819,UTRECHT,Ameland,,3524 AN
+3820,NIJMEGEN,van Dulckenstraat,,6512 DS
+3821,GRONINGEN,Helper Oostsingel,,9722 AP
+3822,AMSTERDAM,Willem de Zwijgerlaan,,1056 JG
+3823,EINDHOVEN,Jan Sluytersweg,,5645 JD
+3824,NIJMEGEN,Heidebloemstraat,,6533 SN
+3825,ROTTERDAM,Jonker Fransstraat,,3031 AM
+3826,GRONINGEN,Paterswoldseweg,,9727 BX
+3827,UTRECHT,Oudegracht,,3511 NN
+3828,GRONINGEN,Oosterweg,,9724 CA
+3829,ROTTERDAM,Mariniersweg,,3011 NT
+3830,UTRECHT,Adriaan van Bergenstraat,,3554 VA
+3831,GRONINGEN,Bottelroosstraat,,9741 JD
+3832,ROTTERDAM,Bleiswijkstraat,,3035 TK
+3833,NIJMEGEN,Berg en Dalseweg,,6522 CS
+3834,AMSTERDAM,Aalsmeerweg,,1059 AA
+3835,AMSTERDAM,Leibnizstraat,,1064 ZD
+3836,TILBURG,Europalaan,,5042 ZH
+3837,TILBURG,Gebroeders van Eijckstraat,,5025 NJ
+3838,AMSTERDAM,Louise de Colignystraat,,1055 XK
+3839,AMSTERDAM,Rijswijkstraat,,1062 XM
+3840,MAASTRICHT,Hoogbrugplein,,6221 DB
+3841,DEN HAAG,Fahrenheitstraat,,2561 EC
+3842,UTRECHT,Amsterdamsestraatweg,,3555 HL
+3843,ROTTERDAM,Madeliefstraat,,3083 TH
+3844,AMSTERDAM,Bronckhorststraat,,1071 WS
+3845,AMSTERDAM,Dr. H. Colijnstraat,,1067 CP
+3846,AMSTERDAM,Jan Luijkenstraat,,1071 CL
+3847,ROTTERDAM,Weena,,3013 AL
+3848,LEIDEN,Groenhazengracht,,2311 VT
+3849,GRONINGEN,Gedempte Zuiderdiep,,9711 HC
+3850,GRONINGEN,K. de Vriezestraat,,9741 AH
+3851,EINDHOVEN,Strijlant,,5641 PT
+3852,LEIDEN,Vestwal,,2312 NP
+3853,UTRECHT,Wolter Heukelslaan,,3581 SV
+3854,UTRECHT,Pieter Bernagiestraat,,3522 DA
+3855,UTRECHT,Schoolstraat,,3581 PS
+3856,EINDHOVEN,Ruysdaelbaan,,5613 DX
+3857,UTRECHT,Livingstonelaan,,3526 HT
+3858,AMSTERDAM,Ferdinand Bolstraat,,1072 LL
+3859,ROTTERDAM,Suze Groeneweglaan,,3021 DV
+3860,DEN HAAG,Vrouw Avenweg,,2493 WV
+3861,AMSTERDAM,Rustenburgerstraat,,1073 GE
+3862,EINDHOVEN,Noord Brabantlaan,,5651 LZ
+3863,DEN HAAG,Apeldoornselaan,,2573 LN
+3864,AMSTERDAM,Valkenisseweg,,1069 BX
+3865,DEN HAAG,Pisuissestraat,,2553 BD
+3866,GRONINGEN,Folkingestraat,,9711 JW
+3867,DEN HAAG,Hulshorststraat,,2573 EJ
+3868,UTRECHT,Bemuurde Weerd W.Z.,,3513 BH
+3869,NIJMEGEN,Hommelstraat,,6533 SG
+3870,TILBURG,Wilhelminapark,,5041 EJ
+3871,UTRECHT,Vleutenseweg,,3532 HH
+3872,TILBURG,Noordstraat,,5038 EG
+3873,NIJMEGEN,van Schaeck Mathonsingel,,6512 AK
+3874,NIJMEGEN,Berg en Dalseweg,,6522 CR
+3875,ROTTERDAM,Dennekruid,,3068 SG
+3876,AMSTERDAM,Sloterkade,,1058 HD
+3877,ROTTERDAM,Krekelstraat,,3061 VC
+3878,GRONINGEN,Adelheidstraat,,9717 AS
+3879,AMSTERDAM,Vrolikstraat,,1092 VA
+3880,EINDHOVEN,Bondstraat,,5612 HX
+3881,NIJMEGEN,Stijn Buysstraat,,6512 CJ
+3882,EINDHOVEN,De Vriesstraat,,5612 KG
+3883,DEN HAAG,Theresiastraat,,2593 AA
+3884,GRONINGEN,Nieuwe Boteringestraat,,9712 PJ
+3885,GRONINGEN,Jaltadaheerd,,9737 HL
+3886,ROTTERDAM,Polderlaan,,3074 MB
+3887,DEN HAAG,Weimarstraat,,2562 HP
+3888,NIJMEGEN,Le Sage ten Broekstraat,,6535 WX
+3889,DEN HAAG,Jacob Vermijstraat,,2584 XM
+3890,AMSTERDAM,Europaplein,,1078 GT
+3891,AMSTERDAM,Harriet Freezerstraat,,1103 JN
+3892,GRONINGEN,Breitnerstraat,,9718 ML
+3893,AMSTERDAM,Kerkstraat,,1017 GD
+3894,ROTTERDAM,Van Adrichemweg,,3042 RS
+3895,MAASTRICHT,Bourgognestraat,,6221 BV
+3896,AMSTERDAM,Geervliet,,1082 NM
+3897,EINDHOVEN,Schultinghstraat,,5652 VB
+3898,EINDHOVEN,Hoefkestraat,,5611 RL
+3899,TILBURG,Ringbaan-Oost,,5014 GE
+3900,AMSTERDAM,Hageland,,1066 SB
+3901,GRONINGEN,Bergkristalstraat,,9743 ET
+3902,AMSTERDAM,Goudsbloemstraat,,1015 JT
+3903,AMSTERDAM,Comeniusstraat,,1065 BT
+3904,NIJMEGEN,St. Annastraat,,6524 ES
+3905,AMSTERDAM,Magalhaensplein,,1057 VD
+3906,AMSTERDAM,Schaepmanstraat,,1051 JC
+3907,TILBURG,Lovensestraat,,5014 DS
+3908,AMSTERDAM,Van Spilbergenstraat,,1057 RK
+3909,UTRECHT,Graafschap,,3524 TP
+3910,AMSTERDAM,Jan van Galenstraat,,1056 CK
+3911,GRONINGEN,Nieuweweg,,9711 TE
+3912,AMSTERDAM,Frieslandstraat,,1082 TN
+3913,ROTTERDAM,Nolensstraat,,3039 PN
+3914,UTRECHT,Ina Boudier-Bakkerlaan,,3582 XB
+3915,ROTTERDAM,Hoogstraat,,3011 PN
+3916,AMSTERDAM,Damstraat,,1012 JM
+3917,GRONINGEN,Tweede Willemstraat,,9725 JL
+3918,NIJMEGEN,Burghardt van den Berghstraat,,6512 DK
+3919,ROTTERDAM,Baljuwstraat,,3039 AK
+3920,GRONINGEN,Billitonstraat,,9715 EV
+3921,ROTTERDAM,Goudsesingel,,3011 KC
+3922,DEN HAAG,Notenplein,,2555 ZW
+3923,GRONINGEN,Kleine Butjesstraat,,9712 EX
+3924,ROTTERDAM,Tweebosstraat,,3072 BP
+3925,MAASTRICHT,Statensingel,,6217 KH
+3926,ROTTERDAM,Buizenwerf,,3063 AZ
+3927,GRONINGEN,H.W. Mesdagplein,,9718 HT
+3928,ROTTERDAM,Erasmussingel,,3051 KE
+3929,GRONINGEN,Wolddijk,,9738 AD
+3930,GRONINGEN,Dirk Huizingastraat,,9713 GL
+3931,DEN HAAG,Binnendoor,,2512 XX
+3932,EINDHOVEN,Moggendries,,5641 PM
+3933,TILBURG,Professor Verbernelaan,,5037 AH
+3934,UTRECHT,Padangstraat,,3531 TC
+3935,UTRECHT,Jongeneelstraat,,3513 DB
+3936,AMSTERDAM,Voorthuizenstraat,,1106 DJ
+3937,ROTTERDAM,Bas Jungeriusstraat,,3081 VR
+3938,ROTTERDAM,Klaverstraat,,3083 VL
+3939,MAASTRICHT,Keurmeestersdreef,,6216 ED
+3940,GRONINGEN,Hoornsediep,,9725 HK
+3941,MAASTRICHT,Populierweg,,6222 CT
+3942,MAASTRICHT,Heggenstraat,,6211 GW
+3943,AMSTERDAM,Emmeline Pankhurststraat,,1103 MT
+3944,NIJMEGEN,Burghardt van den Berghstraat,,6512 DD
+3945,GRONINGEN,Zaagmuldersweg,,9713 LG
+3946,DEN HAAG,Loosduinseweg,,2571 AV
+3947,AMSTERDAM,Adrichemstraat,,1013 DR
+3948,DEN HAAG,Marcelisstraat,,2586 RV
+3949,UTRECHT,Otterstraat,,3513 CP
+3950,UTRECHT,Tolsteegsingel,,3582 AL
+3951,AMSTERDAM,Rijnstraat,,1079 HJ
+3952,AMSTERDAM,Lodewijk Tripstraat,,1052 ER
+3953,GRONINGEN,Noorderhaven,,9712 VL
+3954,AMSTERDAM,Leiduinstraat,,1058 SK
+3955,AMSTERDAM,Kattenburgerplein,,1018 KM
+3956,TILBURG,Montfortanenlaan,,5042 CW
+3957,EINDHOVEN,St Adrianusstraat,,5614 EP
+3958,TILBURG,Besterdplein,,5014 HP
+3959,TILBURG,Domtorenstraat,,5037 AR
+3960,GRONINGEN,Heymanslaan,,9714 GK
+3961,TILBURG,Paduaplein,,5014 LE
+3962,EINDHOVEN,Grasmier,,5658 GE
+3963,MAASTRICHT,Kapoenstraat,,6211 KW
+3964,DEN HAAG,Bontekoekade,,2516 LD
+3965,DEN HAAG,Herengracht,,2511 EH
+3966,AMSTERDAM,IJburglaan,,1087 JJ
+3967,AMSTERDAM,Jasper Leijnsenstraat,,1056 XW
+3968,AMSTERDAM,Victorieplein,,1078 PH
+3969,ROTTERDAM,1e Middellandstraat,,3021 BJ
+3970,AMSTERDAM,Hartenstraat,,1016 BZ
+3971,AMSTERDAM,Pieter Calandlaan,,1060 TV
+3972,NIJMEGEN,de Voorstenkamp,,6545 GE
+3973,GRONINGEN,Gorechtkade,,9713 CK
+3974,ROTTERDAM,Mezenstraat,,3082 ZJ
+3975,ROTTERDAM,De Lairesselaan,,3062 PH
+3976,AMSTERDAM,S. F. van Ossstraat,,1068 JN
+3977,LEIDEN,Valkenpad,,2317 AN
+3978,DEN HAAG,Kuifeendstraat,,2492 NK
+3979,UTRECHT,Frans Halsstraat,,3583 BR
+3980,AMSTERDAM,Overtoom,,1054 HC
+3981,GRONINGEN,Herebinnensingel,,9711 GE
+3982,MAASTRICHT,Ambyerstraat Noord,,6225 EC
+3983,AMSTERDAM,President Allendelaan,,1068 VM
+3984,ROTTERDAM,Pannekoekstraat,,3011 LH
+3985,UTRECHT,Burgemeester van der Voort van Zijplaan,,3571 VT
+3986,AMSTERDAM,Reigersbos,,1106 AS
+3987,UTRECHT,Dollardstraat,,3522 AM
+3988,GRONINGEN,Petrus Campersingel,,9713 AH
+3989,DEN HAAG,Voorthuizenstraat,,2573 AG
+3990,GRONINGEN,Herman Colleniusstraat,,9718 KT
+3991,AMSTERDAM,Eenhoornhof,,1033 XE
+3992,GRONINGEN,Kleine Raamstraat,,9711 CH
+3993,AMSTERDAM,Eerste Helmersstraat,,1054 EE
+3994,DEN HAAG,Regentesseplein,,2562 EZ
+3995,LEIDEN,Kolfmakersteeg,,2311 VE
+3996,AMSTERDAM,Millingenhof,,1106 KN
+3997,MAASTRICHT,Schalmeistraat,,6217 EV
+3998,UTRECHT,Woudsenderraklaan,,3544 PZ
+3999,NIJMEGEN,Doddendaal,,6511 DG
+4000,UTRECHT,Amerikalaan,,3526 VE
+4001,EINDHOVEN,St Bonifaciuslaan,,5643 NA
+4002,AMSTERDAM,Sanderijnstraat,,1055 BM
+4003,ROTTERDAM,Fazantstraat,,3083 ZH
+4004,AMSTERDAM,Legmeerplein,,1058 NL
+4005,AMSTERDAM,Tolstraat,,1073 SC
+4006,GRONINGEN,Oosterstraat,,9711 NR
+4007,AMSTERDAM,Van Nijenrodeweg,,1083 ED
+4008,TILBURG,Melsbroekstraat,,5042 TL
+4009,ROTTERDAM,Schulpweg,,3084 NG
+4010,AMSTERDAM,Pierre Lallementstraat,,1097 JR
+4011,AMSTERDAM,Erich Salomonstraat,,1087 DB
+4012,GRONINGEN,Kochstraat,,9728 KE
+4013,GRONINGEN,Schoolholm,,9711 JH
+4014,GRONINGEN,Gorechtkade,,9713 BJ
+4015,GRONINGEN,Parkweg,,9725 EH
+4016,AMSTERDAM,Haarlemmer Houttuinen,,1013 GL
+4017,LEIDEN,Lange Mare,,2312 GS
+4018,GRONINGEN,Warmoesstraat,,9724 JJ
+4019,AMSTERDAM,Voorburgstraat,,1062 JB
+4020,AMSTERDAM,President Steynstraat,,1091 NB
+4021,ROTTERDAM,Hoogstraat,,3011 PP
+4022,LEIDEN,Haarlemmerstraat,,2312 GL
+4023,DEN HAAG,Rijswijkseweg,,2516 HV
+4024,ROTTERDAM,Libellenstraat,,3061 VE
+4025,TILBURG,Jozef Israelsstraat,,5025 NR
+4026,EINDHOVEN,Schootsestraat,,5616 RH
+4027,ROTTERDAM,Bovenstraat,,3077 BL
+4028,UTRECHT,Bandoengstraat,,3531 RN
+4029,ROTTERDAM,Dordtselaan,,3073 GK
+4030,ROTTERDAM,Josephstraat,,3014 TX
+4031,AMSTERDAM,Hoogte Kadijk,,1018 BK
+4032,ROTTERDAM,Teilingerstraat,,3032 AV
+4033,UTRECHT,Patagoniedreef,,3563 BD
+4034,GRONINGEN,Wenckebachlaan,,9728 JJ
+4035,TILBURG,Schaepmanstraat,,5041 AR
+4036,TILBURG,Korveldwarsstraat,,5025 JA
+4037,TILBURG,Meelstraat,,5025 KK
+4038,GRONINGEN,Rabenhauptstraat,,9725 CG
+4039,TILBURG,Tournooistraat,,5021 BJ
+4040,UTRECHT,Pepermuntstraat,,3544 CA
+4041,UTRECHT,Koekoekstraat,,3514 CT
+4042,UTRECHT,Rubicondreef,,3561 JB
+4043,GRONINGEN,Ceramstraat,,9715 JM
+4044,DEN HAAG,Cornelis van der Lijnstraat,,2593 ND
+4045,AMSTERDAM,Govert Flinckstraat,,1072 EG
+4046,DEN HAAG,Stamkartplein,,2521 ES
+4047,DEN HAAG,Daltonstraat,,2561 ST
+4048,AMSTERDAM,Woutertje Pietersestraat,,1061 DG
+4049,UTRECHT,Hamburgerstraat,,3512 NP
+4050,EINDHOVEN,Schootsestraat,,5616 RE
+4051,AMSTERDAM,Cornelis Drebbelstraat,,1097 AK
+4052,AMSTERDAM,Theophilusstraat,,1055 CN
+4053,TILBURG,Kamillehof,,5044 AN
+4054,EINDHOVEN,Karel de Grotelaan,,5615 SX
+4055,AMSTERDAM,Pretoriusstraat,,1092 EX
+4056,TILBURG,Theresiastraat,,5041 BH
+4057,AMSTERDAM,Boris Pasternakstraat,,1102 TB
+4058,NIJMEGEN,Stoppendaalstraat,,6531 CM
+4059,GRONINGEN,Kraneweg,,9718 JR
+4060,AMSTERDAM,Eendrachtstraat,,1078 XZ
+4061,ROTTERDAM,Kritostraat,,3076 BH
+4062,GRONINGEN,Koninginnelaan,,9717 BT
+4063,ROTTERDAM,Mathenesserlaan,,3023 GB
+4064,MAASTRICHT,Meerssenerweg,,6222 AJ
+4065,UTRECHT,Ossewagendreef,,3564 BR
+4066,EINDHOVEN,Pisanostraat,,5623 CC
+4067,AMSTERDAM,Hoofdweg,,1056 DJ
+4068,AMSTERDAM,Daniel Stalpertstraat,,1072 XC
+4069,AMSTERDAM,Vasco da Gamastraat,,1057 VM
+4070,AMSTERDAM,Zaanstraat,,1013 RV
+4071,AMSTERDAM,Geerdinkhof,,1103 RN
+4072,NIJMEGEN,Groenestraat,,6531 HK
+4073,UTRECHT,Bing Crosbypad,,3543 EM
+4074,EINDHOVEN,Hertogstraat,,5611 PA
+4075,ROTTERDAM,Moliereweg,,3076 GE
+4076,UTRECHT,Amsterdamsestraatweg,,3551 CW
+4077,GRONINGEN,Prinsesseweg,,9717 BC
+4078,AMSTERDAM,Hoogoord,,1102 CE
+4079,LEIDEN,Trompstraat,,2315 TA
+4080,TILBURG,Tuinstraat,,5038 DB
+4081,AMSTERDAM,Hudsonstraat,,1057 SG
+4082,NIJMEGEN,Stieltjesstraat,,6511 AK
+4083,NIJMEGEN,Nieuwstraat,,6511 PT
+4084,ROTTERDAM,Nieuwe Binnenweg,,3021 GM
+4085,UTRECHT,Grevelingenstraat,,3522 PR
+4086,GRONINGEN,Oude Boteringestraat,,9712 GM
+4087,LEIDEN,Rembrandtstraat,,2311 VV
+4088,GRONINGEN,Oude Boteringestraat,,9712 GH
+4089,AMSTERDAM,Gustav Mahlerlaan,,1082 MK
+4090,TILBURG,Franciscusstraat,,5042 HV
+4091,AMSTERDAM,Bilderdijkpark,,1052 SB
+4092,AMSTERDAM,Johan Huizingalaan,,1065 JM
+4093,AMSTERDAM,Hans Katanhof,,1063 XG
+4094,AMSTERDAM,Surinameplein,,1058 GN
+4095,GRONINGEN,Uranusstraat,,9742 JW
+4096,ROTTERDAM,Pasteursingel,,3028 EG
+4097,DEN HAAG,Eerbeeklaan,,2573 HP
+4098,ROTTERDAM,Pleinweg,,3083 EP
+4099,ROTTERDAM,Aleidisstraat,,3021 SJ
+4100,UTRECHT,Van Vollenhovenlaan,,3527 JG
+4101,AMSTERDAM,Van Ostadestraat,,1074 VW
+4102,ROTTERDAM,Schiekade,,3033 BD
+4103,NIJMEGEN,Rode Toren,,6511 ZC
+4104,AMSTERDAM,Theophile de Bockstraat,,1058 VA
+4105,AMSTERDAM,Binnenkant,,1011 BH
+4106,MAASTRICHT,Sint Annalaan,,6217 KC
+4107,ROTTERDAM,Zaagmolenstraat,,3036 HN
+4108,ROTTERDAM,Schiedamsesingel,,3012 BC
+4109,AMSTERDAM,Spuistraat,,1012 ST
+4110,GRONINGEN,Kamerlingh Onnesstraat,,9727 HE
+4111,NIJMEGEN,Guido Gezellestraat,,6531 CT
+4112,EINDHOVEN,Karel van den Woestijnelaan,,5615 EL
+4113,ROTTERDAM,Catharina Beersmansstraat,,3025 EH
+4114,LEIDEN,Pelikaanhof,,2312 EG
+4115,AMSTERDAM,Arent Janszoon Ernststraat,,1083 JN
+4116,UTRECHT,Simplonbaan,,3524 GH
+4117,ROTTERDAM,Spanjaardstraat,,3025 TM
+4118,ROTTERDAM,Gordelweg,,3038 GH
+4119,AMSTERDAM,Loggerhof,,1034 CG
+4120,LEIDEN,Van 't Hoffstraat,,2313 SN
+4121,AMSTERDAM,Willem Nakkenstraat,,1061 TD
+4122,ROTTERDAM,Bredenoord,,3079 JD
+4123,ROTTERDAM,Wilbertoord,,3079 JX
+4124,ROTTERDAM,Urkersingel,,3083 SW
+4125,NIJMEGEN,Hatertseweg,,6533 AN
+4126,ROTTERDAM,Dr. de Visserstraat,,3038 TX
+4127,GRONINGEN,Verlengde Willemstraat,,9725 AW
+4128,MAASTRICHT,Raadhuisstraat,,6226 GM
+4129,DEN HAAG,Louis Davidsstraat,,2551 EC
+4130,NIJMEGEN,Bredestraat,,6542 SX
+4131,ROTTERDAM,Batavierenstraat,,3014 JH
+4132,ROTTERDAM,Heemraadssingel,,3021 DE
+4133,TILBURG,Hasseltstraat,,5046 LP
+4134,GRONINGEN,Helper Westsingel,,9721 BA
+4135,GRONINGEN,Damsterdiep,,9713 EK
+4136,GRONINGEN,Rivierenhof,,9725 HC
+4137,ROTTERDAM,Goudse Rijweg,,3061 DC
+4138,AMSTERDAM,Gouden Leeuw,,1103 KD
+4139,MAASTRICHT,Bogaardenstraat,,6211 SP
+4140,AMSTERDAM,Kribbestraat,,1079 WR
+4141,TILBURG,Hertogstraat,,5021 CD
+4142,UTRECHT,Amsterdamsestraatweg,,3551 CP
+4143,GRONINGEN,Nieuwe Boteringestraat,,9712 PK
+4144,GRONINGEN,Bessemoerstraat,,9741 AJ
+4145,GRONINGEN,Gorechtkade,,9713 CH
+4146,GRONINGEN,Verlengde Oosterstraat,,9711 EN
+4147,UTRECHT,Santiagodreef,,3563 VP
+4148,DEN HAAG,Laurierstraat,,2563 SJ
+4149,ROTTERDAM,Bergweg,,3036 BJ
+4150,GRONINGEN,Pluimerstraat,,9711 SW
+4151,AMSTERDAM,Charlotte de Bourbonstraat,,1055 WR
+4152,NIJMEGEN,Koninginnelaan,,6542 ZV
+4153,AMSTERDAM,Marksingel,,1060 SG
+4154,AMSTERDAM,Zoutkeetsgracht,,1013 LC
+4155,GRONINGEN,H.W. Mesdagplein,,9718 HS
+4156,AMSTERDAM,Utrechtsedwarsstraat,,1017 WJ
+4157,AMSTERDAM,Klaroenstraat,,1104 HW
+4158,AMSTERDAM,KNSM-laan,,1019 LR
+4159,EINDHOVEN,Zevenaarlaan,,5651 BA
+4160,GRONINGEN,Van Speykstraat,,9726 BN
+4161,MAASTRICHT,Hoenderstraat,,6211 EL
+4162,UTRECHT,Willemstraat,,3511 RK
+4163,UTRECHT,Hendrick de Keyserstraat,,3583 TK
+4164,AMSTERDAM,Hendrik Jacobszstraat,,1075 PE
+4165,NIJMEGEN,Molukkenstraat,,6524 NK
+4166,GRONINGEN,Nieuwe Blekerstraat,,9718 EL
+4167,ROTTERDAM,Edmond Hellenraadstraat,,3067 NT
+4168,DEN HAAG,Valkenbosplein,,2563 CA
+4169,GRONINGEN,Parkweg,,9727 HC
+4170,AMSTERDAM,Frederiksstraat,,1054 LB
+4171,EINDHOVEN,Karel de Grotelaan,,5615 SV
+4172,MAASTRICHT,Hertogsingel,,6214 AD
+4173,AMSTERDAM,Kinkerstraat,,1053 DL
+4174,LEIDEN,Hoge Rijndijk,,2313 KM
+4175,AMSTERDAM,Haarlemmermeerstraat,,1058 JN
+4176,GRONINGEN,Hoendiep,,9718 TD
+4177,UTRECHT,Morelstraat,,3552 GR
+4178,LEIDEN,Paramaribostraat,,2315 VD
+4179,EINDHOVEN,Venkelhof,,5643 EJ
+4180,AMSTERDAM,De Kempenaerstraat,,1051 CM
+4181,GRONINGEN,Abeelstraat,,9741 EG
+4182,AMSTERDAM,Baweanstraat,,1095 XX
+4183,ROTTERDAM,Lusthofstraat,,3062 WB
+4184,GRONINGEN,Bezettingslaan,,9728 EJ
+4185,EINDHOVEN,Waterwereld,,5658 RL
+4186,ROTTERDAM,Beijerlandselaan,,3074 ES
+4187,ROTTERDAM,Statensingel,,3039 LB
+4188,AMSTERDAM,Osdorpplein,,1068 EN
+4189,EINDHOVEN,Simon van Leeuwenstraat,,5652 SG
+4190,GRONINGEN,Heymanslaan,,9714 GH
+4191,UTRECHT,Harnaslaan,,3525 GG
+4192,GRONINGEN,Ceramstraat,,9715 JN
+4193,ROTTERDAM,Voorhaven,,3025 HE
+4194,GRONINGEN,Van Royenlaan,,9721 ES
+4195,EINDHOVEN,Willem de Zwijgerstraat,,5616 AC
+4196,ROTTERDAM,Plein 1953,,3086 EH
+4197,ROTTERDAM,Bredestraat,,3011 RE
+4198,GRONINGEN,Kraneweg,,9718 JM
+4199,UTRECHT,Euterpedreef,,3561 CX
+4200,DEN HAAG,De Sillestraat,,2593 TX
+4201,UTRECHT,Nicolaas Ruychaverstraat,,3554 XT
+4202,ROTTERDAM,Gerrit van de Lindestraat,,3022 TB
+4203,LEIDEN,Opaalstraat,,2332 TK
+4204,DEN HAAG,Handellaan,,2555 WC
+4205,AMSTERDAM,Het Laagt,,1025 GL
+4206,EINDHOVEN,Lijmbeekstraat,,5612 NG
+4207,NIJMEGEN,Bloemerstraat,,6511 EB
+4208,DEN HAAG,Volendamlaan,,2547 CH
+4209,ROTTERDAM,Hillevliet,,3074 KA
+4210,TILBURG,Bart van Peltplein,,5046 GA
+4211,AMSTERDAM,Europaplein,,1079 AW
+4212,DEN HAAG,Troelstrakade,,2531 AW
+4213,DEN HAAG,Van Lansbergestraat,,2593 SC
+4214,DEN HAAG,Goeverneurlaan,,2523 CC
+4215,DEN HAAG,Dierenselaan,,2573 KA
+4216,EINDHOVEN,Pygmalionlaan,,5631 BG
+4217,DEN HAAG,Weteringplein,,2515 AJ
+4218,GRONINGEN,Grote Kromme Elleboog,,9712 BJ
+4219,AMSTERDAM,Bosboom Toussaintstraat,,1054 AP
+4220,UTRECHT,Korfoedreef,,3562 SH
+4221,DEN HAAG,Amsterdamsestraat,,2587 CN
+4222,UTRECHT,Rijnlaan,,3522 BZ
+4223,AMSTERDAM,Overtoom,,1054 HD
+4224,DEN HAAG,Dierenselaan,,2573 KE
+4225,DEN HAAG,Troelstrakade,,2531 AH
+4226,LEIDEN,Seringenstraat,,2313 VV
+4227,UTRECHT,Plesmanlaan,,3555 AP
+4228,GRONINGEN,Jacobijnerstraat,,9712 HZ
+4229,AMSTERDAM,Schoorlstraat,,1024 PM
+4230,EINDHOVEN,Stephensonstraat,,5621 GR
+4231,TILBURG,Insulindeplein,,5014 BD
+4232,AMSTERDAM,Eerste Van Swindenstraat,,1093 GL
+4233,UTRECHT,Maliebaan,,3581 CG
+4234,GRONINGEN,Radesingel,,9711 EE
+4235,ROTTERDAM,Hemingwayplaats,,3068 WP
+4236,UTRECHT,Bangkokdreef,,3564 SK
+4237,NIJMEGEN,Guido Gezellestraat,,6531 CV
+4238,GRONINGEN,Van Sijsenstraat,,9724 NM
+4239,GRONINGEN,Aquamarijnstraat,,9743 RA
+4240,AMSTERDAM,Ceintuurbaan,,1073 EM
+4241,UTRECHT,Derde Oosterparklaan,,3541 SC
+4242,GRONINGEN,Damsterdiep,,9713 EM
+4243,AMSTERDAM,Jan Vrijmanstraat,,1087 MC
+4244,MAASTRICHT,Hunnenweg,,6224 JN
+4245,DEN HAAG,Obrechtstraat,,2517 VP
+4246,AMSTERDAM,Kleine Wittenburgerstraat,,1018 LW
+4247,AMSTERDAM,Zeelandstraat,,1082 CA
+4248,AMSTERDAM,Tweede Jan van der Heijdenstraat,,1073 VG
+4249,AMSTERDAM,Eerste Looiersdwarsstraat,,1016 VL
+4250,EINDHOVEN,de Greefstraat,,5622 GJ
+4251,AMSTERDAM,Hoofddorpweg,,1059 CT
+4252,AMSTERDAM,Burgemeester De Vlugtlaan,,1063 BM
+4253,AMSTERDAM,Sarphatistraat,,1018 GW
+4254,AMSTERDAM,Burgemeester Roellstraat,,1067 NG
+4255,AMSTERDAM,Groenhoven,,1103 LG
+4256,UTRECHT,Catharijnesingel,,3511 GV
+4257,ROTTERDAM,Teilingerstraat,,3032 AW
+4258,GRONINGEN,Coranthijnestraat,,9715 RH
+4259,AMSTERDAM,Afrikanerplein,,1091 PS
+4260,AMSTERDAM,Louis de Visserstraat,,1069 RG
+4261,GRONINGEN,Paterswoldseweg,,9726 BD
+4262,GRONINGEN,Emmastraat,,9722 EX
+4263,GRONINGEN,Westerkade,,9718 AN
+4264,MAASTRICHT,Hoogbrugstraat,,6221 CR
+4265,ROTTERDAM,Van Beuningenstraat,,3039 WD
+4266,UTRECHT,Bekkerstraat,,3572 SC
+4267,UTRECHT,Europaplein,,3526 WX
+4268,GRONINGEN,Antillenstraat,,9714 JT
+4269,DEN HAAG,Vlierboomstraat,,2564 JK
+4270,AMSTERDAM,Amstelveenseweg,,1081 JP
+4271,ROTTERDAM,Bas Jungeriusstraat,,3081 VJ
+4272,AMSTERDAM,Develstein,,1102 AK
+4273,DEN HAAG,Noorderbeekdwarsstraat,,2562 XN
+4274,LEIDEN,Narmstraat,,2312 BC
+4275,AMSTERDAM,Mercatorplein,,1057 CC
+4276,ROTTERDAM,Klaverstraat,,3083 VG
+4277,GRONINGEN,J.C. Kapteynlaan,,9714 CR
+4278,ROTTERDAM,Graaf Florisstraat,,3021 CG
+4279,ROTTERDAM,Soetendaalseweg,,3036 ES
+4280,GRONINGEN,Steentilstraat,,9711 GL
+4281,EINDHOVEN,Pieter Breughelstraat,,5613 KB
+4282,EINDHOVEN,Muzenlaan,,5631 GE
+4283,EINDHOVEN,Tongelresestraat,,5613 DA
+4284,GRONINGEN,Gorechtkade,,9713 BA
+4285,UTRECHT,Acaciastraat,,3551 BH
+4286,UTRECHT,Arthur van Schendelstraat,,3511 MZ
+4287,GRONINGEN,Admiraal de Ruyterlaan,,9726 GS
+4288,MAASTRICHT,Lyonnetstraat,,6221 AP
+4289,MAASTRICHT,Pastoor Wijnenweg,,6214 RB
+4290,AMSTERDAM,Millingenhof,,1106 KW
+4291,AMSTERDAM,Kantershof,,1104 HJ
+4292,AMSTERDAM,Andries Copierstraat,,1061 SE
+4293,AMSTERDAM,Durgerdammergouw,,1026 CN
+4294,EINDHOVEN,Pisanostraat,,5623 CE
+4295,GRONINGEN,Grote Leliestraat,,9712 SX
+4296,AMSTERDAM,Pieter Calandlaan,,1068 NM
+4297,AMSTERDAM,Rusland,,1012 CL
+4298,AMSTERDAM,Van Tuyll van Serooskerkenweg,,1076 JS
+4299,UTRECHT,Billitonkade,,3531 TL
+4300,MAASTRICHT,Uitbelderstraat,,6211 SL
+4301,EINDHOVEN,Pisanostraat,,5623 CN
+4302,DEN HAAG,Maarsbergenstraat,,2546 SV
+4303,TILBURG,Reinier Claeszenstraat,,5021 VK
+4304,AMSTERDAM,IJselstraat,,1078 BZ
+4305,NIJMEGEN,Hengstdalseweg,,6523 EM
+4306,UTRECHT,Bilderdijkstraat,,3532 VC
+4307,DEN HAAG,Riouwstraat,,2585 HZ
+4308,AMSTERDAM,Van Woustraat,,1073 NB
+4309,ROTTERDAM,Graaf Florisstraat,,3021 CL
+4310,DEN HAAG,Isabellaland,,2591 EK
+4311,AMSTERDAM,Riouwstraat,,1094 XX
+4312,EINDHOVEN,Meerhovendreef,,5658 HA
+4313,LEIDEN,Vestestraat,,2312 ST
+4314,AMSTERDAM,Eerste Oosterparkstraat,,1091 GT
+4315,ROTTERDAM,Verschoorstraat,,3081 JZ
+4316,AMSTERDAM,Hendrik de Bruynstraat,,1065 EE
+4317,UTRECHT,Bellamystraat,,3514 EL
+4318,GRONINGEN,Kometenstraat,,9742 EE
+4319,GRONINGEN,Brugstraat,,9712 AA
+4320,TILBURG,Vendeliersstraat,,5021 HP
+4321,AMSTERDAM,Spitsbergenstraat,,1013 CM
+4322,NIJMEGEN,Groenewoudseweg,,6524 TN
+4323,NIJMEGEN,Koninginnelaan,,6542 ZK
+4324,GRONINGEN,Froukemaheerd,,9736 RH
+4325,AMSTERDAM,Riouwstraat,,1094 XZ
+4326,DEN HAAG,Van Neckstraat,,2597 SC
+4327,GRONINGEN,J.M. den Uylstraat,,9728 RH
+4328,GRONINGEN,Reigerstraat,,9714 EV
+4329,DEN HAAG,Frans Halsstraat,,2525 VV
+4330,EINDHOVEN,Pieter Appelmanspad,,5622 KC
+4331,ROTTERDAM,Honingerdijk,,3063 AK
+4332,DEN HAAG,Sibergstraat,,2593 SL
+4333,DEN HAAG,R. J. Schimmelpennincklaan,,2517 JN
+4334,AMSTERDAM,Spaarndammerstraat,,1013 TE
+4335,EINDHOVEN,Hagenkampweg Noord,,5616 TB
+4336,ROTTERDAM,Blaauwstraat,,3067 PA
+4337,UTRECHT,Van Weerden Poelmanlaan,,3527 KN
+4338,AMSTERDAM,Madurastraat,,1094 GE
+4339,DEN HAAG,Govert Bidloostraat,,2563 XJ
+4340,AMSTERDAM,Shackletonstraat,,1056 RM
+4341,AMSTERDAM,Ottho Heldringstraat,,1066 XT
+4342,LEIDEN,Lombokstraat,,2315 EP
+4343,TILBURG,Piusstraat,,5021 JD
+4344,TILBURG,Tobias Asserlaan,,5042 NZ
+4345,AMSTERDAM,August Allebeplein,,1062 AB
+4346,AMSTERDAM,Vrijzicht,,1068 CD
+4347,GRONINGEN,Gelkingestraat,,9711 NC
+4348,DEN HAAG,Bilthovenselaan,,2574 TG
+4349,AMSTERDAM,Van Nijenrodeweg,,1082 JH
+4350,AMSTERDAM,Johannes Meewisstraat,,1063 CG
+4351,MAASTRICHT,Ruttensingel,,6214 SV
+4352,MAASTRICHT,Meerssenerweg,,6222 AH
+4353,MAASTRICHT,Brusselsestraat,,6211 PE
+4354,AMSTERDAM,Lou Jansenplein,,1063 GT
+4355,ROTTERDAM,Lepelaarsingel,,3083 KP
+4356,ROTTERDAM,Mathenesserweg,,3027 HE
+4357,DEN HAAG,Marktweg,,2525 JN
+4358,GRONINGEN,Schuitendiep,,9712 KD
+4359,LEIDEN,Doezastraat,,2311 GZ
+4360,AMSTERDAM,Hoogoord,,1102 CA
+4361,UTRECHT,Nijldreef,,3564 CR
+4362,LEIDEN,Haarlemmerstraat,,2312 DT
+4363,UTRECHT,Oeral,,3524 DS
+4364,AMSTERDAM,Van Koetsveldstraat,,1064 VK
+4365,ROTTERDAM,Burgemeester Roosstraat,,3035 AH
+4366,NIJMEGEN,Karel Doormanstraat,,6512 GW
+4367,LEIDEN,Haverstraat,,2311 NN
+4368,ROTTERDAM,Walenburgerweg,,3039 AA
+4369,DEN HAAG,Noordeinde,,2514 GG
+4370,AMSTERDAM,Barajasweg,,1043 CP
+4371,AMSTERDAM,Opheusdenhof,,1106 VP
+4372,DEN HAAG,Wenckebachstraat,,2522 CL
+4373,AMSTERDAM,Martini van Geffenstraat,,1068 GL
+4374,ROTTERDAM,Woelwijkstraat,,3035 VS
+4375,UTRECHT,Wethouder D.M. Plompstraat,,3555 BS
+4376,MAASTRICHT,Heugemerstraat,,6229 AR
+4377,DEN HAAG,Herderslaan,,2526 KL
+4378,UTRECHT,Maniladreef,,3564 JE
+4379,AMSTERDAM,Geerdinkhof,,1103 RA
+4380,AMSTERDAM,Burgemeester Cramergracht,,1064 AE
+4381,TILBURG,Vredeman de Vriesstraat,,5041 GS
+4382,MAASTRICHT,Boviersdaal,,6228 GP
+4383,UTRECHT,Weltevredenstraat,,3531 XR
+4384,NIJMEGEN,Tolhuis,,6537 SK
+4385,DEN HAAG,Zuiderparklaan,,2574 HV
+4386,AMSTERDAM,Insulindeweg,,1094 PN
+4387,ROTTERDAM,Quadenoord,,3079 XC
+4388,ROTTERDAM,Essenburgsingel,,3022 EG
+4389,AMSTERDAM,Veldhuizenstraat,,1106 DH
+4390,EINDHOVEN,Willemstraat,,5616 GE
+4391,EINDHOVEN,Morsestraat,,5621 AM
+4392,EINDHOVEN,Jeroen Boschlaan,,5613 GD
+4393,GRONINGEN,Tuinbouwstraat,,9717 JE
+4394,EINDHOVEN,Kronehoefstraat,,5622 AC
+4395,GRONINGEN,Paterswoldseweg,,9727 BG
+4396,LEIDEN,Nieuwe Rijn,,2312 JK
+4397,TILBURG,Besterdring,,5014 HK
+4398,TILBURG,Ringbaan-Oost,,5014 GH
+4399,AMSTERDAM,Wamelstraat,,1106 DM
+4400,DEN HAAG,Hoefkade,,2525 HC
+4401,UTRECHT,Pionstraat,,3554 EB
+4402,UTRECHT,Weerdsingel W.Z.,,3513 BB
+4403,UTRECHT,Biltstraat,,3572 AE
+4404,AMSTERDAM,Hectorstraat,,1076 PR
+4405,LEIDEN,Billie Holidaystraat,,2324 LK
+4406,GRONINGEN,Derde Drift Lopendediep,,9712 EP
+4407,AMSTERDAM,Gerard Doustraat,,1073 VZ
+4408,TILBURG,Dillenburglaan,,5046 LT
+4409,ROTTERDAM,Claes de Vrieselaan,,3021 JW
+4410,AMSTERDAM,Senecastraat,,1064 ZJ
+4411,LEIDEN,Van 't Hoffstraat,,2313 SR
+4412,ROTTERDAM,Westduelstraat,,3082 RW
+4413,LEIDEN,Mahlerstraat,,2324 JH
+4414,GRONINGEN,Petrus Campersingel,,9713 AL
+4415,DEN HAAG,Antheunisstraat,,2522 ZD
+4416,AMSTERDAM,Borneolaan,,1019 KL
+4417,DEN HAAG,Parallelweg,,2525 NA
+4418,DEN HAAG,Regentesselaan,,2562 CM
+4419,AMSTERDAM,Gouden Leeuw,,1103 KJ
+4420,NIJMEGEN,Muntweg,,6532 TL
+4421,ROTTERDAM,Pleinweg,,3083 EE
+4422,UTRECHT,Zenithstraat,,3582 PK
+4423,LEIDEN,Stationsweg,,2312 AS
+4424,EINDHOVEN,Barrierweg,,5622 CN
+4425,UTRECHT,Burgemeester van Tuyllkade,,3553 AD
+4426,EINDHOVEN,Akkerstraat,,5615 HP
+4427,ROTTERDAM,Carnisselaan,,3083 HH
+4428,LEIDEN,Groenhovenstraat,,2311 BT
+4429,AMSTERDAM,Zeelandstraat,,1082 BX
+4430,UTRECHT,Asterstraat,,3551 SW
+4431,AMSTERDAM,Eerste Constantijn Huygensstraat,,1054 BS
+4432,NIJMEGEN,Voorstadslaan,,6541 SL
+4433,EINDHOVEN,Nederlandplein,,5628 AE
+4434,ROTTERDAM,Dorpsweg,,3082 LG
+4435,AMSTERDAM,Burgemeester Cramergracht,,1064 AL
+4436,UTRECHT,Westraklaan,,3544 RK
+4437,GRONINGEN,Van Wassenaerstraat,,9726 HP
+4438,LEIDEN,Sumatrastraat,,2315 BK
+4439,AMSTERDAM,Frederik Hendrikstraat,,1052 HM
+4440,NIJMEGEN,Lankforst,,6538 HT
+4441,DEN HAAG,2e Van Blankenburgstraat,,2517 HE
+4442,AMSTERDAM,Floraweg,,1032 XM
+4443,DEN HAAG,Klepstraat,,2516 XB
+4444,AMSTERDAM,Noorderakerweg,,1069 LN
+4445,MAASTRICHT,Lenculenstraat,,6211 KP
+4446,AMSTERDAM,Prinsengracht,,1015 DR
+4447,AMSTERDAM,Zamenhofstraat,,1022 AG
+4448,EINDHOVEN,Prins Hendrikstraat,,5611 HL
+4449,GRONINGEN,Nassauplein,,9717 CP
+4450,AMSTERDAM,Erasmusgracht,,1055 BJ
+4451,AMSTERDAM,Schagerlaan,,1097 HR
+4452,AMSTERDAM,Van Leijenberghlaan,,1082 GM
+4453,MAASTRICHT,Stuwweg,,6219 NB
+4454,GRONINGEN,Regulusstraat,,9742 LL
+4455,NIJMEGEN,Fransestraat,,6524 JD
+4456,NIJMEGEN,Oude Molenweg,,6533 WJ
+4457,AMSTERDAM,Fagelstraat,,1052 GA
+4458,AMSTERDAM,Vechtstraat,,1079 JC
+4459,AMSTERDAM,Ter Boede,,1082 CC
+4460,AMSTERDAM,Bijlmerdreef,,1102 RR
+4461,AMSTERDAM,Oude Looiersstraat,,1016 VJ
+4462,LEIDEN,Duizenddraadsteeg,,2312 VT
+4463,AMSTERDAM,Botterstraat,,1034 BV
+4464,AMSTERDAM,Tweede Wittenburgerdwarsstraat,,1018 LP
+4465,DEN HAAG,Copernicusplein,,2561 VN
+4466,AMSTERDAM,Sint Willibrordusstraat,,1074 XM
+4467,AMSTERDAM,Lumierestraat,,1087 JA
+4468,GRONINGEN,Oude Ebbingestraat,,9712 HD
+4469,TILBURG,Smidspad,,5046 JA
+4470,GRONINGEN,Joeswerd,,9746 CR
+4471,ROTTERDAM,Karel Doormanstraat,,3012 GR
+4472,DEN HAAG,Van Bylandtstraat,,2562 GK
+4473,AMSTERDAM,Cliffordstraat,,1051 GT
+4474,LEIDEN,Vrouwensteeg,,2312 DZ
+4475,EINDHOVEN,Zeelsterstraat,,5652 EK
+4476,TILBURG,Goirkestraat,,5046 GL
+4477,TILBURG,Julianapark,,5046 GB
+4478,AMSTERDAM,Teldershof,,1067 ML
+4479,AMSTERDAM,Garstkamp,,1103 PA
+4480,DEN HAAG,Hendrik Zwaardecroonstraat,,2593 XT
+4481,NIJMEGEN,van der Brugghenstraat,,6511 SL
+4482,NIJMEGEN,Professor Molkenboerstraat,,6524 RP
+4483,AMSTERDAM,Bankastraat,,1094 EG
+4484,AMSTERDAM,Nieuwendijk,,1012 MD
+4485,AMSTERDAM,Middenweg,,1098 AE
+4486,AMSTERDAM,Geerdinkhof,,1103 RM
+4487,AMSTERDAM,President Brandstraat,,1091 ZE
+4488,UTRECHT,Jaap Edendreef,,3562 AV
+4489,EINDHOVEN,Bosboomstraat,,5613 KD
+4490,UTRECHT,Sojaweg,,3541 TG
+4491,GRONINGEN,Oosterhamrikkade,,9714 BH
+4492,ROTTERDAM,Ooievaarstraat,,3035 XD
+4493,EINDHOVEN,St Gerardusplein,,5644 NG
+4494,AMSTERDAM,Harriet Freezerstraat,,1103 MS
+4495,UTRECHT,Hondsrug,,3524 BW
+4496,UTRECHT,Albert van Dalsumlaan,,3584 HE
+4497,ROTTERDAM,Statenweg,,3039 HE
+4498,DEN HAAG,Brinckerinckstraat,,2531 VD
+4499,GRONINGEN,Stuurhut,,9733 AA
+4500,LEIDEN,Lindestraat,,2313 DA
+4501,LEIDEN,Nieuwe Rijn,,2312 JH
+4502,AMSTERDAM,Albert Cuypstraat,,1072 CX
+4503,ROTTERDAM,Zaagmolenstraat,,3036 HB
+4504,AMSTERDAM,Pieter Postsingel,,1067 AN
+4505,AMSTERDAM,Mercatorstraat,,1056 RE
+4506,TILBURG,Jasmijnstraat,,5014 AR
+4507,GRONINGEN,Eendrachtskade,,9718 AB
+4508,UTRECHT,Heemstedelaan,,3523 KE
+4509,AMSTERDAM,Wolbrantskerkweg,,1069 CL
+4510,ROTTERDAM,Karel Doormanstraat,,3012 GG
+4511,EINDHOVEN,Wattstraat,,5621 AH
+4512,AMSTERDAM,Delflandplein,,1062 HV
+4513,EINDHOVEN,Heezerweg,,5614 HD
+4514,ROTTERDAM,Oudedijk,,3061 AC
+4515,ROTTERDAM,Spoorsingel,,3033 GM
+4516,UTRECHT,Ibisdreef,,3564 RB
+4517,GRONINGEN,Wassenberghstraat,,9718 LK
+4518,TILBURG,Trouwlaan,,5021 WH
+4519,TILBURG,Pascalerf,,5014 EW
+4520,ROTTERDAM,Mijnsherenlaan,,3081 GG
+4521,EINDHOVEN,Trompstraat,,5612 GM
+4522,EINDHOVEN,Venuslaan,,5632 HJ
+4523,GRONINGEN,Tweede Willemstraat,,9725 JK
+4524,AMSTERDAM,Veldzicht,,1068 SM
+4525,UTRECHT,Oudwijkerdwarsstraat,,3581 LC
+4526,GRONINGEN,Nieuweweg,,9711 TA
+4527,EINDHOVEN,Dionysius de Karthuizerstraat,,5643 RX
+4528,UTRECHT,St.-Winfridusstraat,,3553 SC
+4529,ROTTERDAM,Schaepmanstraat,,3027 CC
+4530,GRONINGEN,Kastanjelaan,,9741 CN
+4531,NIJMEGEN,Van der Kempstraat,,6512 JP
+4532,ROTTERDAM,Voorhaven,,3025 HD
+4533,UTRECHT,Looierstraat,,3582 AP
+4534,ROTTERDAM,Frans Bekkerstraat,,3082 TK
+4535,AMSTERDAM,Beemsterstraat,,1024 BP
+4536,AMSTERDAM,Brouwersgracht,,1013 HD
+4537,AMSTERDAM,Reinwardtstraat,,1093 HG
+4538,AMSTERDAM,Hofgeest,,1102 EH
+4539,NIJMEGEN,St. Annastraat,,6525 GM
+4540,DEN HAAG,De Sillestraat,,2593 TS
+4541,AMSTERDAM,Nadezjda Mandelstamstraat,,1102 JH
+4542,UTRECHT,Marnixlaan,,3552 HM
+4543,AMSTERDAM,Van Oldenbarneveldtstraat,,1052 KD
+4544,AMSTERDAM,P. Lieftinckstraat,,1067 VW
+4545,AMSTERDAM,Surinameplein,,1058 GV
+4546,AMSTERDAM,Anna van Burenstraat,,1055 VM
+4547,ROTTERDAM,Van Heukelomstraat,,3067 PG
+4548,LEIDEN,Herengracht,,2312 LD
+4549,GRONINGEN,Zuiderweg,,9745 AC
+4550,TILBURG,Calandhof,,5025 DK
+4551,AMSTERDAM,Baron G.A. Tindalplein,,1019 TJ
+4552,NIJMEGEN,Harpstraat,,6544 XS
+4553,UTRECHT,Rozemarijnsingel,,3544 AE
+4554,NIJMEGEN,Weezenhof,,6536 CH
+4555,GRONINGEN,Sabotagelaan,,9727 CS
+4556,DEN HAAG,Cornelis Houtmanstraat,,2593 RD
+4557,EINDHOVEN,Reinkenstraat,,5654 LC
+4558,GRONINGEN,Polderstraat,,9724 EB
+4559,TILBURG,Antoon van Rijenplein,,5021 AS
+4560,EINDHOVEN,Kettingstraat,,5611 RC
+4561,DEN HAAG,Jan van Rodestraat,,2531 XP
+4562,ROTTERDAM,'s-Gravendijkwal,,3021 EG
+4563,AMSTERDAM,Beukenweg,,1091 KD
+4564,AMSTERDAM,Woutertje Pietersestraat,,1061 DD
+4565,AMSTERDAM,Inlaagstraat,,1069 WZ
+4566,ROTTERDAM,Fazantstraat,,3083 ZN
+4567,GRONINGEN,Van Sijsenstraat,,9724 NL
+4568,AMSTERDAM,Oudezijds Voorburgwal,,1012 EW
+4569,ROTTERDAM,Aegidiusstraat,,3061 XJ
+4570,DEN HAAG,Westeinde,,2512 GZ
+4571,LEIDEN,Wagnerplein,,2324 GE
+4572,ROTTERDAM,Volmarijnstraat,,3021 XG
+4573,EINDHOVEN,de Waghemakerstraat,,5622 JH
+4574,NIJMEGEN,Hatertseveldweg,,6532 XR
+4575,UTRECHT,Minister Talmastraat,,3555 GB
+4576,AMSTERDAM,Bilderdijkstraat,,1053 KM
+4577,AMSTERDAM,Reguliersgracht,,1017 LJ
+4578,GRONINGEN,Venuslaan,,9742 KK
+4579,AMSTERDAM,Ceintuurbaan,,1073 EJ
+4580,DEN HAAG,Gravendreef,,2542 NP
+4581,ROTTERDAM,Loofdakstraat,,3036 JN
+4582,DEN HAAG,Bosschestraat,,2587 HG
+4583,ROTTERDAM,Kortekade,,3062 GX
+4584,ROTTERDAM,Russischestraat,,3028 BE
+4585,ROTTERDAM,Boogjes,,3075 TB
+4586,ROTTERDAM,Dreef,,3075 HD
+4587,TILBURG,Hoogtedwarsstraat,,5021 PB
+4588,LEIDEN,Kuiperssteeg,,2312 HN
+4589,LEIDEN,Emilie Knapperthof,,2312 MZ
+4590,GRONINGEN,Pausgang,,9712 EZ
+4591,TILBURG,Veestraat,,5021 PM
+4592,AMSTERDAM,Postjeskade,,1058 DW
+4593,EINDHOVEN,1e Wilakkersstraat,,5614 BG
+4594,MAASTRICHT,Herbenusstraat,,6211 RH
+4595,LEIDEN,Akenwerf,,2317 DJ
+4596,AMSTERDAM,Volkerakstraat,,1078 XM
+4597,ROTTERDAM,Jonker Fransstraat,,3031 AS
+4598,DEN HAAG,Palaceplein,,2587 WG
+4599,DEN HAAG,Marcelisstraat,,2586 RW
+4600,EINDHOVEN,Eckartseweg Zuid,,5623 PA
+4601,DEN HAAG,Rooseboomstraat,,2593 PB
+4602,ROTTERDAM,Paradijslaan,,3034 SV
+4603,ROTTERDAM,Stellendamstraat,,3086 ZH
+4604,GRONINGEN,Tuinstraat,,9711 VD
+4605,GRONINGEN,Nieuweweg,,9711 TC
+4606,AMSTERDAM,Djambistraat,,1094 BB
+4607,ROTTERDAM,Brigantijnstraat,,3028 HE
+4608,GRONINGEN,Gorechtkade,,9713 BH
+4609,DEN HAAG,Minckelersstraat,,2522 CC
+4610,GRONINGEN,Jozef Israelsstraat,,9718 GC
+4611,GRONINGEN,Kraneweg,,9718 JN
+4612,ROTTERDAM,Maastunnelplein,,3081 JA
+4613,DEN HAAG,Noorderbeekdwarsstraat,,2562 XX
+4614,LEIDEN,Uiterstegracht,,2312 TC
+4615,DEN HAAG,Jan van Nassaustraat,,2596 BP
+4616,TILBURG,Korvelseweg,,5025 JG
+4617,GRONINGEN,Barestraat,,9725 CM
+4618,AMSTERDAM,Kikkenstein,,1104 TW
+4619,LEIDEN,Lage Rijndijk,,2315 JN
+4620,AMSTERDAM,Solebaystraat,,1055 ZT
+4621,AMSTERDAM,'s-Gravendijkdreef,,1103 SE
+4622,UTRECHT,Schouwweteringstraat,,3513 GH
+4623,UTRECHT,Burgemeester van Tuyllkade,,3553 AA
+4624,ROTTERDAM,Sint-Janshaven,,3087 XK
+4625,UTRECHT,Parkstraat,,3581 PG
+4626,EINDHOVEN,'t Hofke,,5641 AL
+4627,LEIDEN,Prins Hendrikstraat,,2316 CL
+4628,EINDHOVEN,St Hubertusstraat,,5614 CK
+4629,ROTTERDAM,Schiekade,,3033 BA
+4630,AMSTERDAM,Borneolaan,,1019 HZ
+4631,GRONINGEN,Vondellaan,,9721 LC
+4632,AMSTERDAM,IJselstraat,,1078 CG
+4633,GRONINGEN,Einthovenlaan,,9728 LV
+4634,UTRECHT,Amsterdamsestraatweg,,3553 EA
+4635,GRONINGEN,Professor Rankestraat,,9713 GG
+4636,UTRECHT,Narcisstraat,,3551 ER
+4637,AMSTERDAM,Korte Leidsedwarsstraat,,1017 PW
+4638,NIJMEGEN,van Welderenstraat,,6511 MR
+4639,LEIDEN,Janvossensteeg,,2312 WC
+4640,EINDHOVEN,Heezerweg,,5643 KM
+4641,AMSTERDAM,Benno Stokvisstraat,,1097 HZ
+4642,AMSTERDAM,Anna Bijnsstraat,,1064 JN
+4643,LEIDEN,Magdalena Moonsstraat,,2313 ZC
+4644,AMSTERDAM,Groetstraat,,1024 VB
+4645,GRONINGEN,Briljantstraat,,9743 NS
+4646,GRONINGEN,Violenstraat,,9712 RJ
+4647,TILBURG,Eikstraat,,5038 MR
+4648,TILBURG,Wilgenstraat,,5038 PD
+4649,LEIDEN,Vliet,,2311 RD
+4650,LEIDEN,Prins Hendrikplein,,2316 HG
+4651,GRONINGEN,Verlengde Frederikstraat,,9724 NE
+4652,AMSTERDAM,Admiraal De Ruijterweg,,1055 MG
+4653,UTRECHT,Eisenhowerlaan,,3527 HR
+4654,GRONINGEN,Tuinbouwdwarsstraat,,9717 HT
+4655,UTRECHT,Livingstonelaan,,3526 JP
+4656,AMSTERDAM,Grimbergenstraat,,1066 JT
+4657,ROTTERDAM,Bethlehemstraat,,3061 GB
+4658,DEN HAAG,Uddelstraat,,2573 VA
+4659,AMSTERDAM,Admiraal De Ruijterweg,,1055 ND
+4660,LEIDEN,Sint Eustatiusstraat,,2315 XX
+4661,AMSTERDAM,Johan Ramaerstraat,,1065 GA
+4662,NIJMEGEN,Sprengenweg,,6541 BZ
+4663,AMSTERDAM,Haarlemmermeerstraat,,1058 JX
+4664,NIJMEGEN,Tijgerstraat,,6531 MG
+4665,GRONINGEN,Peizerweg,,9726 JB
+4666,ROTTERDAM,Schoonegge,,3085 CV
+4667,DEN HAAG,Moerweg,,2531 BB
+4668,GRONINGEN,Duindoornstraat,,9741 NN
+4669,GRONINGEN,Verlengde Frederikstraat,,9724 NG
+4670,ROTTERDAM,Stadhoudersweg,,3039 EG
+4671,AMSTERDAM,Sint Nicolaasstraat,,1012 NK
+4672,UTRECHT,Amsterdamsestraatweg,,3551 CT
+4673,ROTTERDAM,Vuurplaat,,3071 AR
+4674,UTRECHT,Beukstraat,,3581 XH
+4675,EINDHOVEN,Heksenkruidlaan,,5646 AE
+4676,GRONINGEN,Lichtboei,,9732 JA
+4677,UTRECHT,Pearsonlaan,,3527 CC
+4678,GRONINGEN,Van Brakelplein,,9726 HH
+4679,GRONINGEN,Bilderdijklaan,,9721 PR
+4680,ROTTERDAM,Mathenesserdijk,,3026 GV
+4681,LEIDEN,Vollersgracht,,2312 VK
+4682,UTRECHT,Zamenhofdreef,,3562 JZ
+4683,GRONINGEN,Paterswoldseweg,,9728 AN
+4684,AMSTERDAM,Witte de Withstraat,,1057 ZK
+4685,ROTTERDAM,Dr. de Visserstraat,,3038 TS
+4686,NIJMEGEN,Willemsweg,,6531 DN
+4687,GRONINGEN,Steenhouwerskade,,9718 DA
+4688,ROTTERDAM,Pretorialaan,,3072 EJ
+4689,ROTTERDAM,Blokmakersstraat,,3025 NB
+4690,AMSTERDAM,Dostojevskisingel,,1102 XM
+4691,AMSTERDAM,Tweede Oosterparkstraat,,1091 JG
+4692,NIJMEGEN,In de Betouwstraat,,6511 GD
+4693,ROTTERDAM,Berkelselaan,,3037 PB
+4694,GRONINGEN,Haddingestraat,,9711 KB
+4695,GRONINGEN,Oosterhamrikkade,,9714 BE
+4696,NIJMEGEN,Hatertseweg,,6535 ZZ
+4697,NIJMEGEN,St. Annastraat,,6525 HA
+4698,AMSTERDAM,Robert Fruinlaan,,1065 XX
+4699,AMSTERDAM,Nieuwendammerdijk,,1025 LN
+4700,TILBURG,Predikherenlaan,,5042 CM
+4701,AMSTERDAM,Ganzenveldstraat,,1024 CN
+4702,TILBURG,Korvelplein,,5025 JX
+4703,ROTTERDAM,Van Speykstraat,,3014 VE
+4704,EINDHOVEN,Insulindelaan,,5641 AD
+4705,UTRECHT,Makassarstraat,,3531 VK
+4706,EINDHOVEN,van Oldenbarneveltlaan,,5631 AH
+4707,AMSTERDAM,Geuzenkade,,1056 KP
+4708,GRONINGEN,Vaargeul,,9732 JX
+4709,GRONINGEN,Brinklaan,,9722 BB
+4710,NIJMEGEN,Jozef Israelsstraat,,6523 CH
+4711,TILBURG,Tivolistraat,,5017 HS
+4712,UTRECHT,Livingstonelaan,,3526 JG
+4713,MAASTRICHT,Akersteenweg,,6226 HR
+4714,UTRECHT,Deken Roesstraat,,3581 RX
+4715,DEN HAAG,Nieuwstraat,,2511 AT
+4716,ROTTERDAM,Sint-Jacobstraat,,3011 DE
+4717,GRONINGEN,Sabangplein,,9715 CX
+4718,AMSTERDAM,Maassluisstraat,,1062 GP
+4719,DEN HAAG,Helmersstraat,,2513 RX
+4720,NIJMEGEN,Rosamundstraat,,6515 EG
+4721,AMSTERDAM,Henriette Ronnerplein,,1073 KS
+4722,ROTTERDAM,Sierbloem,,3068 AP
+4723,AMSTERDAM,Populierenweg,,1091 KK
+4724,GRONINGEN,Torenstraat,,9711 JL
+4725,LEIDEN,Lage Rijndijk,,2315 JT
+4726,EINDHOVEN,Bergen op Zoomstraat,,5652 KA
+4727,DEN HAAG,Fijnjekade,,2521 DS
+4728,ROTTERDAM,Zweedsestraat,,3028 TS
+4729,NIJMEGEN,Mazurkastraat,,6544 SG
+4730,ROTTERDAM,Schieweg,,3039 BD
+4731,GRONINGEN,Jadestraat,,9743 HG
+4732,ROTTERDAM,Nazarethstraat,,3061 KN
+4733,AMSTERDAM,Kantershofstraat,,1104 DP
+4734,AMSTERDAM,Papendrechtstraat,,1106 BP
+4735,ROTTERDAM,Lange Hilleweg,,3073 BP
+4736,ROTTERDAM,Schiedamseweg,,3025 AG
+4737,UTRECHT,Van Eysingalaan,,3527 VL
+4738,GRONINGEN,Amethiststraat,,9743 KG
+4739,GRONINGEN,Wagnersingel,,9722 CX
+4740,TILBURG,Hart van Brabantlaan,,5038 LC
+4741,ROTTERDAM,Robert Baeldestraat,,3061 TH
+4742,DEN HAAG,Noorderbeekstraat,,2562 PK
+4743,AMSTERDAM,Nigtevechthof,,1106 TC
+4744,NIJMEGEN,Biezenstraat,,6541 ZZ
+4745,ROTTERDAM,Kwartelstraat,,3082 NE
+4746,NIJMEGEN,Muntmeesterlaan,,6532 XB
+4747,EINDHOVEN,St Theresiastraat,,5652 ET
+4748,DEN HAAG,Copernicusstraat,,2561 XE
+4749,AMSTERDAM,Sierplein,,1065 LN
+4750,EINDHOVEN,Rodenbachlaan,,5615 GG
+4751,AMSTERDAM,Eerste Atjehstraat,,1094 KX
+4752,ROTTERDAM,Bierens de Haanweg,,3076 DB
+4753,GRONINGEN,Nassaulaan,,9717 CK
+4754,GRONINGEN,J. Baart de la Faillestraat,,9713 JG
+4755,UTRECHT,Ondiep,,3552 EA
+4756,AMSTERDAM,Bastenakenstraat,,1066 JG
+4757,GRONINGEN,Taco Mesdagstraat,,9718 KJ
+4758,ROTTERDAM,Treubstraat,,3038 XX
+4759,AMSTERDAM,Willem Schoutenstraat,,1057 DN
+4760,GRONINGEN,Hoendiep,,9745 EC
+4761,AMSTERDAM,Loggerhof,,1034 CH
+4762,ROTTERDAM,Bergweg,,3037 EL
+4763,DEN HAAG,Assendelftstraat,,2512 VW
+4764,AMSTERDAM,Nedersticht,,1083 XG
+4765,AMSTERDAM,Pieter Calandlaan,,1065 KK
+4766,GRONINGEN,Van Swinderenstraat,,9714 HC
+4767,AMSTERDAM,Langswater,,1069 EC
+4768,ROTTERDAM,Teldersweg,,3052 TH
+4769,TILBURG,Transvaalstraat,,5021 TJ
+4770,ROTTERDAM,Bonaventurastraat,,3081 HJ
+4771,AMSTERDAM,Amstelkade,,1078 AA
+4772,GRONINGEN,Hoekstraat,,9712 AM
+4773,AMSTERDAM,Buiten Kadijken,,1018 ZS
+4774,AMSTERDAM,Warmoesstraat,,1012 JB
+4775,DEN HAAG,Capadosestraat,,2523 AA
+4776,AMSTERDAM,Tussendek,,1034 TR
+4777,TILBURG,Doornbossestraat,,5018 GG
+4778,TILBURG,Textielstraat,,5046 SG
+4779,TILBURG,Nicolaas Beetsstraat,,5025 TK
+4780,AMSTERDAM,Stoombootweg,,1035 TW
+4781,MAASTRICHT,Sint Antoniuslaan,,6221 XK
+4782,UTRECHT,Leidsekade,,3531 HC
+4783,ROTTERDAM,Coolhaven,,3024 AL
+4784,ROTTERDAM,Zwijndrechtsestraat,,3073 RN
+4785,AMSTERDAM,J. de Koostraat,,1068 KR
+4786,AMSTERDAM,Levantplein,,1019 MA
+4787,AMSTERDAM,Mercatorstraat,,1056 RD
+4788,NIJMEGEN,Krayenhofflaan,,6541 PT
+4789,AMSTERDAM,Meernhof,,1106 KZ
+4790,ROTTERDAM,Willem van Hillegaersbergstraat,,3051 RC
+4791,GRONINGEN,Louise Henriettestraat,,9717 LH
+4792,ROTTERDAM,Boeierstraat,,3028 XB
+4793,ROTTERDAM,Dordtselaan,,3073 GW
+4794,AMSTERDAM,Rustenburgerstraat,,1072 HG
+4795,NIJMEGEN,Wibautstraat,,6535 TP
+4796,ROTTERDAM,Maaskade,,3071 NK
+4797,ROTTERDAM,Schonebergerweg,,3023 ZM
+4798,DEN HAAG,Troelstrakade,,2531 AG
+4799,GRONINGEN,Eerste Drift Spilsluizen,,9712 JD
+4800,NIJMEGEN,Groesbeekseweg,,6524 CV
+4801,ROTTERDAM,Bergweg,,3037 EJ
+4802,LEIDEN,Langegracht,,2312 PA
+4803,EINDHOVEN,Laagstraat,,5654 PM
+4804,EINDHOVEN,Leenderweg,,5644 AE
+4805,GRONINGEN,Sint Lucasstraat,,9718 LP
+4806,NIJMEGEN,van Welderenstraat,,6511 MD
+4807,ROTTERDAM,Watertorenweg,,3063 HD
+4808,DEN HAAG,Hoge Zand,,2512 EM
+4809,AMSTERDAM,De Clercqstraat,,1052 NM
+4810,AMSTERDAM,Barentszstraat,,1013 NS
+4811,MAASTRICHT,Steegstraat,,6227 CL
+4812,ROTTERDAM,Strevelsweg,,3075 AK
+4813,DEN HAAG,Van Zeggelenlaan,,2524 AZ
+4814,AMSTERDAM,Meernhof,,1106 LD
+4815,UTRECHT,Vredenburg,,3511 BD
+4816,DEN HAAG,Goudsmidsgaarde,,2542 EK
+4817,AMSTERDAM,Ennemaborg,,1082 ST
+4818,GRONINGEN,Oude Kijk in 't Jatstraat,,9712 EH
+4819,AMSTERDAM,Amsteldijk,,1074 HV
+4820,AMSTERDAM,Jan van Galenstraat,,1056 BP
+4821,EINDHOVEN,Boutenslaan,,5615 KT
+4822,GRONINGEN,Tellegenstraat,,9714 GD
+4823,ROTTERDAM,Franselaan,,3028 AR
+4824,GRONINGEN,Wielewaalplein,,9713 BP
+4825,NIJMEGEN,de Gildekamp,,6545 LR
+4826,AMSTERDAM,Corversbosstraat,,1024 KH
+4827,GRONINGEN,Friesestraatweg,,9718 NA
+4828,ROTTERDAM,Willem Buytewechstraat,,3024 XK
+4829,GRONINGEN,Brinklaan,,9722 BA
+4830,GRONINGEN,Butjesstraat,,9712 EW
+4831,LEIDEN,Hoge Rijndijk,,2314 AH
+4832,ROTTERDAM,Texelsestraat,,3083 PR
+4833,GRONINGEN,Van Kerckhoffstraat,,9714 BM
+4834,EINDHOVEN,Geer,,5641 RA
+4835,GRONINGEN,Verlengde Hereweg,,9722 AG
+4836,ROTTERDAM,Mijnsherenlaan,,3081 CG
+4837,TILBURG,Hoogtedwarsstraat,,5021 PC
+4838,ROTTERDAM,Kortenaerstraat,,3012 VE
+4839,GRONINGEN,Helper Brink,,9722 EG
+4840,AMSTERDAM,Leusdenhof,,1108 DK
+4841,MAASTRICHT,Schuttendaal,,6228 KD
+4842,AMSTERDAM,Gouden Leeuw,,1103 KN
+4843,AMSTERDAM,Hofgeest,,1102 EC
+4844,EINDHOVEN,Hoogstraat,,5611 JR
+4845,EINDHOVEN,Stratumsedijk,,5614 HP
+4846,AMSTERDAM,Mariadistelkade,,1031 JW
+4847,GRONINGEN,Roer,,9733 AE
+4848,AMSTERDAM,Het Breed,,1025 JC
+4849,NIJMEGEN,St. Jansvlinderstraat,,6533 PK
+4850,ROTTERDAM,Havenzichtstraat,,3022 GP
+4851,NIJMEGEN,Veldstraat,,6533 CD
+4852,AMSTERDAM,Admiraal De Ruijterweg,,1056 GN
+4853,UTRECHT,Johannes Camphuysstraat,,3531 SG
+4854,GRONINGEN,Eerste Hunzestraat,,9715 BH
+4855,ROTTERDAM,Baljuwplein,,3033 XB
+4856,ROTTERDAM,Herman Robbersstraat,,3031 RJ
+4857,GRONINGEN,Multatulistraat,,9721 NJ
+4858,ROTTERDAM,Sint-Jacobsplaats,,3011 DD
+4859,AMSTERDAM,De Clercqstraat,,1052 NE
+4860,ROTTERDAM,Koolzaadstraat,,3073 DH
+4861,AMSTERDAM,Jacob Burggraafstraat,,1018 WA
+4862,EINDHOVEN,St Adrianusstraat,,5614 EL
+4863,AMSTERDAM,Hildo Kropplein,,1019 ET
+4864,GRONINGEN,Hoge der A,,9712 AD
+4865,ROTTERDAM,Boompjes,,3011 XZ
+4866,GRONINGEN,Oosterhamrikkade,,9714 BD
+4867,AMSTERDAM,Vrouwengelukhof,,1061 BS
+4868,AMSTERDAM,Vatternkade,,1060 PK
+4869,ROTTERDAM,Miltonstraat,,3076 TG
+4870,LEIDEN,Hoge Rijndijk,,2314 AL
+4871,UTRECHT,Groeneweg,,3531 VD
+4872,AMSTERDAM,Osdorper Ban,,1068 MA
+4873,TILBURG,Tollensstraat,,5025 TG
+4874,TILBURG,Predikherenlaan,,5042 CB
+4875,GRONINGEN,Steentilstraat,,9711 GK
+4876,AMSTERDAM,Geulstraat,,1078 KW
+4877,AMSTERDAM,Hoptille,,1102 PB
+4878,AMSTERDAM,Simon Stevinstraat,,1097 CA
+4879,AMSTERDAM,Stadhouderskade,,1074 BC
+4880,AMSTERDAM,Narva-eiland,,1014 ZJ
+4881,AMSTERDAM,Handmolen,,1035 AT
+4882,AMSTERDAM,Jisperveldstraat,,1024 AM
+4883,ROTTERDAM,Hoogstraat,,3011 PH
+4884,AMSTERDAM,Baarsjesweg,,1058 AH
+4885,AMSTERDAM,Ceramiquelaan,,1031 KG
+4886,AMSTERDAM,Veeteeltstraat,,1097 WL
+4887,AMSTERDAM,Javaplein,,1094 HW
+4888,ROTTERDAM,Taborstraat,,3061 EW
+4889,EINDHOVEN,Moggendries,,5641 PN
+4890,GRONINGEN,Jupiterstraat,,9742 ES
+4891,AMSTERDAM,Bos en Lommerweg,,1055 EB
+4892,AMSTERDAM,Sinaasappelstraat,,1033 KS
+4893,GRONINGEN,Noorderhaven,,9712 VH
+4894,GRONINGEN,Van Heemskerckstraat,,9726 GC
+4895,TILBURG,Hoefstraat,,5014 NL
+4896,EINDHOVEN,Stratumseind,,5611 ET
+4897,UTRECHT,Karel Doormanlaan,,3572 NT
+4898,AMSTERDAM,Gillis van Ledenberchstraat,,1052 VH
+4899,MAASTRICHT,Breulingstraat,,6211 SB
+4900,GRONINGEN,Star Numanstraat,,9714 JK
+4901,EINDHOVEN,Generaal Bothastraat,,5642 NJ
+4902,AMSTERDAM,Schipbeekstraat,,1078 BK
+4903,DEN HAAG,Carel Reinierszkade,,2593 HR
+4904,ROTTERDAM,Schieweg,,3038 AW
+4905,GRONINGEN,Vierde Drift Noorderhaven,,9712 AH
+4906,DEN HAAG,Heliotrooplaan,,2555 MK
+4907,GRONINGEN,Albertstraat,,9724 JZ
+4908,GRONINGEN,Damsterkade,,9711 SE
+4909,GRONINGEN,Ooster Badstraat,,9726 CL
+4910,AMSTERDAM,Eerste Jan van der Heijdenstraat,,1072 TL
+4911,ROTTERDAM,Groen van Prinstererstraat,,3038 RG
+4912,DEN HAAG,Kranestraat,,2512 AD
+4913,AMSTERDAM,Tweede Van der Helststraat,,1072 PC
+4914,AMSTERDAM,Czaar Peterstraat,,1018 PV
+4915,TILBURG,Cannabichstraat,,5011 VC
+4916,ROTTERDAM,Pannekoekstraat,,3011 LJ
+4917,ROTTERDAM,Van Brakelstraat,,3012 XZ
+4918,GRONINGEN,P. Waijerstraat,,9731 CE
+4919,NIJMEGEN,Dobbelmannweg,,6531 KT
+4920,UTRECHT,Antonius Matthaeuslaan,,3515 AT
+4921,TILBURG,Koningsplein,,5038 WK
+4922,EINDHOVEN,St Catharinastraat,,5611 JB
+4923,LEIDEN,Hoflaan,,2321 TA
+4924,LEIDEN,Morsweg,,2332 ES
+4925,ROTTERDAM,Hooidrift,,3023 KK
+4926,EINDHOVEN,Stratumseind,,5611 ER
+4927,AMSTERDAM,Johannes Meewisstraat,,1063 CJ
+4928,AMSTERDAM,Sleewijkstraat,,1107 TW
+4929,DEN HAAG,Prinsegracht,,2512 DV
+4930,LEIDEN,Sieboldstraat,,2315 HL
+4931,DEN HAAG,Hillebrant Jacobsplein,,2515 XS
+4932,AMSTERDAM,Oudezijds Voorburgwal,,1012 EN
+4933,ROTTERDAM,Kleiweg,,3051 XK
+4934,AMSTERDAM,Admiraal De Ruijterweg,,1056 GP
+4935,AMSTERDAM,Nieuwe Nieuwstraat,,1012 NH
+4936,GRONINGEN,Turfsingel,,9711 VZ
+4937,UTRECHT,Spieghelstraat,,3521 XP
+4938,EINDHOVEN,Nieuwstraat,,5611 DB
+4939,GRONINGEN,Beijumerweg,,9731 CW
+4940,NIJMEGEN,Zonstraat,,6543 VM
+4941,NIJMEGEN,Plutostraat,,6543 WP
+4942,AMSTERDAM,De Lairessestraat,,1071 NV
+4943,EINDHOVEN,Reynhovestraat,,5625 CT
+4944,ROTTERDAM,'s-Gravenweg,,3062 ZE
+4945,AMSTERDAM,Comeniusstraat,,1065 BN
+4946,EINDHOVEN,Pisanostraat,,5623 CG
+4947,DEN HAAG,Korte Vleerstraat,,2513 VK
+4948,AMSTERDAM,Swammerdamstraat,,1091 RW
+4949,EINDHOVEN,Jan van der Heijdestraat,,5621 CL
+4950,NIJMEGEN,Triangelstraat,,6544 VH
+4951,AMSTERDAM,Oosterpark,,1092 AL
+4952,UTRECHT,Eisenhowerlaan,,3527 HK
+4953,AMSTERDAM,Gerrit Mannourystraat,,1062 LA
+4954,ROTTERDAM,Drijfhoutstraat,,3067 NN
+4955,ROTTERDAM,Cleyburchstraat,,3039 DD
+4956,AMSTERDAM,Claus van Amsbergstraat,,1102 AZ
+4957,AMSTERDAM,Zuideinde,,1035 PM
+4958,GRONINGEN,Haddingedwarsstraat,,9711 KA
+4959,GRONINGEN,Paterswoldseweg,,9727 BW
+4960,ROTTERDAM,Gruttostraat,,3082 ND
+4961,AMSTERDAM,Admiraal De Ruijterweg,,1056 ET
+4962,AMSTERDAM,Leidsegracht,,1016 CT
+4963,UTRECHT,Amsterdamsestraatweg,,3553 EM
+4964,EINDHOVEN,Jan Tooropstraat,,5642 AJ
+4965,NIJMEGEN,Prins Hendrikstraat,,6521 AW
+4966,UTRECHT,Mariaplaats,,3511 LM
+4967,AMSTERDAM,Hudsonstraat,,1057 SB
+4968,GRONINGEN,Jacob van Ruysdaelstraat,,9718 SE
+4969,DEN HAAG,Valkenboskade,,2563 GZ
+4970,AMSTERDAM,Majubastraat,,1092 KE
+4971,TILBURG,Sumatrastraat,,5014 CE
+4972,LEIDEN,Narmstraat,,2312 BG
+4973,GRONINGEN,Wilkemaheerd,,9736 BM
+4974,AMSTERDAM,Zaanstraat,,1013 SG
+4975,DEN HAAG,Willem Dreespark,,2531 SX
+4976,UTRECHT,Oscar Hammersteinstraat,,3543 CW
+4977,ROTTERDAM,Tak van Poortvlietstraat,,3038 NV
+4978,AMSTERDAM,Hemsterhuisstraat,,1065 JX
+4979,ROTTERDAM,Moerkerkestraat,,3081 RL
+4980,ROTTERDAM,Franselaan,,3028 AN
+4981,UTRECHT,Koekoekstraat,,3514 CS
+4982,AMSTERDAM,Eemlandstraat,,1079 RM
+4983,AMSTERDAM,Quellijnstraat,,1072 XX
+4984,AMSTERDAM,Ruysdaelstraat,,1071 XJ
+4985,ROTTERDAM,Beijerlandselaan,,3074 EP
+4986,AMSTERDAM,Het Hoogt,,1025 GR
+4987,TILBURG,Wassenaerlaan,,5021 VS
+4988,GRONINGEN,Piet Heinstraat,,9726 JT
+4989,TILBURG,Megenstraat,,5045 KE
+4990,TILBURG,Broekhovenseweg,,5022 CD
+4991,AMSTERDAM,Westerstraat,,1015 MT
+4992,TILBURG,Thomas van Aquinostraat,,5042 HA
+4993,UTRECHT,Wittevrouwensingel,,3581 GC
+4994,TILBURG,Nassaustraat,,5046 NS
+4995,ROTTERDAM,Proveniersstraat,,3033 CN
+4996,AMSTERDAM,A. Eversplein,,1064 DJ
+4997,LEIDEN,Noordeinde,,2311 CD
+4998,AMSTERDAM,Alpert van Metzhof,,1065 AP
+4999,ROTTERDAM,Essenlaan,,3062 NN
+5000,AMSTERDAM,Juliana van Stolbergstraat,,1055 RM
+5001,ROTTERDAM,Schietbaanstraat,,3014 ZW
+5002,AMSTERDAM,Oldengaarde,,1083 TH
+5003,AMSTERDAM,Schaarsbergenstraat,,1107 JV
+5004,AMSTERDAM,Sarphatistraat,,1018 AV
+5005,AMSTERDAM,Barbusselaan,,1102 TV
+5006,MAASTRICHT,Tongerseweg,,6211 LT
+5007,MAASTRICHT,Achter de Molens,,6211 JC
+5008,ROTTERDAM,Zegenstraat,,3082 XM
+5009,AMSTERDAM,Willy Sluiterstraat,,1061 TH
+5010,AMSTERDAM,Hendrik Hosstraat,,1106 ZN
+5011,AMSTERDAM,Borgloonstraat,,1066 HG
+5012,AMSTERDAM,Eosstraat,,1076 DT
+5013,DEN HAAG,Westerbaenstraat,,2513 GK
+5014,AMSTERDAM,Blankenstraat,,1018 SJ
+5015,UTRECHT,Tigrisdreef,,3564 GK
+5016,AMSTERDAM,Eerste Oosterparkstraat,,1091 GX
+5017,UTRECHT,Abel Tasmanstraat,,3531 GV
+5018,DEN HAAG,Wolfhezestraat,,2573 NT
+5019,GRONINGEN,Terdelt,,9716 KE
+5020,GRONINGEN,Lissabonstraat,,9718 AZ
+5021,TILBURG,Statenlaan,,5042 RW
+5022,AMSTERDAM,Ruysdaelkade,,1072 AG
+5023,GRONINGEN,Paterswoldseweg,,9727 BB
+5024,GRONINGEN,Soendastraat,,9715 NH
+5025,GRONINGEN,Damsterdiep,,9711 SK
+5026,ROTTERDAM,Gerard Scholtenstraat,,3035 SE
+5027,AMSTERDAM,Jan Zwanenburghof,,1063 JK
+5028,AMSTERDAM,Johannes de Bekahof,,1065 AL
+5029,GRONINGEN,Akerkstraat,,9712 BE
+5030,ROTTERDAM,Agniesestraat,,3032 TM
+5031,GRONINGEN,Parkweg,,9725 EK
+5032,GRONINGEN,Star Numanstraat,,9714 JL
+5033,ROTTERDAM,Ellewoutsdijkstraat,,3086 LJ
+5034,AMSTERDAM,Dennenrodepad,,1102 MW
+5035,ROTTERDAM,Walchersestraat,,3083 NJ
+5036,ROTTERDAM,Bredenoord,,3079 JA
+5037,GRONINGEN,Eendrachtskade,,9718 BB
+5038,TILBURG,Hertogstraat,,5021 CB
+5039,ROTTERDAM,Bergweg,,3037 EA
+5040,EINDHOVEN,Willem de Zwijgerstraat,,5611 JK
+5041,AMSTERDAM,Bilderdijkkade,,1052 RS
+5042,LEIDEN,Hogewoerd,,2311 HS
+5043,GRONINGEN,Rabenhauptstraat,,9725 CB
+5044,ROTTERDAM,Jagthuisstraat,,3022 PR
+5045,ROTTERDAM,Willem Buytewechstraat,,3024 VD
+5046,UTRECHT,Telderslaan,,3527 KD
+5047,AMSTERDAM,Maria Montessoristraat,,1068 PD
+5048,AMSTERDAM,Nicolaas Beetsstraat,,1053 RM
+5049,AMSTERDAM,Rooswijck,,1081 AL
+5050,AMSTERDAM,Kraaipanstraat,,1091 PE
+5051,NIJMEGEN,Tolhuis,,6537 MC
+5052,EINDHOVEN,Hagenkampweg Zuid,,5615 DA
+5053,TILBURG,Europalaan,,5042 ZN
+5054,EINDHOVEN,Kaarderstraat,,5623 AG
+5055,UTRECHT,Acaciastraat,,3551 BE
+5056,LEIDEN,Morssingel,,2312 EW
+5057,AMSTERDAM,Venetiestraat,,1019 NJ
+5058,AMSTERDAM,Berenstraat,,1016 GG
+5059,UTRECHT,Sumatrastraat,,3531 PA
+5060,GRONINGEN,Oosterstraat,,9711 NT
+5061,AMSTERDAM,Sleutelbloemstraat,,1031 AK
+5062,AMSTERDAM,Frieslandstraat,,1082 TK
+5063,NIJMEGEN,Serenadestraat,,6544 XN
+5064,AMSTERDAM,Patroclosstraat,,1076 NH
+5065,UTRECHT,Nobelstraat,,3512 EP
+5066,AMSTERDAM,Overtoom,,1054 JZ
+5067,GRONINGEN,Nieuwe Ebbingestraat,,9712 NG
+5068,GRONINGEN,IJsselstraat,,9725 GG
+5069,GRONINGEN,Ambonstraat,,9715 HA
+5070,GRONINGEN,E. Thomassen a Thuessinklaan,,9713 JT
+5071,DEN HAAG,Buijs Ballotstraat,,2563 ZL
+5072,AMSTERDAM,Postjeskade,,1058 DS
+5073,ROTTERDAM,Drakenburg,,3085 XG
+5074,AMSTERDAM,Witte de Withstraat,,1057 ZL
+5075,AMSTERDAM,Soesterberghof,,1107 GN
+5076,NIJMEGEN,Scherpenkampweg,,6545 AK
+5077,ROTTERDAM,Tolhuislaan,,3072 LP
+5078,DEN HAAG,1e Braamstraat,,2563 HT
+5079,GRONINGEN,Damsterdiep,,9711 SH
+5080,AMSTERDAM,Willem de Zwijgerlaan,,1055 PZ
+5081,TILBURG,Groeseindstraat,,5014 LW
+5082,AMSTERDAM,Derde Schinkelstraat,,1075 TM
+5083,GRONINGEN,Leeuwenburgstraat,,9731 CA
+5084,DEN HAAG,Fahrenheitstraat,,2561 DN
+5085,AMSTERDAM,Chestertonlaan,,1102 ZC
+5086,GRONINGEN,Delistraat,,9715 EA
+5087,ROTTERDAM,Nieuwenhoornstraat,,3082 VJ
+5088,MAASTRICHT,de Beente,,6229 AV
+5089,UTRECHT,Mgr. van de Weteringstraat,,3581 EM
+5090,NIJMEGEN,Sneeuwbalstraat,,6543 TN
+5091,AMSTERDAM,Balboastraat,,1057 VS
+5092,AMSTERDAM,Bijlmerdreef,,1103 TC
+5093,UTRECHT,M. van Meelstraat,,3555 VV
+5094,DEN HAAG,Ankerstraat,,2586 RH
+5095,DEN HAAG,Stille Veerkade,,2512 BG
+5096,DEN HAAG,Veenendaalkade,,2547 AH
+5097,NIJMEGEN,Semmelinkstraat,,6512 JR
+5098,GRONINGEN,Poortstraat,,9716 JH
+5099,GRONINGEN,Westersingel,,9718 CC
+5100,EINDHOVEN,Hoogstraat,,5654 NK
+5101,AMSTERDAM,Herengracht,,1016 BS
+5102,EINDHOVEN,Noord Brabantlaan,,5651 LX
+5103,DEN HAAG,Van den Boschstraat,,2595 AE
+5104,ROTTERDAM,Coolhaven,,3015 GC
+5105,AMSTERDAM,Olympiakade,,1076 XW
+5106,UTRECHT,Amsterdamsestraatweg,,3551 CH
+5107,DEN HAAG,Valkenboslaan,,2563 EG
+5108,EINDHOVEN,Vrijstraat,,5611 AT
+5109,AMSTERDAM,Ringdijk,,1097 AD
+5110,UTRECHT,M.A. de Ruyterstraat,,3572 XN
+5111,DEN HAAG,Lyonnetstraat,,2522 NG
+5112,AMSTERDAM,Wittgensteinlaan,,1062 KC
+5113,ROTTERDAM,Schiebroekselaan,,3037 RP
+5114,DEN HAAG,De Genestetlaan,,2522 LH
+5115,AMSTERDAM,Het Laagt,,1025 GG
+5116,GRONINGEN,Oosterkade,,9711 RS
+5117,UTRECHT,Hondsrug,,3524 BZ
+5118,DEN HAAG,David Blesstraat,,2526 BK
+5119,AMSTERDAM,Rozenstraat,,1016 NM
+5120,UTRECHT,Fregatstraat,,3534 RJ
+5121,EINDHOVEN,Kleine Bleekstraat,,5611 VD
+5122,AMSTERDAM,Gerard Doustraat,,1072 VK
+5123,GRONINGEN,Berkelstraat,,9725 GV
+5124,GRONINGEN,Vogelkersstraat,,9741 NL
+5125,AMSTERDAM,Rombout Hogerbeetsstraat,,1052 XE
+5126,GRONINGEN,Oosterstraat,,9711 NZ
+5127,GRONINGEN,Van Hamelstraat,,9714 HJ
+5128,UTRECHT,Nachtegaalstraat,,3581 AA
+5129,AMSTERDAM,Marnixkade,,1015 ZJ
+5130,LEIDEN,Nieuwe Rijn,,2312 JC
+5131,EINDHOVEN,Strijpsestraat,,5616 GL
+5132,AMSTERDAM,Osdorpplein,,1068 SZ
+5133,ROTTERDAM,Goudsesingel,,3011 KE
+5134,DEN HAAG,Joris van der Haagenstraat,,2525 TP
+5135,AMSTERDAM,Gouden Leeuw,,1103 KK
+5136,AMSTERDAM,Hermitagelaan,,1064 WE
+5137,ROTTERDAM,Stadhoudersweg,,3039 EH
+5138,UTRECHT,Aartsbisschop Romerostraat,,3573 AJ
+5139,DEN HAAG,Boekhorststraat,,2512 CM
+5140,GRONINGEN,Troelstralaan,,9722 JL
+5141,MAASTRICHT,Leo Moonenstraat,,6221 GK
+5142,AMSTERDAM,Loenermark,,1025 SE
+5143,NIJMEGEN,Parkweg,,6511 BM
+5144,MAASTRICHT,Papenweg,,6212 CG
+5145,GRONINGEN,Prinsesseweg,,9717 BK
+5146,UTRECHT,Livingstonelaan,,3526 JC
+5147,ROTTERDAM,Hoogstraat,,3011 PJ
+5148,AMSTERDAM,Van Koetsveldstraat,,1064 VJ
+5149,EINDHOVEN,Voorterweg,,5611 TT
+5150,AMSTERDAM,Ruysdaelkade,,1072 AM
+5151,AMSTERDAM,Joan Melchior Kemperstraat,,1051 TT
+5152,ROTTERDAM,Stadhoudersweg,,3038 EB
+5153,GRONINGEN,Oostersingel,,9711 XH
+5154,TILBURG,Goirkestraat,,5046 GP
+5155,TILBURG,Korte Hoefstraat,,5046 DA
+5156,AMSTERDAM,Hoofdweg,,1057 DH
+5157,GRONINGEN,Timorstraat,,9715 LG
+5158,AMSTERDAM,Onstein,,1082 KN
+5159,AMSTERDAM,Hembrugstraat,,1013 XA
+5160,AMSTERDAM,Admiralengracht,,1056 DZ
+5161,LEIDEN,Kruisstraat,,2312 BJ
+5162,ROTTERDAM,Beukelsweg,,3022 GK
+5163,EINDHOVEN,Rijnstraat,,5626 AN
+5164,AMSTERDAM,Hertspieghelweg,,1055 KT
+5165,UTRECHT,Breedstraat,,3512 TW
+5166,UTRECHT,Oudegracht,,3511 AD
+5167,DEN HAAG,Gentsestraat,,2587 HT
+5168,TILBURG,Sibeliusstraat,,5011 JH
+5169,AMSTERDAM,Nieuwe Keizersgracht,,1018 DR
+5170,EINDHOVEN,Otterstraat,,5622 AL
+5171,UTRECHT,2e Daalsedijk,,3551 EK
+5172,LEIDEN,Turfmarkt,,2312 CD
+5173,EINDHOVEN,Jacques Perkstraat,,5644 TK
+5174,DEN HAAG,Wrightlaan,,2497 CM
+5175,AMSTERDAM,Kempenlaan,,1066 RB
+5176,LEIDEN,Lammenschansweg,,2321 HV
+5177,GRONINGEN,Neptunusstraat,,9742 JL
+5178,AMSTERDAM,Veenendaalplein,,1106 CN
+5179,LEIDEN,Oude Vest,,2312 XX
+5180,AMSTERDAM,Bloemgracht,,1015 TP
+5181,ROTTERDAM,Henegouwerlaan,,3021 CP
+5182,DEN HAAG,Beresteinlaan,,2542 JS
+5183,DEN HAAG,Piet Heinstraat,,2518 CK
+5184,AMSTERDAM,Feike de Boerlaan,,1019 MN
+5185,EINDHOVEN,Demer,,5611 AR
+5186,DEN HAAG,Schenkkade,,2595 AZ
+5187,AMSTERDAM,Oogststraat,,1097 ZT
+5188,GRONINGEN,Allersmastraat,,9716 AT
+5189,AMSTERDAM,Sallandstraat,,1079 PL
+5190,AMSTERDAM,Oostenburgergracht,,1018 NA
+5191,ROTTERDAM,Boezemsingel,,3034 EA
+5192,UTRECHT,Oudegracht,,3511 AS
+5193,AMSTERDAM,Daniel Defoelaan,,1102 ZK
+5194,ROTTERDAM,Pleinweg,,3083 EG
+5195,UTRECHT,Mariaplaats,,3511 LJ
+5196,DEN HAAG,Kortestede,,2543 VK
+5197,AMSTERDAM,Opijnenhof,,1106 XS
+5198,NIJMEGEN,Cantatestraat,,6544 VS
+5199,GRONINGEN,Zuiderpark,,9724 AE
+5200,NIJMEGEN,Klimopstraat,,6543 SK
+5201,ROTTERDAM,Van der Sluysstraat,,3033 SB
+5202,EINDHOVEN,Beukenlaan,,5616 VD
+5203,DEN HAAG,Dierenselaan,,2573 KM
+5204,AMSTERDAM,Nageljongenstraat,,1033 PC
+5205,ROTTERDAM,Bergweg,,3036 BH
+5206,EINDHOVEN,'t Hofke,,5641 AH
+5207,GRONINGEN,Engelberterweg,,9723 EM
+5208,ROTTERDAM,Witte de Withstraat,,3012 BL
+5209,AMSTERDAM,Meteorenweg,,1033 HJ
+5210,UTRECHT,Spinozaweg,,3532 SG
+5211,NIJMEGEN,Bijleveldsingel,,6521 AP
+5212,AMSTERDAM,Arondeusstraat,,1063 GB
+5213,AMSTERDAM,Orteliusstraat,,1056 PN
+5214,AMSTERDAM,Van Ostadestraat,,1072 TC
+5215,AMSTERDAM,Ruysdaelkade,,1072 AJ
+5216,AMSTERDAM,Dusartstraat,,1072 HM
+5217,NIJMEGEN,Dommer van Poldersveldtweg,,6523 CV
+5218,UTRECHT,Gansstraat,,3582 EC
+5219,ROTTERDAM,Schiedamsedijk,,3011 EP
+5220,DEN HAAG,Van Diepenburchstraat,,2597 PW
+5221,UTRECHT,Idenburgstraat,,3515 EX
+5222,AMSTERDAM,Jan Olphert Vaillantlaan,,1086 ZA
+5223,AMSTERDAM,Laan van Vlaanderen,,1066 MZ
+5224,ROTTERDAM,De Savornin Lohmanlaan,,3038 NP
+5225,GRONINGEN,Winschoterdiep,,9724 GS
+5226,AMSTERDAM,Burgemeester De Vlugtlaan,,1063 BK
+5227,NIJMEGEN,St. Annastraat,,6524 GJ
+5228,AMSTERDAM,Sarphatistraat,,1018 GL
+5229,EINDHOVEN,Elckerlyclaan,,5625 EP
+5230,DEN HAAG,Zieken,,2515 SB
+5231,UTRECHT,Langerakbaan,,3544 PE
+5232,AMSTERDAM,Ekangala,,1103 AZ
+5233,ROTTERDAM,Dordtsestraatweg,,3075 BE
+5234,EINDHOVEN,Clervauxlaan,,5625 LC
+5235,NIJMEGEN,Ten Katestraat,,6531 EG
+5236,GRONINGEN,Kleine Appelstraat,,9712 TZ
+5237,GRONINGEN,Rijnstraat,,9725 ER
+5238,AMSTERDAM,Flierbosdreef,,1102 BC
+5239,ROTTERDAM,Edmond Hellenraadstraat,,3067 NR
+5240,GRONINGEN,Slachthuisstraat,,9713 MK
+5241,UTRECHT,Kokkenhoflaan,,3513 GP
+5242,AMSTERDAM,Nachtwachtlaan,,1058 ES
+5243,AMSTERDAM,Lesbosstraat,,1060 SW
+5244,AMSTERDAM,Tongerenstraat,,1107 PS
+5245,UTRECHT,Soerabayastraat,,3531 EA
+5246,NIJMEGEN,Pieter Postplein,,6543 LW
+5247,ROTTERDAM,Balkenstraat,,3027 GA
+5248,TILBURG,Schouwburgring,,5038 TM
+5249,DEN HAAG,Teunisbloemplein,,2555 AB
+5250,DEN HAAG,Barnsteenhorst,,2592 EL
+5251,LEIDEN,Rooseveltstraat,,2321 BK
+5252,AMSTERDAM,Von Guerickestraat,,1097 RC
+5253,AMSTERDAM,Grootzeil,,1034 LN
+5254,ROTTERDAM,Spaansekade,,3011 ML
+5255,GRONINGEN,Damsterdiep,,9713 EL
+5256,ROTTERDAM,Beukelaarsstraat,,3074 HC
+5257,AMSTERDAM,Osdorper Ban,,1068 LX
+5258,EINDHOVEN,Colenbranderstraat,,5624 EH
+5259,UTRECHT,Prinses Irenelaan,,3554 HG
+5260,AMSTERDAM,Taksteeg,,1012 PB
+5261,AMSTERDAM,Vossiusstraat,,1071 AC
+5262,AMSTERDAM,Stettineiland,,1014 ZE
+5263,MAASTRICHT,Orleansplein,,6217 LA
+5264,DEN HAAG,Melis Stokelaan,,2533 CM
+5265,DEN HAAG,Loosduinsekade,,2571 BP
+5266,DEN HAAG,Hendrik Zwaardecroonstraat,,2593 XP
+5267,ROTTERDAM,Banierstraat,,3032 PJ
+5268,GRONINGEN,Eerste Hunzestraat,,9715 BJ
+5269,GRONINGEN,Spilsluizen,,9712 NT
+5270,AMSTERDAM,Jonge Roelensteeg,,1012 PL
+5271,NIJMEGEN,Graafseweg,,6512 CB
+5272,LEIDEN,Groenesteeg,,2312 SP
+5273,ROTTERDAM,Hillekopplein,,3072 KV
+5274,DEN HAAG,Acaciastraat,,2565 KG
+5275,NIJMEGEN,Symfoniestraat,,6544 TD
+5276,ROTTERDAM,Westersingel,,3014 GR
+5277,GRONINGEN,Brandenburgerstraat,,9724 BA
+5278,UTRECHT,Jan van Galenstraat,,3572 LA
+5279,GRONINGEN,Meeuwerderweg,,9724 EW
+5280,NIJMEGEN,Professor Huijbersstraat,,6524 NP
+5281,AMSTERDAM,Rijnsburgstraat,,1059 AX
+5282,DEN HAAG,Weimarstraat,,2562 HD
+5283,AMSTERDAM,Dudok de Withof,,1067 RV
+5284,AMSTERDAM,Reguliersgracht,,1017 LZ
+5285,ROTTERDAM,Wijnbrugstraat,,3011 XW
+5286,GRONINGEN,Poortstraat,,9716 JG
+5287,AMSTERDAM,Meeuwenlaan,,1021 JH
+5288,AMSTERDAM,Rietwijkerstraat,,1059 VV
+5289,AMSTERDAM,Willemsstraat,,1015 JE
+5290,AMSTERDAM,Mataramstraat,,1095 GG
+5291,AMSTERDAM,Herengracht,,1015 BH
+5292,AMSTERDAM,Sloterkade,,1058 HM
+5293,TILBURG,Wolmaransstraat,,5021 WC
+5294,TILBURG,Oeverstraat,,5021 PD
+5295,LEIDEN,Klikspaanweg,,2324 LW
+5296,DEN HAAG,Goeverneurlaan,,2523 CK
+5297,ROTTERDAM,Gildenburg,,3085 XH
+5298,LEIDEN,Deltaweg,,2321 KX
+5299,ROTTERDAM,Schieweg,,3038 AP
+5300,NIJMEGEN,Beverweg,,6532 CE
+5301,UTRECHT,Lombokstraat,,3531 RB
+5302,AMSTERDAM,Prins Hendrikkade,,1011 TE
+5303,DEN HAAG,Herman Costerstraat,,2571 PM
+5304,UTRECHT,Adriaan Mulderstraat,,3555 BP
+5305,EINDHOVEN,Verhulststraat,,5654 GA
+5306,TILBURG,Berkdijksestraat,,5025 VD
+5307,GRONINGEN,Oppenheimstraat,,9714 ER
+5308,TILBURG,Bachlaan,,5011 BS
+5309,AMSTERDAM,Ruys de Beerenbrouckstraat,,1067 BP
+5310,GRONINGEN,J.C. Kapteynlaan,,9714 CT
+5311,UTRECHT,Heijermansstraat,,3532 EH
+5312,AMSTERDAM,Veerstraat,,1075 SV
+5313,AMSTERDAM,H. Stolleplantsoen,,1022 KK
+5314,EINDHOVEN,Paul Krugerlaan,,5642 GH
+5315,AMSTERDAM,Stadionweg,,1077 TE
+5316,AMSTERDAM,Dollardpad,,1025 XG
+5317,GRONINGEN,Van Speykstraat,,9726 BJ
+5318,EINDHOVEN,Geldropseweg,,5611 SJ
+5319,AMSTERDAM,Spaarndammerstraat,,1013 TC
+5320,GRONINGEN,Oude Kijk in 't Jatstraat,,9712 EB
+5321,AMSTERDAM,Nieuwe Spiegelstraat,,1017 DG
+5322,DEN HAAG,Het Kleine Loo,,2592 CH
+5323,UTRECHT,Livingstonelaan,,3526 JJ
+5324,LEIDEN,Pelikaanhof,,2312 EA
+5325,TILBURG,Trouwlaan,,5021 WR
+5326,AMSTERDAM,Herenstraat,,1015 CB
+5327,AMSTERDAM,Dalsteindreef,,1102 WZ
+5328,AMSTERDAM,Zocherstraat,,1054 LS
+5329,MAASTRICHT,Brusselseweg,,6219 NP
+5330,UTRECHT,Nijeveldsingel,,3525 CN
+5331,ROTTERDAM,Gerrit van de Lindestraat,,3022 TC
+5332,GRONINGEN,Nieuwe Ebbingestraat,,9712 NC
+5333,AMSTERDAM,Weissenbruchstraat,,1058 KM
+5334,ROTTERDAM,Loderstraat,,3052 AP
+5335,EINDHOVEN,Woenselsestraat,,5623 EC
+5336,ROTTERDAM,Essenburgsingel,,3022 EK
+5337,GRONINGEN,Pop Dijkemaweg,,9731 BE
+5338,AMSTERDAM,Vechtstraat,,1079 JP
+5339,LEIDEN,Langebrug,,2311 TJ
+5340,AMSTERDAM,Statenjachtstraat,,1034 EV
+5341,NIJMEGEN,Nieuwe Nonnendaalseweg,,6542 PK
+5342,EINDHOVEN,Kalmoesplein,,5643 LM
+5343,DEN HAAG,Regentesselaan,,2562 EM
+5344,AMSTERDAM,Jacob van Lennepstraat,,1053 KG
+5345,ROTTERDAM,Zestienhovenstraat,,3037 XT
+5346,ROTTERDAM,Oostmaaslaan,,3063 AP
+5347,DEN HAAG,Westeinde,,2512 HD
+5348,GRONINGEN,Barkmolenstraat,,9723 DL
+5349,NIJMEGEN,Lankforst,,6538 JC
+5350,AMSTERDAM,Zoomstraat,,1078 XL
+5351,AMSTERDAM,Schubertstraat,,1077 GP
+5352,GRONINGEN,Zonnelaan,,9742 BK
+5353,GRONINGEN,H.W. Mesdagstraat,,9718 HL
+5354,NIJMEGEN,Malvert,,6538 DD
+5355,MAASTRICHT,Oude Kerkstraat,,6227 SR
+5356,AMSTERDAM,Pienemanstraat,,1072 KE
+5357,UTRECHT,Mgr. van de Weteringstraat,,3581 EK
+5358,AMSTERDAM,Geldershoofd,,1103 BG
+5359,LEIDEN,Prins Hendrikstraat,,2316 CN
+5360,UTRECHT,Mimosastraat,,3551 DA
+5361,NIJMEGEN,Darrenhof,,6533 RT
+5362,AMSTERDAM,Chassestraat,,1057 JJ
+5363,AMSTERDAM,Grubbehoeve,,1103 GM
+5364,DEN HAAG,Weimarstraat,,2562 HM
+5365,AMSTERDAM,John Franklinstraat,,1056 SZ
+5366,UTRECHT,Hoogstraat,,3552 XK
+5367,ROTTERDAM,Honingerdijk,,3063 AM
+5368,ROTTERDAM,Chalonsstraat,,3043 TD
+5369,DEN HAAG,Laan van Nieuw-Oost-Indie,,2593 BR
+5370,AMSTERDAM,Ottho Heldringstraat,,1066 BA
+5371,LEIDEN,Haarlemmerstraat,,2312 DV
+5372,GRONINGEN,Peizerweg,,9744 BC
+5373,AMSTERDAM,George Sandstraat,,1102 AG
+5374,UTRECHT,Van Beuningenplein,,3551 BM
+5375,UTRECHT,Laan van Nieuw-Guinea,,3531 JC
+5376,UTRECHT,Jodocus van Lodensteinstraat,,3553 TA
+5377,AMSTERDAM,Leonardostraat,,1077 ET
+5378,AMSTERDAM,Nico Jessekade,,1087 MR
+5379,UTRECHT,Pieter Nieuwlandstraat,,3514 HA
+5380,UTRECHT,Kwartelstraat,,3514 EW
+5381,GRONINGEN,Nieuwe Kijk in 't Jatstraat,,9712 SE
+5382,MAASTRICHT,Heerderweg,,6224 LB
+5383,DEN HAAG,Groenewegje,,2515 NC
+5384,UTRECHT,Kanaalzichthof,,3541 EX
+5385,EINDHOVEN,Nicolaistraat,,5654 GM
+5386,DEN HAAG,Maziestraat,,2514 GT
+5387,UTRECHT,Eisenhowerlaan,,3527 HP
+5388,ROTTERDAM,Dordtselaan,,3081 BM
+5389,AMSTERDAM,Pretoriusstraat,,1092 EZ
+5390,GRONINGEN,Lingestraat,,9725 GP
+5391,ROTTERDAM,Belgischestraat,,3028 TD
+5392,UTRECHT,Zevenwouden,,3524 CN
+5393,GRONINGEN,Raamstraat,,9711 CK
+5394,GRONINGEN,Kostersgang,,9711 CX
+5395,ROTTERDAM,Lange Hilleweg,,3073 BM
+5396,AMSTERDAM,Bilderdijkkade,,1053 VG
+5397,TILBURG,De Riemerstraat,,5014 MV
+5398,ROTTERDAM,Mathenesserlaan,,3023 HJ
+5399,AMSTERDAM,Mijehof,,1106 HD
+5400,GRONINGEN,Billitonstraat,,9715 EW
+5401,ROTTERDAM,Bas Jungeriusstraat,,3081 VD
+5402,AMSTERDAM,Gaandeweg,,1103 SG
+5403,ROTTERDAM,Coolhaven,,3024 AN
+5404,AMSTERDAM,Rhenenhof,,1106 JG
+5405,AMSTERDAM,Alblasstraat,,1079 ZH
+5406,ROTTERDAM,Marinestraat,,3071 PB
+5407,UTRECHT,Van Diemenstraat,,3531 GG
+5408,EINDHOVEN,Boschdijk,,5612 HB
+5409,ROTTERDAM,Willebrordusplein,,3037 TD
+5410,ROTTERDAM,Beursplein,,3011 AA
+5411,GRONINGEN,Jennerstraat,,9728 GX
+5412,UTRECHT,Anemoonstraat,,3551 GT
+5413,AMSTERDAM,Granidastraat,,1055 HN
+5414,UTRECHT,Edisonstraat,,3553 BK
+5415,UTRECHT,Hildebranddreef,,3561 VE
+5416,AMSTERDAM,Griseldestraat,,1055 AR
+5417,ROTTERDAM,Mijnsherenlaan,,3081 GP
+5418,UTRECHT,Kaap Hoorndreef,,3563 AS
+5419,EINDHOVEN,Thomaslaan,,5631 GM
+5420,NIJMEGEN,Piersonstraat,,6511 GL
+5421,AMSTERDAM,Eversdal,,1103 BC
+5422,AMSTERDAM,Chassestraat,,1057 HW
+5423,MAASTRICHT,Fons Olterdissenstraat,,6217 HT
+5424,NIJMEGEN,Hatertseweg,,6533 GP
+5425,ROTTERDAM,Grote Visserijstraat,,3026 CB
+5426,AMSTERDAM,Wamelplein,,1106 DS
+5427,UTRECHT,Bosboomstraat,,3582 KG
+5428,DEN HAAG,Van Zeggelenlaan,,2524 BC
+5429,GRONINGEN,Eendrachtskade,,9726 DC
+5430,GRONINGEN,Visserstraat,,9712 CW
+5431,UTRECHT,Roerstraat,,3522 GT
+5432,UTRECHT,Amsterdamsestraatweg,,3551 CM
+5433,EINDHOVEN,Narcisstraat,,5615 BD
+5434,GRONINGEN,Blekerstraat,,9718 EC
+5435,UTRECHT,Obrechtstraat,,3572 ED
+5436,AMSTERDAM,Kinkerstraat,,1053 EV
+5437,EINDHOVEN,Klaartje Donzestraat,,5625 CL
+5438,ROTTERDAM,Van Slingelandtlaan,,3051 HW
+5439,ROTTERDAM,Groene Hilledijk,,3074 AG
+5440,ROTTERDAM,Gijsingstraat,,3026 RJ
+5441,UTRECHT,Olympus,,3524 WB
+5442,ROTTERDAM,C.P.Tielestraat,,3023 TD
+5443,ROTTERDAM,Brede Hilledijk,,3072 KA
+5444,AMSTERDAM,De Lairessestraat,,1075 HK
+5445,GRONINGEN,Mudaheerd,,9737 SW
+5446,UTRECHT,Marshalllaan,,3527 TD
+5447,ROTTERDAM,Dennekruid,,3068 SM
+5448,DEN HAAG,Stadhoudersplantsoen,,2517 SK
+5449,LEIDEN,Lange Scheistraat,,2312 CR
+5450,NIJMEGEN,Waalkade,,6511 XR
+5451,NIJMEGEN,St. Annastraat,,6524 GA
+5452,AMSTERDAM,Hillenraadt,,1083 AJ
+5453,AMSTERDAM,Scheldestraat,,1078 GD
+5454,UTRECHT,Azaleastraat,,3551 AW
+5455,UTRECHT,Hermannus Elconiusstraat,,3553 VD
+5456,AMSTERDAM,Pieter Lastmankade,,1075 KM
+5457,UTRECHT,Adelaarstraat,,3514 CK
+5458,NIJMEGEN,Hatertseweg,,6533 AH
+5459,ROTTERDAM,Mathenesserdijk,,3026 GD
+5460,GRONINGEN,Sontweg,,9723 AT
+5461,GRONINGEN,Frederikstraat,,9724 KB
+5462,LEIDEN,Tieleman en Drosweg,,2314 XW
+5463,EINDHOVEN,Julianastraat,,5616 AH
+5464,UTRECHT,Steven Butendiekplateau,,3581 GS
+5465,AMSTERDAM,Baarsjesweg,,1058 AA
+5466,DEN HAAG,Merkusstraat,,2593 TP
+5467,TILBURG,Roelof Kranenburgplein,,5042 MB
+5468,MAASTRICHT,Franciscus Romanusweg,,6221 AH
+5469,MAASTRICHT,Markt,,6211 CK
+5470,AMSTERDAM,Lumeijstraat,,1056 VW
+5471,ROTTERDAM,Laan op Zuid,,3071 AB
+5472,AMSTERDAM,Hertspieghelweg,,1055 KL
+5473,AMSTERDAM,Peursumstraat,,1106 BV
+5474,AMSTERDAM,Spaklerweg,,1096 BA
+5475,LEIDEN,Utrechtse Jaagpad,,2313 LA
+5476,ROTTERDAM,Zocherstraat,,3067 AS
+5477,GRONINGEN,Paulus Potterstraat,,9718 TJ
+5478,ROTTERDAM,Lange Hilleweg,,3073 BR
+5479,UTRECHT,Lumbresstraat,,3554 VW
+5480,EINDHOVEN,Dr Joop den Uylstraat,,5612 KW
+5481,GRONINGEN,Verlengde Oosterweg,,9725 BA
+5482,AMSTERDAM,Willem Passtoorsstraat,,1073 HW
+5483,ROTTERDAM,Coolsestraat,,3014 LE
+5484,MAASTRICHT,Concordiastraat,,6226 GE
+5485,ROTTERDAM,Everaertstraat,,3067 VH
+5486,AMSTERDAM,Kinkerstraat,,1053 EN
+5487,GRONINGEN,Nieuwe Boteringestraat,,9712 PH
+5488,AMSTERDAM,De Savornin Lohmanstraat,,1067 PV
+5489,UTRECHT,Egelantierstraat,,3551 GA
+5490,NIJMEGEN,de Gildekamp,,6545 KT
+5491,AMSTERDAM,Oudezijds Voorburgwal,,1012 EZ
+5492,NIJMEGEN,Nina Simonestraat,,6541 EC
+5493,AMSTERDAM,Th. J. Lammerslaan,,1064 DH
+5494,DEN HAAG,Conradkade,,2517 BR
+5495,AMSTERDAM,Lijnbaansgracht,,1016 VX
+5496,NIJMEGEN,Tolhuis,,6537 LS
+5497,EINDHOVEN,Amperestraat,,5621 AP
+5498,NIJMEGEN,Meijhorst,,6537 KV
+5499,AMSTERDAM,Laurierstraat,,1016 PK
+5500,GRONINGEN,Spieghelstraat,,9721 JW
+5501,EINDHOVEN,Wolvendijk,,5631 AD
+5502,ROTTERDAM,Katendrechtsestraat,,3072 NX
+5503,AMSTERDAM,Knollendamstraat,,1013 TN
+5504,ROTTERDAM,Ceintuurbaan,,3051 AE
+5505,AMSTERDAM,Saffierstraat,,1074 GH
+5506,GRONINGEN,Kruitlaan,,9711 TX
+5507,EINDHOVEN,Willem de Zwijgerstraat,,5616 AE
+5508,GRONINGEN,Kleine Appelstraat,,9712 TX
+5509,TILBURG,Banningstraat,,5025 TT
+5510,AMSTERDAM,S. F. van Ossstraat,,1068 JP
+5511,ROTTERDAM,Dunantstraat,,3024 BA
+5512,NIJMEGEN,Molenstraat,,6511 HN
+5513,AMSTERDAM,Eemsstraat,,1079 TH
+5514,AMSTERDAM,Carnapstraat,,1062 KZ
+5515,ROTTERDAM,Noorderhavenkade,,3039 RE
+5516,UTRECHT,Pippelingstraat,,3552 VK
+5517,TILBURG,Transvaalstraat,,5021 TH
+5518,ROTTERDAM,Polslandstraat,,3081 TT
+5519,GRONINGEN,Akerkhof,,9711 JB
+5520,ROTTERDAM,Jacques Dutilhweg,,3065 HJ
+5521,AMSTERDAM,Van Speijkstraat,,1057 GW
+5522,GRONINGEN,Herestraat,,9711 LD
+5523,UTRECHT,Tiendstraat,,3513 EB
+5524,EINDHOVEN,Poeijersstraat,,5642 GE
+5525,ROTTERDAM,Beukelsweg,,3022 GA
+5526,EINDHOVEN,Jan van Riebeecklaan,,5642 MB
+5527,GRONINGEN,Korreweg,,9714 AD
+5528,ROTTERDAM,Strevelsweg,,3073 DT
+5529,AMSTERDAM,Molukkenstraat,,1095 AV
+5530,AMSTERDAM,Kinkerstraat,,1053 DD
+5531,NIJMEGEN,Molenweg,,6542 PW
+5532,NIJMEGEN,Sandenburgstraat,,6535 PP
+5533,UTRECHT,Prins Hendriklaan,,3583 EP
+5534,AMSTERDAM,Mosplein,,1031 AA
+5535,DEN HAAG,Pijnboomstraat,,2565 ZR
+5536,AMSTERDAM,Van Nijenrodeweg,,1083 EE
+5537,AMSTERDAM,Borgerstraat,,1053 PL
+5538,TILBURG,Fabriekstraat,,5038 EM
+5539,GRONINGEN,Populierenlaan,,9741 HE
+5540,AMSTERDAM,Alkmaarstraat,,1024 TP
+5541,DEN HAAG,Koningin Emmakade,,2518 RK
+5542,ROTTERDAM,Oudedijk,,3061 AM
+5543,AMSTERDAM,Desselstraat,,1066 LT
+5544,EINDHOVEN,Primulastraat,,5644 LJ
+5545,AMSTERDAM,Ten Katestraat,,1053 CG
+5546,UTRECHT,Willem van Abcoudeplein,,3515 BX
+5547,DEN HAAG,Schaarsbergenstraat,,2573 BS
+5548,AMSTERDAM,Jan Smitstraat,,1069 SZ
+5549,LEIDEN,Boerhaavelaan,,2334 EP
+5550,NIJMEGEN,van Goorstraat,,6512 EC
+5551,AMSTERDAM,Roelof Hartplein,,1071 TR
+5552,UTRECHT,Orinocodreef,,3563 ST
+5553,LEIDEN,Diefsteeg,,2311 TS
+5554,AMSTERDAM,Oudezijds Voorburgwal,,1012 EX
+5555,AMSTERDAM,Tweede Boerhaavestraat,,1091 AN
+5556,GRONINGEN,Kraneweg,,9718 JL
+5557,GRONINGEN,Paterswoldseweg,,9727 BR
+5558,GRONINGEN,Peizerweg,,9727 AP
+5559,GRONINGEN,Winschoterdiep,,9724 GP
+5560,UTRECHT,Van Alphenstraat,,3581 JC
+5561,GRONINGEN,Travertijnstraat,,9743 SZ
+5562,GRONINGEN,W.A. Scholtenstraat,,9711 XA
+5563,TILBURG,Telegraafstraat,,5038 BL
+5564,ROTTERDAM,Rusthoflaan,,3034 XP
+5565,DEN HAAG,Marcelisstraat,,2586 RT
+5566,TILBURG,Poststraat,,5038 DG
+5567,NIJMEGEN,Marialaan,,6541 RR
+5568,AMSTERDAM,Burgemeester Van Leeuwenlaan,,1063 NR
+5569,AMSTERDAM,Bezaanjachtplein,,1034 CR
+5570,LEIDEN,Joseph Haydnlaan,,2324 AS
+5571,AMSTERDAM,Geerdinkhof,,1103 PT
+5572,ROTTERDAM,Snellinckstraat,,3021 WB
+5573,ROTTERDAM,Haspelsstraat,,3025 PA
+5574,GRONINGEN,Spaanse Aakstraat,,9741 CW
+5575,GRONINGEN,Jaltadaheerd,,9737 HP
+5576,LEIDEN,Sieboldstraat,,2315 HN
+5577,GRONINGEN,Verlengde Hereweg,,9721 AC
+5578,AMSTERDAM,Oldenaller,,1081 HK
+5579,GRONINGEN,Waterloolaan,,9725 BE
+5580,DEN HAAG,Goeverneurlaan,,2523 CG
+5581,ROTTERDAM,Schieweg,,3038 AJ
+5582,UTRECHT,Eikstraat,,3581 XK
+5583,UTRECHT,Bantamstraat,,3531 RT
+5584,UTRECHT,Amsterdamsestraatweg,,3553 EN
+5585,AMSTERDAM,Marinierskade,,1018 HZ
+5586,ROTTERDAM,Admiraliteitskade,,3063 ED
+5587,UTRECHT,1e Daalsedijk,,3513 TJ
+5588,NIJMEGEN,Scholeksterstraat,,6541 LA
+5589,EINDHOVEN,Keizersgracht,,5611 GC
+5590,GRONINGEN,Schuitendiep,,9712 KE
+5591,TILBURG,Kasteeldreef,,5046 CR
+5592,GRONINGEN,West-Indischekade,,9715 TD
+5593,AMSTERDAM,Tweede Rozendwarsstraat,,1016 PE
+5594,UTRECHT,Johannes Camphuysstraat,,3531 SJ
+5595,EINDHOVEN,Dr Cuyperslaan,,5623 BB
+5596,LEIDEN,Haarlemmerstraat,,2312 DK
+5597,LEIDEN,Langebrug,,2311 TL
+5598,LEIDEN,Sint Jorissteeg,,2311 JA
+5599,LEIDEN,Vrouwenweg,,2322 LM
+5600,LEIDEN,Volmolengracht,,2312 PG
+5601,LEIDEN,Hoge Rijndijk,,2313 KL
+5602,LEIDEN,Zuidsingel,,2312 SC
+5603,UTRECHT,Ridderschapstraat,,3512 CP
+5604,EINDHOVEN,Tongelresestraat,,5642 NH
+5605,NIJMEGEN,Berg en Dalseweg,,6522 BN
+5606,EINDHOVEN,Jeroen Boschlaan,,5642 AR
+5607,AMSTERDAM,Jacob Catskade,,1052 BX
+5608,UTRECHT,Ina Boudier-Bakkerlaan,,3582 VA
+5609,DEN HAAG,Usselincxstraat,,2593 VK
+5610,UTRECHT,Arnodreef,,3561 GJ
+5611,ROTTERDAM,Beukelsweg,,3022 GJ
+5612,ROTTERDAM,Statenweg,,3039 JN
+5613,AMSTERDAM,Hoofdweg,,1056 DB
+5614,AMSTERDAM,Stadhouderskade,,1073 AT
+5615,ROTTERDAM,Dorpsweg,,3082 LL
+5616,DEN HAAG,Fijnjekade,,2521 CR
+5617,UTRECHT,Oudegracht,,3511 AB
+5618,AMSTERDAM,John Franklinstraat,,1056 SW
+5619,GRONINGEN,Driemolendrift,,9711 BW
+5620,ROTTERDAM,Hooidrift,,3023 KH
+5621,AMSTERDAM,Erich Salomonstraat,,1087 AW
+5622,AMSTERDAM,Vrolikstraat,,1091 VG
+5623,GRONINGEN,Robijnstraat,,9743 KP
+5624,UTRECHT,Beerzestraat,,3522 XA
+5625,UTRECHT,Croeselaan,,3521 BT
+5626,AMSTERDAM,Bataviastraat,,1095 ER
+5627,GRONINGEN,Illegaliteitslaan,,9727 ED
+5628,EINDHOVEN,Seringenstraat,,5644 PK
+5629,AMSTERDAM,De Wittenkade,,1051 AC
+5630,NIJMEGEN,Augustijnenstraat,,6511 KD
+5631,GRONINGEN,Heinsiusstraat,,9716 AV
+5632,UTRECHT,Draaiweg,,3515 EK
+5633,GRONINGEN,Moesstraat,,9741 AD
+5634,UTRECHT,Gildstraat,,3572 EL
+5635,GRONINGEN,Anna Paulownastraat,,9725 JP
+5636,UTRECHT,Ambachtstraat,,3512 ER
+5637,AMSTERDAM,H. Cleyndertweg,,1025 DX
+5638,TILBURG,Ringbaan-Noord,,5046 AE
+5639,TILBURG,Sint Annastraat,,5025 KB
+5640,TILBURG,Molenstraat,,5014 NC
+5641,DEN HAAG,2e Schuytstraat,,2517 TS
+5642,EINDHOVEN,Genovevalaan,,5625 AP
+5643,UTRECHT,Falklanddreef,,3563 AC
+5644,AMSTERDAM,Hoogoord,,1102 CC
+5645,EINDHOVEN,Berliozlaan,,5654 SM
+5646,AMSTERDAM,Campanulastraat,,1032 XR
+5647,UTRECHT,Alexander de Grotelaan,,3526 RK
+5648,AMSTERDAM,Ferdinand Bolstraat,,1072 LK
+5649,ROTTERDAM,Spanjaardstraat,,3025 TN
