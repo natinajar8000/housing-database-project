@@ -26,7 +26,7 @@ TYPES = {"Room": "room", "Studio": "studio", "Apartment": "apartment",
          "Anti-squat": "anti-kraak", "Student residence": "room"}
 
 
-#huertoeslag approximation 
+#subsidy approximation since we dont have real data on that  
 LIBERALISATION_LIMIT_2019 = 720.42
 ID_OFFSET = 1000  # keeps away from our mock data 
 
@@ -65,7 +65,7 @@ def build_tables(df, students):
         zip_code=df.postalCode.str.replace(r"^(\d{4})([A-Z]{2})$", r"\1 \2", regex=True),
     )
 
-    # Address: one row per street + zip; Kamernet never publishes house numbers
+    # Address 
     address = df[["city_code", "street", "zip_code"]].drop_duplicates().reset_index(drop=True)
     address.insert(0, "address_id", address.index + 1 + ID_OFFSET)
     address["house_number"] = pd.NA
@@ -73,7 +73,7 @@ def build_tables(df, students):
 
     accommodation = pd.DataFrame({
         "accommodation_id": range(1 + ID_OFFSET, len(df) + 1 + ID_OFFSET),
-        "landlord_id": pd.NA,  # private landlords' names are personal data: not imported
+        "landlord_id": pd.NA,  # private landlords no data available 
         "agency_id": pd.NA,
         "address_id": df.address_id.values,
         "subsidy_possible": [
