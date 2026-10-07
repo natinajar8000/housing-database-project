@@ -27,6 +27,7 @@ TYPES = {"Room": "room", "Studio": "studio", "Apartment": "apartment",
 
 
 #subsidy approximation since we dont have real data on that  
+
 LIBERALISATION_LIMIT_2019 = 720.42
 ID_OFFSET = 1000  # keeps away from our mock data 
 
