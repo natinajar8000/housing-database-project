@@ -90,7 +90,7 @@ C) AI genarated data for students, landlords, contracts and agiencies since we d
 
 ## Authors
 The authors of this database are:
-- Natalia Jarmakowska (natinajar8000)
-- Hanna Serafin (h-a-n-i-a)
-- Andrei Hoptiar (AndreiHoptiar)
-- Kolja Nitschke (kolja079)
+- natinajar8000
+- h-a-n-i-a
+- AndreiHoptiar
+- kolja079
