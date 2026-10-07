@@ -112,7 +112,7 @@ CREATE TABLE Contract(
     cancellation_time DATE,
     deposit SMALLINT(5) UNSIGNED, -- can have a tag if its illegal
     CHECK (min_duration > 0),
-    CHECK (max_duration >= max_duration) 
+    CHECK (max_duration >= min_duration),
 
     FOREIGN KEY (student_id)
         REFERENCES Student(student_id),
